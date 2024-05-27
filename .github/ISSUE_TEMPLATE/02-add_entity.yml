@@ -1,0 +1,196 @@
+name: ⭐️ Add Event
+description: Add a new event.
+title: 'Add Event: <Name>'
+labels: ["add event"]
+
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Before getting started, make sure you have checked the list and that the event does not exist.
+        If you want to update an existing event, use "Update Event".
+
+        Only **Region**, **ID**, **Name**, **City**, **Province**, **Date Starts/Ends** fields are required.
+        All other fields are optional, but would be better if you provide them.
+
+  - type: dropdown
+    id: region
+    attributes:
+      label: Region
+      description: |
+        The i18n locale identifier used to group your event.
+        Please choose the appropriate one according to your country or region.
+        If you cannot find the corresponding one, use "Add Region" or email directly to dev+swing@kjuly.com.
+      multiple: false
+      options:
+        - ko_KR (South Korean)
+        - th_TH (Thailand)
+        - zh_CN (China)
+        - zh_HK (Hong Kong)
+        - zh_TW (Taiwan)
+    validations:
+      required: true
+
+  - type: input
+    id: org_id
+    attributes:
+      label: Org ID
+      description: ID of the host organization/community.
+      placeholder: e.g., x-studio
+    validations:
+      required: false
+
+  - type: input
+    id: id
+    attributes:
+      label: Event ID
+      description: |
+        For example, if the English name of your event is Swingtime Ball,
+        use swingtime-ball or stb as the ID.
+      placeholder: e.g., swingtime-ball or stb
+    validations:
+      required: true
+
+  - type: input
+    id: abb
+    attributes:
+      label: Name Abbreviate
+      placeholder: e.g., STB
+    validations:
+      required: false
+
+  - type: input
+    id: name
+    attributes:
+      label: Name
+      placeholder: e.g., Swingtime Ball
+    validations:
+      required: true
+
+  - type: input
+    id: name_local
+    attributes:
+      label: Local Name
+      placeholder: e.g., Swingtime Ball
+
+  - type: input
+    id: session
+    attributes:
+      label: Session
+      placeholder: e.g., 3
+
+  - type: input
+    id: date_starts
+    attributes:
+      label: Date Starts
+      placeholder: e.g., 2023-10-03
+    validations:
+      required: true
+
+  - type: input
+    id: date_ends
+    attributes:
+      label: Date Ends
+      placeholder: e.g., 2023-10-05
+    validations:
+      required: true
+
+  - type: checkboxes
+    id: styles
+    attributes:
+      label: What dance styles are included?
+      description: You may select more than one.
+      options:
+        - label: Lindy Hop
+        - label: Balboa
+        - label: Blues
+
+  - type: input
+    id: city
+    attributes:
+      label: City
+      placeholder: e.g., Beijing
+    validations:
+      required: true
+
+  - type: input
+    id: province
+    attributes:
+      label: Province or State
+      description: Use the same City value if none is available.
+      placeholder: e.g., Beijing
+    validations:
+      required: true
+
+  - type: textarea
+    id: venue
+    attributes:
+      label: Venue
+      description: The address of the studio or ballroom.
+      placeholder: |
+        e.g. 
+        B203, Zhuzong Building, No.25, East Third Ring Road, Beijing.
+        北京市东三环中路25号住总大厦 B203。
+
+  - type: textarea
+    id: details
+    attributes:
+      label: Details
+      placeholder: You can add event details here, or any other instructions or tips for dancers.
+
+  - type: input
+    id: email
+    attributes:
+      label: Email
+      placeholder: e.g., abc@eample.com
+
+  - type: input
+    id: website
+    attributes:
+      label: Website or Homepage
+      placeholder: e.g., https://example.com
+
+  - type: markdown
+    attributes:
+      value: |
+        Here are some optional fields for social network accounts that may be
+        helpful in letting others know more about your eventanization/community.
+        
+        Please add the **User ID Only**, not the full URL link.
+        For example, if the full URL is https://www.instagram.com/abc, add abc.
+  
+  - type: input
+    id: fb
+    attributes:
+      label: Facebook
+      placeholder: e.g., abc
+
+  - type: input
+    id: ig
+    attributes:
+      label: Instagram
+      placeholder: e.g., abc
+
+  - type: input
+    id: yt
+    attributes:
+      label: YouTube
+      placeholder: e.g., abc
+
+  - type: input
+    id: wo
+    attributes:
+      label: WeChat Official Account
+      placeholder: e.g., abc
+
+  - type: input
+    id: bl
+    attributes:
+      label: Bilibili
+      placeholder: e.g., abc
+
+  - type: input
+    id: rb
+    attributes:
+      label: Xiaohongshu
+      placeholder: e.g., abc
