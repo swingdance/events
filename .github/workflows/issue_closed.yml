@@ -1,0 +1,16 @@
+name: Check Closed Issue
+
+on:
+  issues:
+    types: [closed]
+
+jobs:
+  check-closed-issue-to-close-pr:
+    if: contains(github.event.issue.labels.*.name, 'add event') || contains(github.event.issue.labels.*.name, 'update event')
+    runs-on: ubuntu-latest
+    steps:
+      - name: Close PR from Issue
+        uses: swingdance/close-pr-from-issue@main
+        with:
+          token: "${{ secrets.GH_TOKEN }}"
+    

@@ -1,0 +1,26 @@
+name: Check Opened Issue
+
+on:
+  issues:
+    types: [opened, reopened]
+
+jobs:
+  check-opened-issue-to-add-event:
+    if: contains(github.event.issue.labels.*.name, 'add event')
+    uses: swingdance/entity-ci/.github/workflows/create_pr_to_add_entity.yml@main
+    with:
+      type: event
+      template_filename: 02-add_entity.yml
+      reusable_workflow_repo: swingdance/entity-ci
+    secrets:
+      token: "${{ secrets.GH_TOKEN }}"
+
+  check-opened-issue-to-update-event:
+    if: contains(github.event.issue.labels.*.name, 'update event')
+    uses: swingdance/entity-ci/.github/workflows/create_pr_to_update_entity.yml@main
+    with:
+      type: event
+      template_filename: 03-update_entity.yml
+      reusable_workflow_repo: swingdance/entity-ci
+    secrets:
+      token: "${{ secrets.GH_TOKEN }}"
