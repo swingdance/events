@@ -1,10 +1,15 @@
 {
   "id": "nanjing-lindy-festival",
-  "org_id": "lai-si-swing",
+  "org_id": "laisi-swing-studio",
+  "abb": "NLF",
   "name": "Nanjing Lindy Festival",
   "name_local": "爵对莱斯 • 南京林迪节",
   "date_starts": "2024-05-31",
   "date_ends": "2024-06-02",
   "city": "Nanjing",
-  "province": "Jiangsu"
+  "province": "Jiangsu",
+  "venue": "南京市安德门大街57号楚翘城\r\n1701 Live House Max",
+  "email": "nanjinglindyfestival@gmail.com",
+  "website": "https://www.nanjinglindyfestival.com",
+  "wo": "爵对莱斯南京摇摆舞"
 }
