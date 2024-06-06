@@ -24,6 +24,7 @@ body:
       multiple: false
       options:
         - ko_KR (South Korean)
+        - sv_SE (Sweden)
         - th_TH (Thailand)
         - zh_CN (China)
         - zh_HK (Hong Kong)
