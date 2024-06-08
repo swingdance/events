@@ -1,6 +1,6 @@
 name: 💫 Update Event
 description: Update an existing event.
-title: 'Update Event: <Name>'
+title: 'Update Event: <Region> • <Name>'
 labels: ["update event"]
 
 body:
