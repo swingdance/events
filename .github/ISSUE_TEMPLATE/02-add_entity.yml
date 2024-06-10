@@ -13,22 +13,16 @@ body:
         Only **Region**, **ID**, **Name**, **City**, **Province**, **Date Starts/Ends** fields are required.
         All other fields are optional, but would be better if you provide them.
 
-  - type: dropdown
+  - type: input
     id: region
     attributes:
       label: Region
       description: |
         The i18n locale identifier used to group your event.
         Please choose the appropriate one according to your country or region.
-        If you cannot find the corresponding one, use "Add Region" or email directly to dev+swing@kjuly.com.
-      multiple: false
-      options:
-        - ko_KR (South Korean)
-        - sv_SE (Sweden)
-        - th_TH (Thailand)
-        - zh_CN (China)
-        - zh_HK (Hong Kong)
-        - zh_TW (Taiwan)
+        * [Currently Available Regions](https://swing.news/submit)
+        * If you cannot find the corresponding one, use "Add Region" or email directly to dev+swing@kjuly.com.
+      placeholder: e.g., zh_CN
     validations:
       required: true
 
