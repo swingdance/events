@@ -4,3 +4,6 @@
 *.sw[po]
 .*.sw[po]
 
+# Temp
+_tmp
+
