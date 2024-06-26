@@ -10,7 +10,7 @@ body:
         Before getting started, make sure you have checked the list and that the event does not exist.
         If you want to update an existing event, use "Update Event".
 
-        Only **Region**, **ID**, **Name**, **City**, **Province**, **Date Starts/Ends** fields are required.
+        Only **Region**, **Name**, **City**, **Province**, **Date Starts/Ends** fields are required.
         All other fields are optional, but would be better if you provide them.
 
   - type: input
@@ -34,17 +34,6 @@ body:
       placeholder: e.g., x-studio
     validations:
       required: false
-
-  - type: input
-    id: id
-    attributes:
-      label: Event ID
-      description: |
-        For example, if the English name of your event is Swingtime Ball,
-        use swingtime-ball or stb as the ID.
-      placeholder: e.g., swingtime-ball or stb
-    validations:
-      required: true
 
   - type: input
     id: abb
