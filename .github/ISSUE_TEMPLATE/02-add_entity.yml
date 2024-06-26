@@ -67,7 +67,8 @@ body:
     id: date_starts
     attributes:
       label: Date Starts
-      placeholder: e.g., 2023-10-03
+      description: e.g., 2024-01-01
+      placeholder: YYYY-MM-DD
     validations:
       required: true
 
@@ -75,7 +76,8 @@ body:
     id: date_ends
     attributes:
       label: Date Ends
-      placeholder: e.g., 2023-10-05
+      description: e.g., 2024-01-03
+      placeholder: YYYY-MM-DD
     validations:
       required: true
 
