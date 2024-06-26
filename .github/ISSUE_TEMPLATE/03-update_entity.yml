@@ -83,24 +83,18 @@ body:
       label: Org ID
       description: ID of the host organization/community.
       placeholder: e.g., x-studio
-    validations:
-      required: false
 
   - type: input
     id: abb
     attributes:
       label: Name Abbreviate
       placeholder: e.g., STB
-    validations:
-      required: false
 
   - type: input
     id: name
     attributes:
       label: Name
       placeholder: e.g., Swingtime Ball
-    validations:
-      required: true
 
   - type: input
     id: name_local
@@ -120,8 +114,6 @@ body:
       label: Date Starts
       description: e.g., 2024-01-01
       placeholder: YYYY-MM-DD
-    validations:
-      required: true
 
   - type: input
     id: date_ends
@@ -129,8 +121,6 @@ body:
       label: Date Ends
       description: e.g., 2024-01-03
       placeholder: YYYY-MM-DD
-    validations:
-      required: true
 
   - type: checkboxes
     id: styles
@@ -147,8 +137,6 @@ body:
     attributes:
       label: City
       placeholder: e.g., Beijing
-    validations:
-      required: true
 
   - type: input
     id: province
@@ -156,8 +144,6 @@ body:
       label: Province or State
       description: Use the same City value if none is available.
       placeholder: e.g., Beijing
-    validations:
-      required: true
 
   - type: textarea
     id: venue
