@@ -20,7 +20,7 @@ body:
       description: |
         The i18n locale identifier used to group your event.
         Please choose the appropriate one according to your country or region.
-        * [Currently Available Regions](https://swing.news/submit)
+        * [Currently Collected Regions](https://swing.news/submit)
         * If you cannot find the corresponding one, use "Add Region" or email directly to dev+swing@kjuly.com.
       placeholder: e.g., zh_CN
     validations:

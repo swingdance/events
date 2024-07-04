@@ -25,7 +25,7 @@ body:
       description: |
         The i18n locale identifier used to group your event.
         Please choose the appropriate one according to your country or region.
-        * [Currently Available Regions](https://swing.news/submit)
+        * [Currently Collected Regions](https://swing.news/submit)
         * If you cannot find the corresponding one, use "Add Region" or email directly to dev+swing@kjuly.com.
       placeholder: e.g., zh_CN
     validations:
@@ -36,12 +36,11 @@ body:
     attributes:
       label: Event ID
       description: |
-        For example, if the English name of your event is Swingtime Ball,
-        use swingtime-ball or stb as the ID.
-
         You can find the full list of existing event id at `https://github.com/swingdance/events/tree/main/<year>/<region_code>`.
         e.g., [https://github.com/swingdance/events/tree/main/2024/zh_CN](https://github.com/swingdance/events/tree/main/2024/zh_CN)
-      placeholder: e.g., swingtime-ball or stb
+
+        Or visit https://swing.news and use the edit button on the event details page.
+      placeholder: e.g., swingtime-ball-2024
     validations:
       required: true
 
@@ -51,31 +50,9 @@ body:
     attributes:
       value: |
         ## Details to Update
-  - type: checkboxes
-    id: modified_fields
-    attributes:
-      label: Please select the checkboxes before the fields you want to update and then provide content below.
-      options:
-        - label: org_id
-        - label: abb
-        - label: name
-        - label: name_local
-        - label: session
-        - label: date_starts
-        - label: date_ends
-        - label: styles
-        - label: city
-        - label: province
-        - label: venue
-        - label: details
-        - label: email
-        - label: website
-        - label: ig (Instagram)
-        - label: fb (Facebook)
-        - label: yt (YouTube)
-        - label: wo (WeChat Official Account)
-        - label: bl (Bilibili)
-        - label: rb (Xiaohongshu)
+
+        - Simply type in the fields you wish to update;
+        - If you want to clear a field, enter an "x" to mark it for deletion.
 
   - type: input
     id: org_id
@@ -128,6 +105,7 @@ body:
       label: What dance styles are included?
       description: You may select more than one.
       options:
+        - label: UPDATE
         - label: Lindy Hop
         - label: Balboa
         - label: Blues
@@ -149,7 +127,9 @@ body:
     id: venue
     attributes:
       label: Venue
-      description: The address of the studio or ballroom.
+      description: |
+        The address of the studio or ballroom.
+        * Leave blank to keep the original content.
       placeholder: |
         e.g. 
         B203, Zhuzong Building, No.25, East Third Ring Road, Beijing.
@@ -159,6 +139,8 @@ body:
     id: details
     attributes:
       label: Details
+      description: |
+        * Leave blank to keep the original content.
       placeholder: You can add event details here, or any other instructions or tips for dancers.
 
   - type: input
