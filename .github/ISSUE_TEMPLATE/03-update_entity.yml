@@ -1,6 +1,6 @@
 name: 💫 Update Event
 description: Update an existing event.
-title: 'Update Event: <Region> • <Name>'
+title: 'Update Event: <Name>'
 labels: ["update event"]
 
 body:
@@ -99,29 +99,31 @@ body:
       description: e.g., 2024-01-03
       placeholder: YYYY-MM-DD
 
-  - type: checkboxes
-    id: styles
-    attributes:
-      label: What dance styles are included?
-      description: You may select more than one.
-      options:
-        - label: UPDATE
-        - label: Lindy Hop
-        - label: Balboa
-        - label: Blues
-
   - type: input
     id: city
     attributes:
       label: City
-      placeholder: e.g., Beijing
+      placeholder: e.g., Xiamen
 
   - type: input
     id: province
     attributes:
       label: Province or State
-      description: Use the same City value if none is available.
-      placeholder: e.g., Beijing
+      placeholder: e.g., Fujian
+  
+  - type: dropdown
+    id: styles
+    attributes:
+      label: Specific dance style
+      multiple: false
+      default: 0
+      options:
+        - SAME
+        - ANY
+        - Balboa
+        - Blues
+        - Boogie Woogie
+        - Shag
 
   - type: textarea
     id: venue

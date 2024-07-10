@@ -1,6 +1,6 @@
 name: ⭐️ Add Event
 description: Add a new event.
-title: 'Add Event: <Region> • <Name>'
+title: 'Add Event: <Name>'
 labels: ["add event"]
 
 body:
@@ -81,21 +81,11 @@ body:
     validations:
       required: true
 
-  - type: checkboxes
-    id: styles
-    attributes:
-      label: What dance styles are included?
-      description: You may select more than one.
-      options:
-        - label: Lindy Hop
-        - label: Balboa
-        - label: Blues
-
   - type: input
     id: city
     attributes:
       label: City
-      placeholder: e.g., Beijing
+      placeholder: e.g., Xiamen
     validations:
       required: true
 
@@ -103,10 +93,21 @@ body:
     id: province
     attributes:
       label: Province or State
-      description: Use the same City value if none is available.
-      placeholder: e.g., Beijing
-    validations:
-      required: true
+      description: Leave it blank or use the same City value if none is available.
+      placeholder: e.g., Fujian
+
+  - type: dropdown
+    id: styles
+    attributes:
+      label: Specific dance style
+      multiple: false
+      default: 0
+      options:
+        - ANY
+        - Balboa
+        - Blues
+        - Boogie Woogie
+        - Shag
 
   - type: textarea
     id: venue
