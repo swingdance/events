@@ -1,6 +1,6 @@
 name: ⭐️ Add Event
 description: Add a new event.
-title: 'Add Event: <Name>'
+title: '<Event Name>'
 labels: ["add event"]
 
 body:
