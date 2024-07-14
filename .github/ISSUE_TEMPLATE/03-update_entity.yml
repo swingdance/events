@@ -11,14 +11,6 @@ body:
         If you cannot find the corresponding one, email directly to dev+swing@kjuly.com.
 
   - type: input
-    id: year
-    attributes:
-      label: Year
-      placeholder: e.g., 2024
-    validations:
-      required: true
-
-  - type: input
     id: region
     attributes:
       label: Region
