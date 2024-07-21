@@ -13,13 +13,13 @@ body:
   - type: input
     id: region
     attributes:
-      label: Region
+      label: Region Code
       description: |
-        The i18n locale identifier used to group your event.
+        The region code used to group your event.
         Please choose the appropriate one according to your country or region.
         * [Currently Collected Regions](https://swing.news/submit)
         * If you cannot find the corresponding one, use "Add Region" or email directly to dev+swing@kjuly.com.
-      placeholder: e.g., zh_CN
+      placeholder: e.g., cn
     validations:
       required: true
 
@@ -29,7 +29,7 @@ body:
       label: Event ID
       description: |
         You can find the full list of existing event id at `https://github.com/swingdance/events/tree/main/<year>/<region_code>`.
-        e.g., [https://github.com/swingdance/events/tree/main/2024/zh_CN](https://github.com/swingdance/events/tree/main/2024/zh_CN)
+        e.g., [https://github.com/swingdance/events/tree/main/2024/cn](https://github.com/swingdance/events/tree/main/2024/cn)
 
         Or visit https://swing.news and use the edit button on the event details page.
       placeholder: e.g., swingtime-ball-2024

@@ -10,19 +10,19 @@ body:
         Before getting started, make sure you have checked the list and that the event does not exist.
         If you want to update an existing event, use "Update Event".
 
-        Only **Region**, **Name**, **City**, **Province**, **Date Starts/Ends** fields are required.
+        Only **Region**, **Name**, **City**, **Date Starts/Ends** fields are required.
         All other fields are optional, but would be better if you provide them.
 
   - type: input
     id: region
     attributes:
-      label: Region
+      label: Region Code
       description: |
-        The i18n locale identifier used to group your event.
+        The region code used to group your event.
         Please choose the appropriate one according to your country or region.
         * [Currently Collected Regions](https://swing.news/submit)
         * If you cannot find the corresponding one, use "Add Region" or email directly to dev+swing@kjuly.com.
-      placeholder: e.g., zh_CN
+      placeholder: e.g., cn
     validations:
       required: true
 
