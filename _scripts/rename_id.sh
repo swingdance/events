@@ -21,6 +21,7 @@ while read -r a_year_folder; do
       rm "$an_evnet_json_file"
     done < <(find "$a_region_folder" -name "*.json" -type f)
     
-  done < <(find "$a_year_folder" -mindepth 1 -maxdepth 1 -type d -regex "^.*_.*" | sort)
+  done < <(find "$a_year_folder" -mindepth 1 -maxdepth 1 -type d -name "??" | sort)
+  # done < <(find "$a_year_folder" -mindepth 1 -maxdepth 1 -type d -regex "^.*_.*" | sort)
 
 done < <(find "." -mindepth 1 -maxdepth 1 -type d -regex ".*/[0-9].*" | sort)
