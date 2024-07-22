@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:swing-news_default_de_augsburg-balboa-festival-2024
+DTSTART;VALUE=DATE:20240920
+DTEND;VALUE=DATE:20240923
+SUMMARY:Augsburg Balboa Festival
+URL:https://swing.news/de/augsburg-balboa-festival-2024
+LOCATION:Augsburg
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:swing-news_zh-Hans_lu_swing-the-abbey-2024
+DTSTART;VALUE=DATE:20240927
+DTEND;VALUE=DATE:20240930
+SUMMARY:Swing the Abbey
+URL:https://swing.news/zh-Hans/lu/swing-the-abbey-2024
+LOCATION:卢森堡市
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:swing-news_default_us_swing-out-new-hampshire-2024
+DTSTART;VALUE=DATE:20240821
+DTEND;VALUE=DATE:20240825
+SUMMARY:Swing Out New Hampshire
+URL:https://swing.news/us/swing-out-new-hampshire-2024
+LOCATION:Hebron
+END:VEVENT
+END:VCALENDAR

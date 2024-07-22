@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:swing-news_zh-Hans_es_swim-out-costa-brava-2024
+DTSTART;VALUE=DATE:20240905
+DTEND;VALUE=DATE:20240909
+SUMMARY:Swim Out Costa Brava
+URL:https://swing.news/zh-Hans/es/swim-out-costa-brava-2024
+LOCATION:雅弗郎其
+END:VEVENT
+END:VCALENDAR

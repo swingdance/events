@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:swing-news_zh-Hans_de_velo-swing-festival-2024
+DTSTART;VALUE=DATE:20240815
+DTEND;VALUE=DATE:20240819
+SUMMARY:Velo-Swing Festival
+URL:https://swing.news/zh-Hans/de/velo-swing-festival-2024
+LOCATION:萨尔布吕肯
+END:VEVENT
+END:VCALENDAR

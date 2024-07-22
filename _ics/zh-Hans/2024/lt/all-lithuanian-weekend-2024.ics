@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:swing-news_zh-Hans_lt_all-lithuanian-weekend-2024
+DTSTART;VALUE=DATE:20241011
+DTEND;VALUE=DATE:20241014
+SUMMARY:All Lithuanian Weekend
+URL:https://swing.news/zh-Hans/lt/all-lithuanian-weekend-2024
+LOCATION:维尔纽斯
+END:VEVENT
+END:VCALENDAR

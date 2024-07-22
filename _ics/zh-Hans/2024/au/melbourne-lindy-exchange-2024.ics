@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:swing-news_zh-Hans_au_melbourne-lindy-exchange-2024
+DTSTART;VALUE=DATE:20241121
+DTEND;VALUE=DATE:20241125
+SUMMARY:Melbourne Lindy Exchange
+URL:https://swing.news/zh-Hans/au/melbourne-lindy-exchange-2024
+LOCATION:墨尔本
+END:VEVENT
+END:VCALENDAR

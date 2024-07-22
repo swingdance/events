@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:swing-news_default_uk_fast-feet-festival-2024
+DTSTART;VALUE=DATE:20240921
+DTEND;VALUE=DATE:20240923
+SUMMARY:Fast Feet Festival
+URL:https://swing.news/uk/fast-feet-festival-2024
+LOCATION:Oxford
+END:VEVENT
+END:VCALENDAR

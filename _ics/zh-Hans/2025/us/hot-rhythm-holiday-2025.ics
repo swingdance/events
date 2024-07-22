@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:swing-news_zh-Hans_us_hot-rhythm-holiday-2025
+DTSTART;VALUE=DATE:20250214
+DTEND;VALUE=DATE:20250217
+SUMMARY:[HRH 2025] Hot Rhythm Holiday
+URL:https://swing.news/zh-Hans/us/hot-rhythm-holiday-2025
+LOCATION:奥斯汀
+END:VEVENT
+END:VCALENDAR

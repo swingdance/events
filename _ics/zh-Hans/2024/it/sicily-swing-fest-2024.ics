@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:swing-news_zh-Hans_it_sicily-swing-fest-2024
+DTSTART;VALUE=DATE:20240912
+DTEND;VALUE=DATE:20240916
+SUMMARY:Sicily Swing Fest
+URL:https://swing.news/zh-Hans/it/sicily-swing-fest-2024
+LOCATION:卡塔尼亚
+END:VEVENT
+END:VCALENDAR

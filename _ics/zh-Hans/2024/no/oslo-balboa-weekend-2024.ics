@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:swing-news_zh-Hans_no_oslo-balboa-weekend-2024
+DTSTART;VALUE=DATE:20241004
+DTEND;VALUE=DATE:20241007
+SUMMARY:Oslo Balboa Weekend
+URL:https://swing.news/zh-Hans/no/oslo-balboa-weekend-2024
+LOCATION:奥斯陆
+END:VEVENT
+END:VCALENDAR

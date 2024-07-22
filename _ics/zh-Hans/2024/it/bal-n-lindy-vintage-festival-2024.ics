@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:swing-news_zh-Hans_it_bal-n-lindy-vintage-festival-2024
+DTSTART;VALUE=DATE:20240814
+DTEND;VALUE=DATE:20240819
+SUMMARY:Bal & Lindy Vintage Festival
+URL:https://swing.news/zh-Hans/it/bal-n-lindy-vintage-festival-2024
+LOCATION:菲奥伦蒂诺堡
+END:VEVENT
+END:VCALENDAR

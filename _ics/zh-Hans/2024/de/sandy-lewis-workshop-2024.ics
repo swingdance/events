@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:swing-news_zh-Hans_de_sandy-lewis-workshop-2024
+DTSTART;VALUE=DATE:20241206
+DTEND;VALUE=DATE:20241209
+SUMMARY:Sandy Lewis Workshop
+URL:https://swing.news/zh-Hans/de/sandy-lewis-workshop-2024
+LOCATION:达姆施塔特
+END:VEVENT
+END:VCALENDAR

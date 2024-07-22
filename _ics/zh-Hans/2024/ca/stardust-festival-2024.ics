@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:swing-news_zh-Hans_ca_stardust-festival-2024
+DTSTART;VALUE=DATE:20240719
+DTEND;VALUE=DATE:20240722
+SUMMARY:Stardust Festival
+URL:https://swing.news/zh-Hans/ca/stardust-festival-2024
+LOCATION:埃德蒙顿
+END:VEVENT
+END:VCALENDAR

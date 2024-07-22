@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:swing-news_zh-Hans_cn_funs-swing-exchange-2024
+DTSTART;VALUE=DATE:20240705
+DTEND;VALUE=DATE:20240708
+SUMMARY:Funs Swing Exchange
+URL:https://swing.news/zh-Hans/cn/funs-swing-exchange-2024
+LOCATION:长沙
+END:VEVENT
+END:VCALENDAR

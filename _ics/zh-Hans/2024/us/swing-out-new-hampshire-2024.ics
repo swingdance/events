@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:swing-news_zh-Hans_us_swing-out-new-hampshire-2024
+DTSTART;VALUE=DATE:20240821
+DTEND;VALUE=DATE:20240825
+SUMMARY:Swing Out New Hampshire
+URL:https://swing.news/zh-Hans/us/swing-out-new-hampshire-2024
+LOCATION:希伯伦
+END:VEVENT
+END:VCALENDAR

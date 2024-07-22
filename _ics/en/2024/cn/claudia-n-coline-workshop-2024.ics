@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:swing-news_default_cn_claudia-n-coline-workshop-2024
+DTSTART;VALUE=DATE:20240906
+DTEND;VALUE=DATE:20240910
+SUMMARY:Claudia & Coline Workshop • C&C 大师工作坊
+URL:https://swing.news/cn/claudia-n-coline-workshop-2024
+LOCATION:Beijing
+END:VEVENT
+END:VCALENDAR

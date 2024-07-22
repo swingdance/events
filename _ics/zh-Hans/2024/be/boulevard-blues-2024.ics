@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:swing-news_zh-Hans_be_boulevard-blues-2024
+DTSTART;VALUE=DATE:20241025
+DTEND;VALUE=DATE:20241028
+SUMMARY:Boulevard Blues
+URL:https://swing.news/zh-Hans/be/boulevard-blues-2024
+LOCATION:哈瑟尔特
+END:VEVENT
+END:VCALENDAR

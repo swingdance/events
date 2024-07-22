@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:swing-news_default_ca_capital-city-stomp-2024
+DTSTART;VALUE=DATE:20241109
+DTEND;VALUE=DATE:20241111
+SUMMARY:Capital City Stomp
+URL:https://swing.news/ca/capital-city-stomp-2024
+LOCATION:Victoria
+END:VEVENT
+END:VCALENDAR

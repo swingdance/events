@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:swing-news_default_uk_bal-break-at-the-livermead-cliff-2024
+DTSTART;VALUE=DATE:20240906
+DTEND;VALUE=DATE:20240909
+SUMMARY:BalBreak at the Livermead Cliff
+URL:https://swing.news/uk/bal-break-at-the-livermead-cliff-2024
+LOCATION:Torquay
+END:VEVENT
+END:VCALENDAR

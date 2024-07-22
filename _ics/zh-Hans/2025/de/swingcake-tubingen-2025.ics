@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:swing-news_zh-Hans_de_swingcake-tubingen-2025
+DTSTART;VALUE=DATE:20250425
+DTEND;VALUE=DATE:20250428
+SUMMARY:Swingcake Tubingen
+URL:https://swing.news/zh-Hans/de/swingcake-tubingen-2025
+LOCATION:蒂宾根
+END:VEVENT
+END:VCALENDAR

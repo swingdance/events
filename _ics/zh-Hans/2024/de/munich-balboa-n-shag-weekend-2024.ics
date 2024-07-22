@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:swing-news_zh-Hans_de_munich-balboa-n-shag-weekend-2024
+DTSTART;VALUE=DATE:20241025
+DTEND;VALUE=DATE:20241028
+SUMMARY:[MBSW 2024] Munich Balboa & Shag Weekend
+URL:https://swing.news/zh-Hans/de/munich-balboa-n-shag-weekend-2024
+LOCATION:慕尼黑
+END:VEVENT
+END:VCALENDAR

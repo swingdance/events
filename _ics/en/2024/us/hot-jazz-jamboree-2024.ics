@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:swing-news_default_us_hot-jazz-jamboree-2024
+DTSTART;VALUE=DATE:20241122
+DTEND;VALUE=DATE:20241125
+SUMMARY:Hot Jazz Jamboree
+URL:https://swing.news/us/hot-jazz-jamboree-2024
+LOCATION:Denver
+END:VEVENT
+END:VCALENDAR

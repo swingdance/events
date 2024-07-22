@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:swing-news_zh-Hans_pl_dragon-swing-festival-2024
+DTSTART;VALUE=DATE:20241113
+DTEND;VALUE=DATE:20241118
+SUMMARY:Dragon Swing Festival
+URL:https://swing.news/zh-Hans/pl/dragon-swing-festival-2024
+LOCATION:克拉科夫
+END:VEVENT
+END:VCALENDAR

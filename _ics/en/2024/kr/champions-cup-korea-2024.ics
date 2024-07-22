@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:swing-news_default_kr_champions-cup-korea-2024
+DTSTART;VALUE=DATE:20240727
+DTEND;VALUE=DATE:20240728
+SUMMARY:Champions Cup Korea
+URL:https://swing.news/kr/champions-cup-korea-2024
+LOCATION:Seoul
+END:VEVENT
+END:VCALENDAR

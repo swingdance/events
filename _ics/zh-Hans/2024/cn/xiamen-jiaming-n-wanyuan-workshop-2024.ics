@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:swing-news_zh-Hans_cn_xiamen-jiaming-n-wanyuan-workshop-2024
+DTSTART;VALUE=DATE:20240301
+DTEND;VALUE=DATE:20240304
+SUMMARY:Jiaming & Wanyuan Workshop • 佳铭&婉圆「摇摆之旅」
+URL:https://swing.news/zh-Hans/cn/xiamen-jiaming-n-wanyuan-workshop-2024
+LOCATION:厦门
+END:VEVENT
+END:VCALENDAR

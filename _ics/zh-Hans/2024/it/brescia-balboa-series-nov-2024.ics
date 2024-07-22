@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:swing-news_zh-Hans_it_brescia-balboa-series-nov-2024
+DTSTART;VALUE=DATE:20241101
+DTEND;VALUE=DATE:20241104
+SUMMARY:Brescia Balboa Series - Nov
+URL:https://swing.news/zh-Hans/it/brescia-balboa-series-nov-2024
+LOCATION:布雷西亚
+END:VEVENT
+END:VCALENDAR

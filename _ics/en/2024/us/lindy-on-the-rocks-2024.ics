@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:swing-news_default_us_lindy-on-the-rocks-2024
+DTSTART;VALUE=DATE:20240913
+DTEND;VALUE=DATE:20240917
+SUMMARY:Lindy on the Rocks
+URL:https://swing.news/us/lindy-on-the-rocks-2024
+LOCATION:Denver
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:swing-news_default_id_bali-lindy-exchange-2024
+DTSTART;VALUE=DATE:20240711
+DTEND;VALUE=DATE:20240715
+SUMMARY:[BLX 2024] Bali Lindy Exchange
+URL:https://swing.news/id/bali-lindy-exchange-2024
+LOCATION:Bali
+END:VEVENT
+END:VCALENDAR

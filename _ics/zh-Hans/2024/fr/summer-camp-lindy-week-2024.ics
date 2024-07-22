@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:swing-news_zh-Hans_fr_summer-camp-lindy-week-2024
+DTSTART;VALUE=DATE:20240727
+DTEND;VALUE=DATE:20240804
+SUMMARY:Summer Camp Lindy Week
+URL:https://swing.news/zh-Hans/fr/summer-camp-lindy-week-2024
+LOCATION:勒蒙多尔
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:swing-news_zh-Hans_es_morella-swing-weekend-2024
+DTSTART;VALUE=DATE:20240726
+DTEND;VALUE=DATE:20240729
+SUMMARY:[MSW 2024] Morella Swing Weekend
+URL:https://swing.news/zh-Hans/es/morella-swing-weekend-2024
+LOCATION:莫雷利亚
+END:VEVENT
+END:VCALENDAR

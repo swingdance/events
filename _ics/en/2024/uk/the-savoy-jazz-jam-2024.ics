@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:swing-news_default_uk_the-savoy-jazz-jam-2024
+DTSTART;VALUE=DATE:20241101
+DTEND;VALUE=DATE:20241104
+SUMMARY:The Savoy Jazz Jam
+URL:https://swing.news/uk/the-savoy-jazz-jam-2024
+LOCATION:Watford
+END:VEVENT
+END:VCALENDAR

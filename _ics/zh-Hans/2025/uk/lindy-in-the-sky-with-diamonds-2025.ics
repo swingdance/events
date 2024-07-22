@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:swing-news_zh-Hans_uk_lindy-in-the-sky-with-diamonds-2025
+DTSTART;VALUE=DATE:20250131
+DTEND;VALUE=DATE:20250203
+SUMMARY:Lindy In The Sky with Diamonds
+URL:https://swing.news/zh-Hans/uk/lindy-in-the-sky-with-diamonds-2025
+LOCATION:利物浦
+END:VEVENT
+END:VCALENDAR

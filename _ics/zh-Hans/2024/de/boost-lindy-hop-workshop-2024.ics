@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:swing-news_zh-Hans_de_boost-lindy-hop-workshop-2024
+DTSTART;VALUE=DATE:20240928
+DTEND;VALUE=DATE:20240930
+SUMMARY:Boost Lindy Hop Workshop
+URL:https://swing.news/zh-Hans/de/boost-lindy-hop-workshop-2024
+LOCATION:海德堡
+END:VEVENT
+END:VCALENDAR

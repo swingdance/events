@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:swing-news_zh-Hans_dk_why-not-aarhus-lindy-exchange-2024
+DTSTART;VALUE=DATE:20240927
+DTEND;VALUE=DATE:20240930
+SUMMARY:Why Not Aarhus Lindy Exchange
+URL:https://swing.news/zh-Hans/dk/why-not-aarhus-lindy-exchange-2024
+LOCATION:奧胡斯
+END:VEVENT
+END:VCALENDAR

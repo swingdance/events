@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:swing-news_zh-Hans_de_swing-it-konstanz-2024
+DTSTART;VALUE=DATE:20240906
+DTEND;VALUE=DATE:20240909
+SUMMARY:Swing it! Konstanz
+URL:https://swing.news/zh-Hans/de/swing-it-konstanz-2024
+LOCATION:康士坦茲
+END:VEVENT
+END:VCALENDAR

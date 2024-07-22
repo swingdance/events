@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:swing-news_default_de_augsburg-boogie-festival-2024
+DTSTART;VALUE=DATE:20241115
+DTEND;VALUE=DATE:20241118
+SUMMARY:Augsburg Boogie Festival
+URL:https://swing.news/de/augsburg-boogie-festival-2024
+LOCATION:Augsburg
+END:VEVENT
+END:VCALENDAR

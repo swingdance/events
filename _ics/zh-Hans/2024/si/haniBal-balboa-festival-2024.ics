@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:swing-news_zh-Hans_si_haniBal-balboa-festival-2024
+DTSTART;VALUE=DATE:20240905
+DTEND;VALUE=DATE:20240910
+SUMMARY:HaniBal Balboa Festival
+URL:https://swing.news/zh-Hans/si/haniBal-balboa-festival-2024
+LOCATION:卢布尔雅那
+END:VEVENT
+END:VCALENDAR

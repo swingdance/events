@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:swing-news_default_lt_vilnius-shag-festival-2024
+DTSTART;VALUE=DATE:20241122
+DTEND;VALUE=DATE:20241125
+SUMMARY:Vilnius Shag Festival
+URL:https://swing.news/lt/vilnius-shag-festival-2024
+LOCATION:Vilnius
+END:VEVENT
+END:VCALENDAR

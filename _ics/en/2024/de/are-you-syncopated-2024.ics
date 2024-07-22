@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:swing-news_default_de_are-you-syncopated-2024
+DTSTART;VALUE=DATE:20241011
+DTEND;VALUE=DATE:20241014
+SUMMARY:Are You Syncopated?!
+URL:https://swing.news/de/are-you-syncopated-2024
+LOCATION:Berlin
+END:VEVENT
+END:VCALENDAR

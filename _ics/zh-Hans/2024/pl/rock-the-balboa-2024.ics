@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:swing-news_zh-Hans_pl_rock-the-balboa-2024
+DTSTART;VALUE=DATE:20240927
+DTEND;VALUE=DATE:20240930
+SUMMARY:Rock the Balboa!
+URL:https://swing.news/zh-Hans/pl/rock-the-balboa-2024
+LOCATION:克拉科夫
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:swing-news_zh-Hans_cn_hangzhou-swing-10th-anniversary-2024
+DTSTART;VALUE=DATE:20240726
+DTEND;VALUE=DATE:20240729
+SUMMARY:Hangzhou Swing 10th Anniversary • 摇摆杭州十周年
+URL:https://swing.news/zh-Hans/cn/hangzhou-swing-10th-anniversary-2024
+LOCATION:杭州
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:swing-news_zh-Hans_cn_xiamen-kiki-house-african-dance-workshop-2024
+DTSTART;VALUE=DATE:20240518
+DTEND;VALUE=DATE:20240520
+SUMMARY:Kiki House African Dance Workshop • 木木之家非洲舞 Workshop
+URL:https://swing.news/zh-Hans/cn/xiamen-kiki-house-african-dance-workshop-2024
+LOCATION:厦门
+END:VEVENT
+END:VCALENDAR

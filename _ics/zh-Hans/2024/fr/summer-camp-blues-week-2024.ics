@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:swing-news_zh-Hans_fr_summer-camp-blues-week-2024
+DTSTART;VALUE=DATE:20240803
+DTEND;VALUE=DATE:20240811
+SUMMARY:Summer Camp Blues Week
+URL:https://swing.news/zh-Hans/fr/summer-camp-blues-week-2024
+LOCATION:勒蒙多尔
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:swing-news_default_au_brisbane-balboa-weekend-2024
+DTSTART;VALUE=DATE:20240927
+DTEND;VALUE=DATE:20240930
+SUMMARY:Brisbane Balboa Weekend
+URL:https://swing.news/au/brisbane-balboa-weekend-2024
+LOCATION:Brisbane
+END:VEVENT
+END:VCALENDAR

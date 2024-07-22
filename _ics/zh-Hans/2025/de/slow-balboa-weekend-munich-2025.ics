@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:swing-news_zh-Hans_de_slow-balboa-weekend-munich-2025
+DTSTART;VALUE=DATE:20250104
+DTEND;VALUE=DATE:20250107
+SUMMARY:Slow Balboa Weekend Munich
+URL:https://swing.news/zh-Hans/de/slow-balboa-weekend-munich-2025
+LOCATION:慕尼黑
+END:VEVENT
+END:VCALENDAR

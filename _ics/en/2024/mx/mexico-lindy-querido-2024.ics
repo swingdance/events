@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:swing-news_default_mx_mexico-lindy-querido-2024
+DTSTART;VALUE=DATE:20240913
+DTEND;VALUE=DATE:20240917
+SUMMARY:Mexico Lindy Querido
+URL:https://swing.news/mx/mexico-lindy-querido-2024
+LOCATION:Mexico City
+END:VEVENT
+END:VCALENDAR

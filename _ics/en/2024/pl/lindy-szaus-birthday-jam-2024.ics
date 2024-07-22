@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:swing-news_default_pl_lindy-szaus-birthday-jam-2024
+DTSTART;VALUE=DATE:20240125
+DTEND;VALUE=DATE:20240129
+SUMMARY:Lindy Szau’s Birthday Jam
+URL:https://swing.news/pl/lindy-szaus-birthday-jam-2024
+LOCATION:Wroclaw
+END:VEVENT
+END:VCALENDAR

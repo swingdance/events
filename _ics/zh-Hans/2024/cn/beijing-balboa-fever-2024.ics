@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:swing-news_zh-Hans_cn_beijing-balboa-fever-2024
+DTSTART;VALUE=DATE:20240517
+DTEND;VALUE=DATE:20240520
+SUMMARY:Beijing Balboa Fever • 北京巴尔博亚热旋风
+URL:https://swing.news/zh-Hans/cn/beijing-balboa-fever-2024
+LOCATION:北京
+END:VEVENT
+END:VCALENDAR

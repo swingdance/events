@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:swing-news_zh-Hans_cn_swingtime-ball-2024
+DTSTART;VALUE=DATE:20241101
+DTEND;VALUE=DATE:20241104
+SUMMARY:[STB 2024] Swingtime Ball • 摇擺盛典
+URL:https://swing.news/zh-Hans/cn/swingtime-ball-2024
+LOCATION:北京
+END:VEVENT
+END:VCALENDAR

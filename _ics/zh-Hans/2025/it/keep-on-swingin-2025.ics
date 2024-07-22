@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:swing-news_zh-Hans_it_keep-on-swingin-2025
+DTSTART;VALUE=DATE:20250103
+DTEND;VALUE=DATE:20250107
+SUMMARY:Keep On Swingin’
+URL:https://swing.news/zh-Hans/it/keep-on-swingin-2025
+LOCATION:佛罗伦萨
+END:VEVENT
+END:VCALENDAR

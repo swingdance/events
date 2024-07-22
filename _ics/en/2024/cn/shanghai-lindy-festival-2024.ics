@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:swing-news_default_cn_shanghai-lindy-festival-2024
+DTSTART;VALUE=DATE:20241213
+DTEND;VALUE=DATE:20241216
+SUMMARY:[SLF 2024] Shanghai Lindy Festival • 上海林迪舞节
+URL:https://swing.news/cn/shanghai-lindy-festival-2024
+LOCATION:Shanghai
+END:VEVENT
+END:VCALENDAR

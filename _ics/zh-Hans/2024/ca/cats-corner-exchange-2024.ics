@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:swing-news_zh-Hans_ca_cats-corner-exchange-2024
+DTSTART;VALUE=DATE:20241025
+DTEND;VALUE=DATE:20241028
+SUMMARY:[CCX 2024] Cat’s Corner Exchange
+URL:https://swing.news/zh-Hans/ca/cats-corner-exchange-2024
+LOCATION:蒙特利尔
+END:VEVENT
+END:VCALENDAR

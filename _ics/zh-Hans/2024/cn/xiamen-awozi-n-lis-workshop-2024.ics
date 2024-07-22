@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:swing-news_zh-Hans_cn_xiamen-awozi-n-lis-workshop-2024
+DTSTART;VALUE=DATE:20240321
+DTEND;VALUE=DATE:20240325
+SUMMARY:Awozi & Lis Workshop
+URL:https://swing.news/zh-Hans/cn/xiamen-awozi-n-lis-workshop-2024
+LOCATION:厦门
+END:VEVENT
+END:VCALENDAR

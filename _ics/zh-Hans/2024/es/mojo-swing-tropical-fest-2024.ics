@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:swing-news_zh-Hans_es_mojo-swing-tropical-fest-2024
+DTSTART;VALUE=DATE:20241031
+DTEND;VALUE=DATE:20241104
+SUMMARY:Mojo Swing Tropical Fest
+URL:https://swing.news/zh-Hans/es/mojo-swing-tropical-fest-2024
+LOCATION:大加那利岛
+END:VEVENT
+END:VCALENDAR

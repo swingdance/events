@@ -1,0 +1,43 @@
+---
+title: Slow Bal Love
+description: "2024-10-13 ~ 2024-10-20"
+tags:
+  - Balboa
+---
+
+# Slow Bal Love 
+
+:fontawesome-solid-calendar-days: 2024-10-13 ~ 2024-10-20  
+:fontawesome-solid-location-dot: 布拉格  
+
+???+ venue "场地"
+
+    Stary Svet  
+
+## 联系
+
+:fontawesome-solid-envelope: <balloveinc@gmail.com>  
+:fontawesome-solid-globe: <https://www.bal-love.com>{ target='_blank' }  
+
+---
+
+ [:fontawesome-brands-facebook-f:{ .ky_social_links_icon }](https://www.facebook.com/groups/179491102635312){ target='_blank' }
+
+---
+
+[添加到日历](https://swing.news/ics/zh-Hans/2024/cz/slow-bal-love-2024.ics){ .md-button }
+
+<div class="ky_page_footer" markdown>
+<div class="ky_page_footer_trailing" markdown="span">
+[:material-file-eye-outline:][view-raw-source-file]{ target='_blank' }
+[:material-file-edit-outline:][edit-info]{ target='_blank' }
+</div>
+<div class="ky_page_footer_leading" markdown="span">
+[:material-clock-edit-outline: 2024-06-30 10:35 UTC][view-edit-history]{ .ky_page_footer_history_button target='_blank' }
+</div>
+</div>
+
+[view-raw-source-file]: https://github.com/swingdance/events/blob/main/2024/cz/slow-bal-love-2024.json "查看原始源文件"
+[edit-info]: https://github.com/swingdance/events/issues/new?assignees=&labels=update+event&projects=&template=03-update_entity.yml&title=%5B2024%2Fcz%5D%20Slow%20Bal%20Love&region=cz&year=2024&id=slow-bal-love-2024&name=Slow%20Bal%20Love&org_id= "编辑信息"
+
+[view-edit-history]: https://github.com/swingdance/events/commits/main/2024/cz/slow-bal-love-2024.json "查看编辑历史"

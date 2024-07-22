@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:swing-news_zh-Hans_se_herrang-dance-camp-2024
+DTSTART;VALUE=DATE:20240706
+DTEND;VALUE=DATE:20240727
+SUMMARY:[HDC 2024] Herräng Dance Camp
+URL:https://swing.news/zh-Hans/se/herrang-dance-camp-2024
+LOCATION:斯德哥尔摩
+END:VEVENT
+END:VCALENDAR

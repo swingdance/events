@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:swing-news_default_jp_yokohama-cross-street-hop-07-2024
+DTSTART;VALUE=DATE:20240727
+DTEND;VALUE=DATE:20240728
+SUMMARY:Yokohama Cross Street Hop
+URL:https://swing.news/jp/yokohama-cross-street-hop-07-2024
+LOCATION:Yokohama
+END:VEVENT
+END:VCALENDAR

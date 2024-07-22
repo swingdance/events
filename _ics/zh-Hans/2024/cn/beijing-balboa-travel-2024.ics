@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:swing-news_zh-Hans_cn_beijing-balboa-travel-2024
+DTSTART;VALUE=DATE:20240105
+DTEND;VALUE=DATE:20240108
+SUMMARY:[BBT 2024] Beijing Balboa Travel • 北京巴尔博亚之旅
+URL:https://swing.news/zh-Hans/cn/beijing-balboa-travel-2024
+LOCATION:北京
+END:VEVENT
+END:VCALENDAR

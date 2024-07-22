@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:swing-news_zh-Hans_it_tuscany-balboa-weekend-2025
+DTSTART;VALUE=DATE:20250117
+DTEND;VALUE=DATE:20250120
+SUMMARY:Tuscany Balboa Weekend
+URL:https://swing.news/zh-Hans/it/tuscany-balboa-weekend-2025
+LOCATION:蒙特卡蒂尼-泰尔梅
+END:VEVENT
+END:VCALENDAR

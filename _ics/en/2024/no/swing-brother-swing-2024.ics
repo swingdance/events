@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:swing-news_default_no_swing-brother-swing-2024
+DTSTART;VALUE=DATE:20241017
+DTEND;VALUE=DATE:20241021
+SUMMARY:Swing Brother, Swing!
+URL:https://swing.news/no/swing-brother-swing-2024
+LOCATION:Bergen
+END:VEVENT
+END:VCALENDAR

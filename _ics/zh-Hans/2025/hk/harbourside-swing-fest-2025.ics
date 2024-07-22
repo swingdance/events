@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:swing-news_zh-Hans_hk_harbourside-swing-fest-2025
+DTSTART;VALUE=DATE:20250110
+DTEND;VALUE=DATE:20250113
+SUMMARY:Harbourside Swing Fest
+URL:https://swing.news/zh-Hans/hk/harbourside-swing-fest-2025
+LOCATION:HK
+END:VEVENT
+END:VCALENDAR

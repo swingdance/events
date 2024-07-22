@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:swing-news_zh-Hans_cn_balboa-greater-bay-workshop-2024
+DTSTART;VALUE=DATE:20240727
+DTEND;VALUE=DATE:20240729
+SUMMARY:Balboa Greater Bay Workshop • Bal 浪湾区
+URL:https://swing.news/zh-Hans/cn/balboa-greater-bay-workshop-2024
+LOCATION:深圳
+END:VEVENT
+END:VCALENDAR

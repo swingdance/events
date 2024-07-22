@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:swing-news_default_dk_copenhagen-balboa-weekend-2024
+DTSTART;VALUE=DATE:20241025
+DTEND;VALUE=DATE:20241028
+SUMMARY:Copenhagen Balboa Weekend
+URL:https://swing.news/dk/copenhagen-balboa-weekend-2024
+LOCATION:Copenhagen
+END:VEVENT
+END:VCALENDAR

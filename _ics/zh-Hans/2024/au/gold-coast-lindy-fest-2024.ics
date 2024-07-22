@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:swing-news_zh-Hans_au_gold-coast-lindy-fest-2024
+DTSTART;VALUE=DATE:20240726
+DTEND;VALUE=DATE:20240729
+SUMMARY:Gold Coast Lindy Fest
+URL:https://swing.news/zh-Hans/au/gold-coast-lindy-fest-2024
+LOCATION:黃金海岸
+END:VEVENT
+END:VCALENDAR

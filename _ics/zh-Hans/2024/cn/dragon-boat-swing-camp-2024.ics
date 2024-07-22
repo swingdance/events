@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:swing-news_zh-Hans_cn_dragon-boat-swing-camp-2024
+DTSTART;VALUE=DATE:20240608
+DTEND;VALUE=DATE:20240611
+SUMMARY:Dragon Boat Swing Camp • 龙舟摇摆训练营
+URL:https://swing.news/zh-Hans/cn/dragon-boat-swing-camp-2024
+LOCATION:北京
+END:VEVENT
+END:VCALENDAR

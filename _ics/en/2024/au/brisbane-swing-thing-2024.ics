@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:swing-news_default_au_brisbane-swing-thing-2024
+DTSTART;VALUE=DATE:20240531
+DTEND;VALUE=DATE:20240603
+SUMMARY:Brisbane Swing Thing
+URL:https://swing.news/au/brisbane-swing-thing-2024
+LOCATION:Brisbane
+END:VEVENT
+END:VCALENDAR

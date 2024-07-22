@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:swing-news_zh-Hans_ca_rhythm-city-mess-around-2024
+DTSTART;VALUE=DATE:20240830
+DTEND;VALUE=DATE:20240903
+SUMMARY:Rhythm City Mess Around
+URL:https://swing.news/zh-Hans/ca/rhythm-city-mess-around-2024
+LOCATION:温哥华
+END:VEVENT
+END:VCALENDAR

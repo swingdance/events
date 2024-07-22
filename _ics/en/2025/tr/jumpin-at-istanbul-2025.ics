@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:swing-news_default_tr_jumpin-at-istanbul-2025
+DTSTART;VALUE=DATE:20250116
+DTEND;VALUE=DATE:20250120
+SUMMARY:Jumpin' at Istanbul
+URL:https://swing.news/tr/jumpin-at-istanbul-2025
+LOCATION:Istanbul
+END:VEVENT
+END:VCALENDAR

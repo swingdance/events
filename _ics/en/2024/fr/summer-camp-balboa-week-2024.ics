@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:swing-news_default_fr_summer-camp-balboa-week-2024
+DTSTART;VALUE=DATE:20240720
+DTEND;VALUE=DATE:20240728
+SUMMARY:Summer Camp Balboa Week
+URL:https://swing.news/fr/summer-camp-balboa-week-2024
+LOCATION:Le Mont-Dore
+END:VEVENT
+END:VCALENDAR

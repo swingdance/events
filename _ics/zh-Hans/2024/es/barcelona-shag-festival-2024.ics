@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:swing-news_zh-Hans_es_barcelona-shag-festival-2024
+DTSTART;VALUE=DATE:20240920
+DTEND;VALUE=DATE:20240923
+SUMMARY:Barcelona Shag Festival
+URL:https://swing.news/zh-Hans/es/barcelona-shag-festival-2024
+LOCATION:巴塞罗那
+END:VEVENT
+END:VCALENDAR

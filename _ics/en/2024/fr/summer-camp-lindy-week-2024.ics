@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:swing-news_default_fr_summer-camp-lindy-week-2024
+DTSTART;VALUE=DATE:20240727
+DTEND;VALUE=DATE:20240804
+SUMMARY:Summer Camp Lindy Week
+URL:https://swing.news/fr/summer-camp-lindy-week-2024
+LOCATION:Le Mont-Dore
+END:VEVENT
+END:VCALENDAR

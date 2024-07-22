@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:swing-news_default_es_donosti-belle-swing-festival-2024
+DTSTART;VALUE=DATE:20241025
+DTEND;VALUE=DATE:20241028
+SUMMARY:Donosti Belle Swing Festival
+URL:https://swing.news/es/donosti-belle-swing-festival-2024
+LOCATION:San Sebastian
+END:VEVENT
+END:VCALENDAR

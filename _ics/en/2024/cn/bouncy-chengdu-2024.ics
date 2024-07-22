@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:swing-news_default_cn_bouncy-chengdu-2024
+DTSTART;VALUE=DATE:20240419
+DTEND;VALUE=DATE:20240422
+SUMMARY:Bouncy Chengdu • 妖艳儿摇摆节
+URL:https://swing.news/cn/bouncy-chengdu-2024
+LOCATION:Chengdu
+END:VEVENT
+END:VCALENDAR

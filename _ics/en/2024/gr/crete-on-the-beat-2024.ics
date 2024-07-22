@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:swing-news_default_gr_crete-on-the-beat-2024
+DTSTART;VALUE=DATE:20241004
+DTEND;VALUE=DATE:20241014
+SUMMARY:Crete on the Beat
+URL:https://swing.news/gr/crete-on-the-beat-2024
+LOCATION:Crete
+END:VEVENT
+END:VCALENDAR
