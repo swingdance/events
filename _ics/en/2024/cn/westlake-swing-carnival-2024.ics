@@ -1,7 +1,7 @@
 BEGIN:VCALENDAR
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
-UID:swing-news_default_cn_westlake-swing-carnival-2024
+UID:swing-news_cn_westlake-swing-carnival-2024
 DTSTART;VALUE=DATE:20240830
 DTEND;VALUE=DATE:20240902
 SUMMARY:[WSC 2024] Westlake Swing Carnival • 西湖摇摆嘉年华

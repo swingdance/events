@@ -1,7 +1,7 @@
 BEGIN:VCALENDAR
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
-UID:swing-news_default_de_swing-it-konstanz-2024
+UID:swing-news_de_swing-it-konstanz-2024
 DTSTART;VALUE=DATE:20240906
 DTEND;VALUE=DATE:20240909
 SUMMARY:Swing it! Konstanz

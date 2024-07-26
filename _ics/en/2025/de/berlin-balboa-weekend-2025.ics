@@ -1,7 +1,7 @@
 BEGIN:VCALENDAR
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
-UID:swing-news_default_de_berlin-balboa-weekend-2025
+UID:swing-news_de_berlin-balboa-weekend-2025
 DTSTART;VALUE=DATE:20250228
 DTEND;VALUE=DATE:20250303
 SUMMARY:Berlin Balboa Weekend

@@ -1,7 +1,7 @@
 BEGIN:VCALENDAR
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
-UID:swing-news_default_cn_nanjing-lindy-festival-2024
+UID:swing-news_cn_nanjing-lindy-festival-2024
 DTSTART;VALUE=DATE:20240531
 DTEND;VALUE=DATE:20240603
 SUMMARY:[NLF 2024] Nanjing Lindy Festival • 爵对莱斯 • 南京林迪节

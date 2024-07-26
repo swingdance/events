@@ -1,7 +1,7 @@
 BEGIN:VCALENDAR
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
-UID:swing-news_default_si_vintage-swing-festival-2024
+UID:swing-news_si_vintage-swing-festival-2024
 DTSTART;VALUE=DATE:20240915
 DTEND;VALUE=DATE:20240918
 SUMMARY:Vintage Swing Festival

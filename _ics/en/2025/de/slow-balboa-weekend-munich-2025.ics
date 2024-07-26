@@ -1,7 +1,7 @@
 BEGIN:VCALENDAR
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
-UID:swing-news_default_de_slow-balboa-weekend-munich-2025
+UID:swing-news_de_slow-balboa-weekend-munich-2025
 DTSTART;VALUE=DATE:20250104
 DTEND;VALUE=DATE:20250107
 SUMMARY:Slow Balboa Weekend Munich

@@ -1,7 +1,7 @@
 BEGIN:VCALENDAR
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
-UID:swing-news_default_cn_balboa-greater-bay-workshop-2024
+UID:swing-news_cn_balboa-greater-bay-workshop-2024
 DTSTART;VALUE=DATE:20240727
 DTEND;VALUE=DATE:20240729
 SUMMARY:Balboa Greater Bay Workshop • Bal 浪湾区

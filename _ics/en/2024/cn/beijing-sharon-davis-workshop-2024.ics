@@ -1,7 +1,7 @@
 BEGIN:VCALENDAR
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
-UID:swing-news_default_cn_beijing-sharon-davis-workshop-2024
+UID:swing-news_cn_beijing-sharon-davis-workshop-2024
 DTSTART;VALUE=DATE:20240329
 DTEND;VALUE=DATE:20240402
 SUMMARY:Sharon Davis Workshop • Sharon Davis 摇摆秘籍

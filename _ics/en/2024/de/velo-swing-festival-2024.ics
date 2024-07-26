@@ -1,7 +1,7 @@
 BEGIN:VCALENDAR
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
-UID:swing-news_default_de_velo-swing-festival-2024
+UID:swing-news_de_velo-swing-festival-2024
 DTSTART;VALUE=DATE:20240815
 DTEND;VALUE=DATE:20240819
 SUMMARY:Velo-Swing Festival

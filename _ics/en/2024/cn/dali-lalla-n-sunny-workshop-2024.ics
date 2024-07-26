@@ -1,7 +1,7 @@
 BEGIN:VCALENDAR
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
-UID:swing-news_default_cn_dali-lalla-n-sunny-workshop-2024
+UID:swing-news_cn_dali-lalla-n-sunny-workshop-2024
 DTSTART;VALUE=DATE:20240608
 DTEND;VALUE=DATE:20240611
 SUMMARY:Lalla & Sunny Workshop • 摇摆端舞

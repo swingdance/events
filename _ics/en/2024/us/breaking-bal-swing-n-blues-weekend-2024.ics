@@ -1,7 +1,7 @@
 BEGIN:VCALENDAR
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
-UID:swing-news_default_us_breaking-bal-swing-n-blues-weekend-2024
+UID:swing-news_us_breaking-bal-swing-n-blues-weekend-2024
 DTSTART;VALUE=DATE:20241108
 DTEND;VALUE=DATE:20241111
 SUMMARY:Breaking Bal: Swing & Blues Weekend

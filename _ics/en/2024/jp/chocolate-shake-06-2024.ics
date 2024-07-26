@@ -1,7 +1,7 @@
 BEGIN:VCALENDAR
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
-UID:swing-news_default_jp_chocolate-shake-06-2024
+UID:swing-news_jp_chocolate-shake-06-2024
 DTSTART;VALUE=DATE:20240622
 DTEND;VALUE=DATE:20240623
 SUMMARY:Chocolate Shake

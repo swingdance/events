@@ -1,7 +1,7 @@
 BEGIN:VCALENDAR
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
-UID:swing-news_default_cn_jazz-do-it-2024
+UID:swing-news_cn_jazz-do-it-2024
 DTSTART;VALUE=DATE:20240719
 DTEND;VALUE=DATE:20240722
 SUMMARY:Jazz Do It • 北京林迪舞交流节

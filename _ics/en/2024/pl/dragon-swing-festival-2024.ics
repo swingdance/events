@@ -1,7 +1,7 @@
 BEGIN:VCALENDAR
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
-UID:swing-news_default_pl_dragon-swing-festival-2024
+UID:swing-news_pl_dragon-swing-festival-2024
 DTSTART;VALUE=DATE:20241113
 DTEND;VALUE=DATE:20241118
 SUMMARY:Dragon Swing Festival

@@ -1,7 +1,7 @@
 BEGIN:VCALENDAR
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
-UID:swing-news_default_de_mainhatten-shuffle-2024
+UID:swing-news_de_mainhatten-shuffle-2024
 DTSTART;VALUE=DATE:20241031
 DTEND;VALUE=DATE:20241104
 SUMMARY:Mainhatten Shuffle

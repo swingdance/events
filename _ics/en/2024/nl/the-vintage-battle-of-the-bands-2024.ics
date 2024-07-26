@@ -1,7 +1,7 @@
 BEGIN:VCALENDAR
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
-UID:swing-news_default_nl_the-vintage-battle-of-the-bands-2024
+UID:swing-news_nl_the-vintage-battle-of-the-bands-2024
 DTSTART;VALUE=DATE:20241122
 DTEND;VALUE=DATE:20241125
 SUMMARY:The Vintage Battle of the Bands

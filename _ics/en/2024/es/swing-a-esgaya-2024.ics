@@ -1,7 +1,7 @@
 BEGIN:VCALENDAR
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
-UID:swing-news_default_es_swing-a-esgaya-2024
+UID:swing-news_es_swing-a-esgaya-2024
 DTSTART;VALUE=DATE:20240920
 DTEND;VALUE=DATE:20240923
 SUMMARY:Swing A Esgaya

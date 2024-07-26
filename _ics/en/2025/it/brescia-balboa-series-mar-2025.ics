@@ -1,7 +1,7 @@
 BEGIN:VCALENDAR
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
-UID:swing-news_default_it_brescia-balboa-series-mar-2025
+UID:swing-news_it_brescia-balboa-series-mar-2025
 DTSTART;VALUE=DATE:20250307
 DTEND;VALUE=DATE:20250310
 SUMMARY:Brescia Balboa Series - Mar

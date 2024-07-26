@@ -1,7 +1,7 @@
 BEGIN:VCALENDAR
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
-UID:swing-news_default_jp_tomodachi-swing-2024
+UID:swing-news_jp_tomodachi-swing-2024
 DTSTART;VALUE=DATE:20240628
 DTEND;VALUE=DATE:20240629
 SUMMARY:Tomodachi Swing

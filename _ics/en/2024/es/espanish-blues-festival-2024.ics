@@ -1,7 +1,7 @@
 BEGIN:VCALENDAR
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
-UID:swing-news_default_es_espanish-blues-festival-2024
+UID:swing-news_es_espanish-blues-festival-2024
 DTSTART;VALUE=DATE:20241122
 DTEND;VALUE=DATE:20241125
 SUMMARY:[ESBF 2024] ESpanish Blues Festival

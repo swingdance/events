@@ -1,7 +1,7 @@
 BEGIN:VCALENDAR
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
-UID:swing-news_default_cn_vasu-n-nan-balboa-workshop-2024
+UID:swing-news_cn_vasu-n-nan-balboa-workshop-2024
 DTSTART;VALUE=DATE:20240608
 DTEND;VALUE=DATE:20240610
 SUMMARY:Vasu & Nan Balboa Workshop • 端午工作坊

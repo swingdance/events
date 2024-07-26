@@ -1,7 +1,7 @@
 BEGIN:VCALENDAR
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
-UID:swing-news_default_cn_shanghai-balboa-weekend-2024
+UID:swing-news_cn_shanghai-balboa-weekend-2024
 DTSTART;VALUE=DATE:20241003
 DTEND;VALUE=DATE:20241007
 SUMMARY:[SBW 2024] Shanghai Balboa Weekend

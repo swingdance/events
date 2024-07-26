@@ -1,7 +1,7 @@
 BEGIN:VCALENDAR
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
-UID:swing-news_default_it_sicily-swing-fest-2024
+UID:swing-news_it_sicily-swing-fest-2024
 DTSTART;VALUE=DATE:20240912
 DTEND;VALUE=DATE:20240916
 SUMMARY:Sicily Swing Fest

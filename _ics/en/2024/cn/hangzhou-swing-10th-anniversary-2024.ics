@@ -1,7 +1,7 @@
 BEGIN:VCALENDAR
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
-UID:swing-news_default_cn_hangzhou-swing-10th-anniversary-2024
+UID:swing-news_cn_hangzhou-swing-10th-anniversary-2024
 DTSTART;VALUE=DATE:20240726
 DTEND;VALUE=DATE:20240729
 SUMMARY:Hangzhou Swing 10th Anniversary • 摇摆杭州十周年

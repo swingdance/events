@@ -1,7 +1,7 @@
 BEGIN:VCALENDAR
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
-UID:swing-news_default_it_sunny-slide-swing-fest-2025
+UID:swing-news_it_sunny-slide-swing-fest-2025
 DTSTART;VALUE=DATE:20250529
 DTEND;VALUE=DATE:20250603
 SUMMARY:Sunny Slide Swing Fest

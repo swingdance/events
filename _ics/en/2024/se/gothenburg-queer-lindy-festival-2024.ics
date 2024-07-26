@@ -1,7 +1,7 @@
 BEGIN:VCALENDAR
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
-UID:swing-news_default_se_gothenburg-queer-lindy-festival-2024
+UID:swing-news_se_gothenburg-queer-lindy-festival-2024
 DTSTART;VALUE=DATE:20240920
 DTEND;VALUE=DATE:20240923
 SUMMARY:Gothenburg Queer Lindy Festival

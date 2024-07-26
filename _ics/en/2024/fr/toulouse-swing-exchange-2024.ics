@@ -1,7 +1,7 @@
 BEGIN:VCALENDAR
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
-UID:swing-news_default_fr_toulouse-swing-exchange-2024
+UID:swing-news_fr_toulouse-swing-exchange-2024
 DTSTART;VALUE=DATE:20241003
 DTEND;VALUE=DATE:20241007
 SUMMARY:[TSX 2024] Toulouse Swing Exchange

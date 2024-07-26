@@ -1,7 +1,7 @@
 BEGIN:VCALENDAR
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
-UID:swing-news_default_it_tuscany-balboa-weekend-2025
+UID:swing-news_it_tuscany-balboa-weekend-2025
 DTSTART;VALUE=DATE:20250117
 DTEND;VALUE=DATE:20250120
 SUMMARY:Tuscany Balboa Weekend

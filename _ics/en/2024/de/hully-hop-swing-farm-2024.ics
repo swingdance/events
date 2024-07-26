@@ -1,7 +1,7 @@
 BEGIN:VCALENDAR
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
-UID:swing-news_default_de_hully-hop-swing-farm-2024
+UID:swing-news_de_hully-hop-swing-farm-2024
 DTSTART;VALUE=DATE:20241129
 DTEND;VALUE=DATE:20241202
 SUMMARY:Hully Hop Swing Farm

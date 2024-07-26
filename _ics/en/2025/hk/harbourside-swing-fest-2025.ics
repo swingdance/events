@@ -1,7 +1,7 @@
 BEGIN:VCALENDAR
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
-UID:swing-news_default_hk_harbourside-swing-fest-2025
+UID:swing-news_hk_harbourside-swing-fest-2025
 DTSTART;VALUE=DATE:20250110
 DTEND;VALUE=DATE:20250113
 SUMMARY:Harbourside Swing Fest

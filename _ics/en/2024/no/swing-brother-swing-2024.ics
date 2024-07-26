@@ -1,7 +1,7 @@
 BEGIN:VCALENDAR
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
-UID:swing-news_default_no_swing-brother-swing-2024
+UID:swing-news_no_swing-brother-swing-2024
 DTSTART;VALUE=DATE:20241017
 DTEND;VALUE=DATE:20241021
 SUMMARY:Swing Brother, Swing!

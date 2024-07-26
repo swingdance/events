@@ -1,7 +1,7 @@
 BEGIN:VCALENDAR
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
-UID:swing-news_default_th_breezy-balboa-2024
+UID:swing-news_th_breezy-balboa-2024
 DTSTART;VALUE=DATE:20240504
 DTEND;VALUE=DATE:20240513
 SUMMARY:Breezy Balboa

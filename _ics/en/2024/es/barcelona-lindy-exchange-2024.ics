@@ -1,7 +1,7 @@
 BEGIN:VCALENDAR
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
-UID:swing-news_default_es_barcelona-lindy-exchange-2024
+UID:swing-news_es_barcelona-lindy-exchange-2024
 DTSTART;VALUE=DATE:20240912
 DTEND;VALUE=DATE:20240916
 SUMMARY:[BLE 2024] Barcelona Lindy Exchange

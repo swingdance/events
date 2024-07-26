@@ -1,7 +1,7 @@
 BEGIN:VCALENDAR
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
-UID:swing-news_default_jp_chill-balboa-social-2024
+UID:swing-news_jp_chill-balboa-social-2024
 DTSTART;VALUE=DATE:20240615
 DTEND;VALUE=DATE:20240616
 SUMMARY:Chill Balboa Social

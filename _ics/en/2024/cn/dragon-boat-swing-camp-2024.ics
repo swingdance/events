@@ -1,7 +1,7 @@
 BEGIN:VCALENDAR
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
-UID:swing-news_default_cn_dragon-boat-swing-camp-2024
+UID:swing-news_cn_dragon-boat-swing-camp-2024
 DTSTART;VALUE=DATE:20240608
 DTEND;VALUE=DATE:20240611
 SUMMARY:Dragon Boat Swing Camp • 龙舟摇摆训练营

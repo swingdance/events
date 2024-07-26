@@ -1,7 +1,7 @@
 BEGIN:VCALENDAR
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
-UID:swing-news_default_cn_blues-heat-2024
+UID:swing-news_cn_blues-heat-2024
 DTSTART;VALUE=DATE:20240814
 DTEND;VALUE=DATE:20240819
 SUMMARY:Blues Heat • 热能蓝调文化节

@@ -1,7 +1,7 @@
 BEGIN:VCALENDAR
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
-UID:swing-news_default_de_autumn-leaves-the-pott-2024
+UID:swing-news_de_autumn-leaves-the-pott-2024
 DTSTART;VALUE=DATE:20241213
 DTEND;VALUE=DATE:20241216
 SUMMARY:Autumn Leaves The Pott
