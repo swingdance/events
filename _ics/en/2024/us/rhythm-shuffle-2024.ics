@@ -1,11 +1,11 @@
 BEGIN:VCALENDAR
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
-UID:swing-news_en_us_rhythm-shuffle-2024
+UID:swing-news_default_us_rhythm-shuffle-2024
 DTSTART;VALUE=DATE:20240906
 DTEND;VALUE=DATE:20240909
 SUMMARY:Rhythm Shuffle
-URL:https://swing.news/en/us/rhythm-shuffle-2024
+URL:https://swing.news/us/rhythm-shuffle-2024
 LOCATION:Buffalo
 END:VEVENT
 END:VCALENDAR

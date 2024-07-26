@@ -1,11 +1,11 @@
 BEGIN:VCALENDAR
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
-UID:swing-news_en_cn_blues-in-green-2024
+UID:swing-news_default_cn_blues-in-green-2024
 DTSTART;VALUE=DATE:20240810
 DTEND;VALUE=DATE:20240813
 SUMMARY:Blues in Green • 小罗老师布鲁斯工作坊
-URL:https://swing.news/en/cn/blues-in-green-2024
+URL:https://swing.news/cn/blues-in-green-2024
 LOCATION:Jingdezhen
 END:VEVENT
 END:VCALENDAR
