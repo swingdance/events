@@ -8,7 +8,7 @@ tags:
 # Bal Week 
 
 :fontawesome-solid-calendar-days: 2024-04-01 ~ 2024-04-07  
-:fontawesome-solid-location-dot: 纽约  
+:fontawesome-solid-location-dot: 纽约市  
 
 ## 联系
 

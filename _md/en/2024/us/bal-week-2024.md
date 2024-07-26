@@ -8,7 +8,7 @@ tags:
 # Bal Week 
 
 :fontawesome-solid-calendar-days: 2024-04-01 ~ 2024-04-07  
-:fontawesome-solid-location-dot: New York  
+:fontawesome-solid-location-dot: New York City  
 
 ## Contact
 

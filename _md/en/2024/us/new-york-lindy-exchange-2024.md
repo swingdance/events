@@ -7,7 +7,7 @@ description: "2024-09-20 ~ 2024-09-22"
 # New York Lindy Exchange 
 
 :fontawesome-solid-calendar-days: 2024-09-20 ~ 2024-09-22  
-:fontawesome-solid-location-dot: New York  
+:fontawesome-solid-location-dot: New York City  
 
 ## Contact
 
