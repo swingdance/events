@@ -21,7 +21,7 @@ tags:
 
 ---
 
- [:fontawesome-brands-facebook-f:{ .ky_social_links_icon }](https://www.facebook.com/groups/179491102635312){ target='_blank' }
+ [:fontawesome-brands-facebook-f:{ .ky_social_links_icon }](https://www.facebook.com/groups/179491102635312){ target='_blank' } [:fontawesome-brands-youtube:{ .ky_social_links_icon }](https://youtube.com/@bal-love3654){ target='_blank' }
 
 ---
 
@@ -33,7 +33,7 @@ tags:
 [:material-file-edit-outline:][edit-info]{ target='_blank' }
 </div>
 <div class="ky_page_footer_leading" markdown="span">
-[:material-clock-edit-outline: 2024-06-30 10:35 UTC][view-edit-history]{ .ky_page_footer_history_button target='_blank' }
+[:material-clock-edit-outline: 2024-08-01 04:06 UTC][view-edit-history]{ .ky_page_footer_history_button target='_blank' }
 </div>
 </div>
 
