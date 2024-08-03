@@ -16,7 +16,7 @@ jobs:
     with:
       type: event
       template_filename: 02-add_entity.yml
-      reusable_workflow_repo: swingdance/entity-ci
+      reusable_workflow_repo: swingapi/entity-ci
     secrets:
       token: "${{ secrets.GH_TOKEN }}"
 
@@ -26,6 +26,6 @@ jobs:
     with:
       type: event
       template_filename: 03-update_entity.yml
-      reusable_workflow_repo: swingdance/entity-ci
+      reusable_workflow_repo: swingapi/entity-ci
     secrets:
       token: "${{ secrets.GH_TOKEN }}"
