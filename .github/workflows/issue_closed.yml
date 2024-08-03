@@ -15,7 +15,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Close PR from Issue
-        uses: swingdance/close-pr-from-issue@main
+        uses: swingapi/close-pr-from-issue@main
         with:
           token: "${{ secrets.GH_TOKEN }}"
     
