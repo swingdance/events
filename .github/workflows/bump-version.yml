@@ -24,4 +24,3 @@ jobs:
         uses: kjuly/tag-xyz@main
         with:
           version_level: ${{ inputs.version_level }}
-          dispatch_workflow_id: "deploy-pages.yml"
