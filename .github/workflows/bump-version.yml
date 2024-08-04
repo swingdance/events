@@ -1,0 +1,27 @@
+name: Bump Version
+
+on:
+  workflow_dispatch:
+    inputs:
+      version_level:
+        type: choice
+        description: The version level to increase.
+        default: z
+        options: 
+          - x
+          - y
+          - z
+
+permissions:
+  contents: write
+  actions: write
+
+jobs:
+  create-tag:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Create Tag for New Version
+        uses: kjuly/tag-xyz@main
+        with:
+          version_level: ${{ inputs.version_level }}
+          dispatch_workflow_id: "deploy-pages.yml"
