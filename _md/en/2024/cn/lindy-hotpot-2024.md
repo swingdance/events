@@ -10,8 +10,7 @@ description: "2024-03-22 ~ 2024-03-24"
 
 !!! info "Organizer"
 
-    [Swing Chongqing](https://swing.kids/cn/swing-chong-qing)  
-    山城摇摆  
+    [Swing Chongqing](https://swing.kids/cn/swing-chong-qing) • 山城摇摆  
 
 ---
 

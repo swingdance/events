@@ -12,7 +12,7 @@ tags:
 
 !!! info "Organizer"
 
-    [swing-hang-zhou](https://swing.kids/cn/swing-hang-zhou)  
+    [Swing Hangzhou](https://swing.kids/cn/swing-hang-zhou) • 摇摆杭州  
 
 ## Contact
 

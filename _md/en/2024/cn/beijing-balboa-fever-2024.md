@@ -13,8 +13,7 @@ tags:
 
 !!! info "Organizer"
 
-    [Swing Beasts](https://swing.kids/cn/swing-beasts)  
-    摇摆野兽  
+    [Swing Beasts](https://swing.kids/cn/swing-beasts) • 摇摆野兽  
 
 ---
 

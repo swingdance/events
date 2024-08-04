@@ -9,10 +9,9 @@ description: "2024-04-19 ~ 2024-04-21"
 :fontawesome-solid-calendar-days: 2024-04-19 ~ 2024-04-21  
 :fontawesome-solid-location-dot: 成都  
 
-!!! info "组织者"
+!!! info "组织方"
 
-    [Hi Swing](https://swing.kids/cn/hi-swing)  
-    摇摆成都  
+    [Hi Swing](https://swing.kids/cn/hi-swing) • 摇摆成都  
 
 ---
 

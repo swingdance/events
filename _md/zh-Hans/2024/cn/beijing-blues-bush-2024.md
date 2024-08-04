@@ -9,7 +9,7 @@ description: "2024-09-06 ~ 2024-09-08"
 :fontawesome-solid-calendar-days: 2024-09-06 ~ 2024-09-08  
 :fontawesome-solid-location-dot: 北京  
 
-!!! info "组织者"
+!!! info "组织方"
 
     [Blues Beijing](https://swing.kids/cn/blues-beijing)  
 

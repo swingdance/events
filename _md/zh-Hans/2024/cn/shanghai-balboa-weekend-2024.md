@@ -11,10 +11,9 @@ tags:
 :fontawesome-solid-calendar-days: 2024-10-03 ~ 2024-10-06  
 :fontawesome-solid-location-dot: 上海  
 
-!!! info "组织者"
+!!! info "组织方"
 
-    [Tabby The Cat](https://swing.kids/cn/tabby-the-cat)  
-    Tabby The Cat 摇摆舞工作室  
+    [Tabby The Cat](https://swing.kids/cn/tabby-the-cat) • Tabby The Cat 摇摆舞工作室  
 
 ???+ venue "场地"
 

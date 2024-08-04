@@ -12,8 +12,7 @@ description: "2024-05-31 ~ 2024-06-02"
 
 !!! info "Organizer"
 
-    [Laisi Swing Studio](https://swing.kids/cn/laisi-swing-studio)  
-    爵对莱斯工作室  
+    [Laisi Swing Studio](https://swing.kids/cn/laisi-swing-studio) • 爵对莱斯工作室  
 
 ???+ venue "Venue"
 

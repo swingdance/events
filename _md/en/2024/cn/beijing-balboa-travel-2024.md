@@ -14,8 +14,7 @@ tags:
 
 !!! info "Organizer"
 
-    [Swing Travels](https://swing.kids/cn/swing-travels)  
-    摇摆之旅  
+    [Swing Travels](https://swing.kids/cn/swing-travels) • 摇摆之旅  
 
 ---
 

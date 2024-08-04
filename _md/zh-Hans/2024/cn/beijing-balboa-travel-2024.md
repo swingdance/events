@@ -12,10 +12,9 @@ tags:
 :fontawesome-solid-calendar-days: 2024-01-05 ~ 2024-01-07  
 :fontawesome-solid-location-dot: 北京  
 
-!!! info "组织者"
+!!! info "组织方"
 
-    [Swing Travels](https://swing.kids/cn/swing-travels)  
-    摇摆之旅  
+    [Swing Travels](https://swing.kids/cn/swing-travels) • 摇摆之旅  
 
 ---
 

@@ -10,10 +10,9 @@ description: "2024-05-31 ~ 2024-06-02"
 :fontawesome-solid-calendar-days: 2024-05-31 ~ 2024-06-02  
 :fontawesome-solid-location-dot: 南京  
 
-!!! info "组织者"
+!!! info "组织方"
 
-    [Laisi Swing Studio](https://swing.kids/cn/laisi-swing-studio)  
-    爵对莱斯工作室  
+    [Laisi Swing Studio](https://swing.kids/cn/laisi-swing-studio) • 爵对莱斯工作室  
 
 ???+ venue "场地"
 

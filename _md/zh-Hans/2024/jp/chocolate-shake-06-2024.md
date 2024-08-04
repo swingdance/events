@@ -8,7 +8,7 @@ description: "2024-06-22"
 :fontawesome-solid-calendar-days: 2024-06-22 ~ 2024-06-22  
 :fontawesome-solid-location-dot: 东京  
 
-!!! info "组织者"
+!!! info "组织方"
 
     [Swing Gigolo](https://swing.kids/jp/swing-gigolo)  
 

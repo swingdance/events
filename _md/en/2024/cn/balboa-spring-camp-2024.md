@@ -10,8 +10,7 @@ description: "2024-04-19 ~ 2024-04-23"
 
 !!! info "Organizer"
 
-    [Downtown Swing](https://swing.kids/cn/downtown-swing)  
-    Downtown Swing 上海摇摆  
+    [Downtown Swing](https://swing.kids/cn/downtown-swing) • Downtown Swing 上海摇摆  
 
 ---
 

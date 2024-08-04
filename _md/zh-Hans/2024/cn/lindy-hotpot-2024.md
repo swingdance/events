@@ -8,10 +8,9 @@ description: "2024-03-22 ~ 2024-03-24"
 :fontawesome-solid-calendar-days: 2024-03-22 ~ 2024-03-24  
 :fontawesome-solid-location-dot: 重庆  
 
-!!! info "组织者"
+!!! info "组织方"
 
-    [Swing Chongqing](https://swing.kids/cn/swing-chong-qing)  
-    山城摇摆  
+    [Swing Chongqing](https://swing.kids/cn/swing-chong-qing) • 山城摇摆  
 
 ---
 

@@ -12,8 +12,7 @@ description: "2024-08-30 ~ 2024-09-01"
 
 !!! info "Organizer"
 
-    [Seriously! Swing Studio](https://swing.kids/cn/seriously-swing-studio)  
-    SSS认真摇摆工作室  
+    [Seriously! Swing Studio](https://swing.kids/cn/seriously-swing-studio) • SSS认真摇摆工作室  
 
 ## Contact
 

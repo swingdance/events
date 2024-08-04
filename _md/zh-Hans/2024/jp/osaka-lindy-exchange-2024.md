@@ -8,10 +8,9 @@ description: "2024-10-11 ~ 2024-10-13"
 :fontawesome-solid-calendar-days: 2024-10-11 ~ 2024-10-13  
 :fontawesome-solid-location-dot: 大阪  
 
-!!! info "组织者"
+!!! info "组织方"
 
-    [Osaka Swing](https://swing.kids/jp/osaka-swing)  
-    大阪スイング  
+    [Osaka Swing](https://swing.kids/jp/osaka-swing) • 大阪スイング  
 
 ## 联系
 

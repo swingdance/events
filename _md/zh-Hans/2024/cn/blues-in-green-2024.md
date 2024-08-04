@@ -11,6 +11,13 @@ tags:
 :fontawesome-solid-calendar-days: 2024-08-10 ~ 2024-08-12  
 :fontawesome-solid-location-dot: 景德镇  
 
+## 联系
+
+
+---
+
+ [:fontawesome-brands-weixin:{ .ky_social_links_icon }](https://mp.weixin.qq.com/s/hi8Ya55Lb6PcihasglWWlQ){ target='_blank' }
+
 ---
 
 [添加到日历](https://swing.news/ics/zh-Hans/2024/cn/blues-in-green-2024.ics){ .md-button }

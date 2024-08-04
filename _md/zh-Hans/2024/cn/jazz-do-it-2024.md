@@ -9,10 +9,9 @@ description: "2024-07-19 ~ 2024-07-21"
 :fontawesome-solid-calendar-days: 2024-07-19 ~ 2024-07-21  
 :fontawesome-solid-location-dot: 北京  
 
-!!! info "组织者"
+!!! info "组织方"
 
-    [Swing Beasts](https://swing.kids/cn/swing-beasts)  
-    摇摆野兽  
+    [Swing Beasts](https://swing.kids/cn/swing-beasts) • 摇摆野兽  
 
 ---
 

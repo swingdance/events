@@ -11,8 +11,7 @@ description: "2024-07-26 ~ 2024-07-28"
 
 !!! info "Organizer"
 
-    [Swing Hangzhou](https://swing.kids/cn/swing-hang-zhou)  
-    摇摆杭州  
+    [Swing Hangzhou](https://swing.kids/cn/swing-hang-zhou) • 摇摆杭州  
 
 ## Contact
 

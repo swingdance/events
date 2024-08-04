@@ -12,8 +12,7 @@ description: "2024-11-01 ~ 2024-11-03"
 
 !!! info "Organizer"
 
-    [Cat's Corner Studio](https://swing.kids/cn/cats-corner-studio)  
-    猫角工作室  
+    [Cat's Corner Studio](https://swing.kids/cn/cats-corner-studio) • 猫角工作室  
 
 ???+ venue "Venue"
 

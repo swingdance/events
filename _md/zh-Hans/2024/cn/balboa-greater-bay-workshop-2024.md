@@ -11,7 +11,7 @@ Bal 浪湾区
 :fontawesome-solid-calendar-days: 2024-07-27 ~ 2024-07-28  
 :fontawesome-solid-location-dot: 深圳  
 
-!!! info "组织者"
+!!! info "组织方"
 
     [Balboa Shenzhen](https://swing.kids/cn/balboa-shenzhen)  
 

@@ -10,7 +10,7 @@ description: "2025-03-14 ~ 2025-03-16"
 
 !!! info "Organizer"
 
-    [swingtime-bordeaux](https://swing.kids/fr/swingtime-bordeaux)  
+    [Swingtime Bordeaux](https://swing.kids/fr/swingtime-bordeaux)  
 
 ## Contact
 

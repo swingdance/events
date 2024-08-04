@@ -8,7 +8,7 @@ description: "2024-03-21 ~ 2024-03-24"
 :fontawesome-solid-calendar-days: 2024-03-21 ~ 2024-03-24  
 :fontawesome-solid-location-dot: 厦门  
 
-!!! info "组织者"
+!!! info "组织方"
 
     [Amoy Swing](https://swing.kids/cn/amoy-swing)  
 

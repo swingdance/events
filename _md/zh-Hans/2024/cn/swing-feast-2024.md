@@ -9,10 +9,9 @@ description: "2024-08-02 ~ 2024-08-04"
 :fontawesome-solid-calendar-days: 2024-08-02 ~ 2024-08-04  
 :fontawesome-solid-location-dot: 上海  
 
-!!! info "组织者"
+!!! info "组织方"
 
-    [Downtown Swing](https://swing.kids/cn/downtown-swing)  
-    Downtown Swing 上海摇摆  
+    [Downtown Swing](https://swing.kids/cn/downtown-swing) • Downtown Swing 上海摇摆  
 
 ---
 

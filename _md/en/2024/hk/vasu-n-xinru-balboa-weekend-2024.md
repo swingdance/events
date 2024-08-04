@@ -12,8 +12,7 @@ tags:
 
 !!! info "Organizer"
 
-    [Hong Kong Balboa](https://swing.kids/hk/hong-kong-balboa)  
-    Hong Kong Balboa  
+    [Hong Kong Balboa](https://swing.kids/hk/hong-kong-balboa) • Hong Kong Balboa  
 
 ## Contact
 

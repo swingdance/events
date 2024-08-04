@@ -10,10 +10,9 @@ tags:
 :fontawesome-solid-calendar-days: 2024-07-03 ~ 2024-07-08  
 :fontawesome-solid-location-dot: 北京  
 
-!!! info "组织者"
+!!! info "组织方"
 
-    [Swing Beijing](https://swing.kids/cn/swing-beijing)  
-    摇摆北京  
+    [Swing Beijing](https://swing.kids/cn/swing-beijing) • 摇摆北京  
 
 ## 联系
 

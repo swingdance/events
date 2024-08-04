@@ -10,10 +10,9 @@ tags:
 :fontawesome-solid-calendar-days: 2024-09-27 ~ 2024-09-29  
 :fontawesome-solid-location-dot: HK  
 
-!!! info "组织者"
+!!! info "组织方"
 
-    [Hong Kong Balboa](https://swing.kids/hk/hong-kong-balboa)  
-    Hong Kong Balboa  
+    [Hong Kong Balboa](https://swing.kids/hk/hong-kong-balboa) • Hong Kong Balboa  
 
 ## 联系
 

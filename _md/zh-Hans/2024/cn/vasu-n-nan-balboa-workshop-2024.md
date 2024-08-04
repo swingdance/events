@@ -9,10 +9,9 @@ description: "2024-06-08 ~ 2024-06-09"
 :fontawesome-solid-calendar-days: 2024-06-08 ~ 2024-06-09  
 :fontawesome-solid-location-dot: 北京  
 
-!!! info "组织者"
+!!! info "组织方"
 
-    [Swing Land](https://swing.kids/cn/swing-land)  
-    摇摆乐园  
+    [Swing Land](https://swing.kids/cn/swing-land) • 摇摆乐园  
 
 ---
 

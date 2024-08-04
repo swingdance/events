@@ -10,8 +10,7 @@ description: "2024-10-11 ~ 2024-10-13"
 
 !!! info "Organizer"
 
-    [Osaka Swing](https://swing.kids/jp/osaka-swing)  
-    大阪スイング  
+    [Osaka Swing](https://swing.kids/jp/osaka-swing) • 大阪スイング  
 
 ## Contact
 

@@ -11,8 +11,7 @@ description: "2024-04-19 ~ 2024-04-21"
 
 !!! info "Organizer"
 
-    [Hi Swing](https://swing.kids/cn/hi-swing)  
-    摇摆成都  
+    [Hi Swing](https://swing.kids/cn/hi-swing) • 摇摆成都  
 
 ---
 

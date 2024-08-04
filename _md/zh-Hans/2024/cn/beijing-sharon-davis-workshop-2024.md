@@ -9,10 +9,9 @@ Sharon Davis 摇摆秘籍
 :fontawesome-solid-calendar-days: 2024-03-29 ~ 2024-04-01  
 :fontawesome-solid-location-dot: 北京  
 
-!!! info "组织者"
+!!! info "组织方"
 
-    [A Frame](https://swing.kids/cn/a-frame)  
-    A Frame 舞蹈工作室  
+    [A Frame](https://swing.kids/cn/a-frame) • A Frame 舞蹈工作室  
 
 ---
 

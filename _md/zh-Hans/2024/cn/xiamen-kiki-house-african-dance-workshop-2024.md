@@ -9,7 +9,7 @@ description: "2024-05-18 ~ 2024-05-19"
 :fontawesome-solid-calendar-days: 2024-05-18 ~ 2024-05-19  
 :fontawesome-solid-location-dot: 厦门  
 
-!!! info "组织者"
+!!! info "组织方"
 
     [Amoy Swing](https://swing.kids/cn/amoy-swing)  
 

@@ -11,6 +11,13 @@ tags:
 :fontawesome-solid-calendar-days: 2024-08-10 ~ 2024-08-12  
 :fontawesome-solid-location-dot: Jingdezhen  
 
+## Contact
+
+
+---
+
+ [:fontawesome-brands-weixin:{ .ky_social_links_icon }](https://mp.weixin.qq.com/s/hi8Ya55Lb6PcihasglWWlQ){ target='_blank' }
+
 ---
 
 [Add to Calendar](https://swing.news/ics/en/2024/cn/blues-in-green-2024.ics){ .md-button }

@@ -9,10 +9,9 @@ description: "2024-06-08 ~ 2024-06-10"
 :fontawesome-solid-calendar-days: 2024-06-08 ~ 2024-06-10  
 :fontawesome-solid-location-dot: 大理  
 
-!!! info "组织者"
+!!! info "组织方"
 
-    [Yun Swing](https://swing.kids/cn/yun-swing)  
-    云上摇摆  
+    [Yun Swing](https://swing.kids/cn/yun-swing) • 云上摇摆  
 
 ---
 

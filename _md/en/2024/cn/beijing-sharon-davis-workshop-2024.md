@@ -11,8 +11,7 @@ Sharon Davis 摇摆秘籍
 
 !!! info "Organizer"
 
-    [A Frame](https://swing.kids/cn/a-frame)  
-    A Frame 舞蹈工作室  
+    [A Frame](https://swing.kids/cn/a-frame) • A Frame 舞蹈工作室  
 
 ---
 

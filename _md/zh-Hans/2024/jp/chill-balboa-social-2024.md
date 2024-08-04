@@ -10,7 +10,7 @@ tags:
 :fontawesome-solid-calendar-days: 2024-06-15 ~ 2024-06-15  
 :fontawesome-solid-location-dot: 东京  
 
-!!! info "组织者"
+!!! info "组织方"
 
     [Chillboa](https://swing.kids/jp/chillboa)  
 

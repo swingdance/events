@@ -12,8 +12,7 @@ tags:
 
 !!! info "Organizer"
 
-    [Swing Beijing](https://swing.kids/cn/swing-beijing)  
-    摇摆北京  
+    [Swing Beijing](https://swing.kids/cn/swing-beijing) • 摇摆北京  
 
 ## Contact
 

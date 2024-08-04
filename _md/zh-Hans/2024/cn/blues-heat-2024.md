@@ -11,7 +11,7 @@ tags:
 :fontawesome-solid-calendar-days: 2024-08-14 ~ 2024-08-18  
 :fontawesome-solid-location-dot: 上海  
 
-!!! info "组织者"
+!!! info "组织方"
 
     [Soul City](https://swing.kids/cn/soul-city)  
 

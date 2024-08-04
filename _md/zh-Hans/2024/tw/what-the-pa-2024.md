@@ -9,10 +9,9 @@ description: "2024-11-16 ~ 2024-11-17"
 :fontawesome-solid-calendar-days: 2024-11-16 ~ 2024-11-17  
 :fontawesome-solid-location-dot: 台北  
 
-!!! info "组织者"
+!!! info "组织方"
 
-    [Naughty Swing](https://swing.kids/tw/naughty-swing)  
-    Naughty Swing 搖擺舞團  
+    [Naughty Swing](https://swing.kids/tw/naughty-swing) • Naughty Swing 搖擺舞團  
 
 ???+ venue "场地"
 

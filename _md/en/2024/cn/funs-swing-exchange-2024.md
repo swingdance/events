@@ -10,8 +10,7 @@ description: "2024-07-05 ~ 2024-07-07"
 
 !!! info "Organizer"
 
-    [Swing Changsha](https://swing.kids/cn/swing-chang-sha)  
-    长沙摇摆  
+    [Swing Changsha](https://swing.kids/cn/swing-chang-sha) • 长沙摇摆  
 
 ---
 

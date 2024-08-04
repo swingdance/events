@@ -12,7 +12,8 @@ tags:
 
 ???+ details "Details"
 
-    Feb 1-7 Beach Camp in Hua Hin  
+    Feb 1-7 Beach Camp in Hua Hin  
+      
     Feb 7-9 BKK Weekend in Bangkok  
 
 ## Contact

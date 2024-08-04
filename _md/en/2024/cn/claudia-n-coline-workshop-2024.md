@@ -11,8 +11,7 @@ C&C 大师工作坊
 
 !!! info "Organizer"
 
-    [A Frame](https://swing.kids/cn/a-frame)  
-    A Frame 舞蹈工作室  
+    [A Frame](https://swing.kids/cn/a-frame) • A Frame 舞蹈工作室  
 
 ## Contact
 

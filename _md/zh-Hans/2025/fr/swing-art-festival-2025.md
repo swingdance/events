@@ -8,9 +8,9 @@ description: "2025-03-14 ~ 2025-03-16"
 :fontawesome-solid-calendar-days: 2025-03-14 ~ 2025-03-16  
 :fontawesome-solid-location-dot: 波尔多  
 
-!!! info "组织者"
+!!! info "组织方"
 
-    [swingtime-bordeaux](https://swing.kids/fr/swingtime-bordeaux)  
+    [Swingtime Bordeaux](https://swing.kids/fr/swingtime-bordeaux)  
 
 ## 联系
 

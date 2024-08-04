@@ -11,8 +11,7 @@ description: "2024-11-16 ~ 2024-11-17"
 
 !!! info "Organizer"
 
-    [Naughty Swing](https://swing.kids/tw/naughty-swing)  
-    Naughty Swing 搖擺舞團  
+    [Naughty Swing](https://swing.kids/tw/naughty-swing) • Naughty Swing 搖擺舞團  
 
 ???+ venue "Venue"
 

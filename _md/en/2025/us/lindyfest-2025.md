@@ -10,7 +10,7 @@ description: "2025-03-13 ~ 2025-03-16"
 
 !!! info "Organizer"
 
-    [houston-swing-dance-society](https://swing.kids/us/houston-swing-dance-society)  
+    [Houston Swing Dance Society](https://swing.kids/us/houston-swing-dance-society)  
 
 ## Contact
 

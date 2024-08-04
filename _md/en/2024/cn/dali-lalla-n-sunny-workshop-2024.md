@@ -11,8 +11,7 @@ description: "2024-06-08 ~ 2024-06-10"
 
 !!! info "Organizer"
 
-    [Yun Swing](https://swing.kids/cn/yun-swing)  
-    云上摇摆  
+    [Yun Swing](https://swing.kids/cn/yun-swing) • 云上摇摆  
 
 ---
 

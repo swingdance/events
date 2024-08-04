@@ -8,7 +8,7 @@ description: "2024-02-02 ~ 2024-02-04"
 :fontawesome-solid-calendar-days: 2024-02-02 ~ 2024-02-04  
 :fontawesome-solid-location-dot: HK  
 
-!!! info "组织者"
+!!! info "组织方"
 
     [Rhythm Studio](https://swing.kids/hk/rhythm-studio)  
 

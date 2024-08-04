@@ -8,7 +8,7 @@ description: "2024-06-28"
 :fontawesome-solid-calendar-days: 2024-06-28 ~ 2024-06-28  
 :fontawesome-solid-location-dot: 东京  
 
-!!! info "组织者"
+!!! info "组织方"
 
     [Kawasaki Swing](https://swing.kids/jp/kawasaki-swing)  
 

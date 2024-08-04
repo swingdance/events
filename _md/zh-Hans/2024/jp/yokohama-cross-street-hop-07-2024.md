@@ -8,7 +8,7 @@ description: "2024-07-27"
 :fontawesome-solid-calendar-days: 2024-07-27 ~ 2024-07-27  
 :fontawesome-solid-location-dot: 横滨  
 
-!!! info "组织者"
+!!! info "组织方"
 
     [Swingin Barrelhouse Records](https://swing.kids/jp/swingin-barrelhouse-records)  
 

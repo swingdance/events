@@ -9,10 +9,9 @@ description: "2024-07-26 ~ 2024-07-28"
 :fontawesome-solid-calendar-days: 2024-07-26 ~ 2024-07-28  
 :fontawesome-solid-location-dot: 杭州  
 
-!!! info "组织者"
+!!! info "组织方"
 
-    [Swing Hangzhou](https://swing.kids/cn/swing-hang-zhou)  
-    摇摆杭州  
+    [Swing Hangzhou](https://swing.kids/cn/swing-hang-zhou) • 摇摆杭州  
 
 ## 联系
 

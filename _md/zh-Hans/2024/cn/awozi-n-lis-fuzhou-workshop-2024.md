@@ -8,10 +8,9 @@ description: "2024-05-17 ~ 2024-05-22"
 :fontawesome-solid-calendar-days: 2024-05-17 ~ 2024-05-22  
 :fontawesome-solid-location-dot: 福州  
 
-!!! info "组织者"
+!!! info "组织方"
 
-    [Swing Fuzhou](https://swing.kids/cn/swing-fu-zhou)  
-    榕城摇摆  
+    [Swing Fuzhou](https://swing.kids/cn/swing-fu-zhou) • 榕城摇摆  
 
 ---
 

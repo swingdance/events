@@ -8,10 +8,9 @@ description: "2024-07-05 ~ 2024-07-07"
 :fontawesome-solid-calendar-days: 2024-07-05 ~ 2024-07-07  
 :fontawesome-solid-location-dot: 长沙  
 
-!!! info "组织者"
+!!! info "组织方"
 
-    [Swing Changsha](https://swing.kids/cn/swing-chang-sha)  
-    长沙摇摆  
+    [Swing Changsha](https://swing.kids/cn/swing-chang-sha) • 长沙摇摆  
 
 ---
 

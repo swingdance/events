@@ -10,7 +10,7 @@ tags:
 :fontawesome-solid-calendar-days: 2024-12-08 ~ 2024-12-10  
 :fontawesome-solid-location-dot: 东京  
 
-!!! info "组织者"
+!!! info "组织方"
 
     [Swing Gigolo](https://swing.kids/jp/swing-gigolo)  
 

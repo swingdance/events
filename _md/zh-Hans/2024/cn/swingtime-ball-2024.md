@@ -10,10 +10,9 @@ description: "2024-11-01 ~ 2024-11-03"
 :fontawesome-solid-calendar-days: 2024-11-01 ~ 2024-11-03  
 :fontawesome-solid-location-dot: 北京  
 
-!!! info "组织者"
+!!! info "组织方"
 
-    [Cat's Corner Studio](https://swing.kids/cn/cats-corner-studio)  
-    猫角工作室  
+    [Cat's Corner Studio](https://swing.kids/cn/cats-corner-studio) • 猫角工作室  
 
 ???+ venue "场地"
 

@@ -9,10 +9,9 @@ C&C 大师工作坊
 :fontawesome-solid-calendar-days: 2024-09-06 ~ 2024-09-09  
 :fontawesome-solid-location-dot: 北京  
 
-!!! info "组织者"
+!!! info "组织方"
 
-    [A Frame](https://swing.kids/cn/a-frame)  
-    A Frame 舞蹈工作室  
+    [A Frame](https://swing.kids/cn/a-frame) • A Frame 舞蹈工作室  
 
 ## 联系
 

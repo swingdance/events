@@ -10,7 +10,7 @@ description: "2024-10-18 ~ 2024-10-20"
 :fontawesome-solid-calendar-days: 2024-10-18 ~ 2024-10-20  
 :fontawesome-solid-location-dot: 佛山  
 
-!!! info "组织者"
+!!! info "组织方"
 
     [Swing Shenzhen](https://swing.kids/cn/swing-shen-zhen) • 摇摆深圳  
     [Swing Foshan](https://swing.kids/cn/swing-fo-shan) • 佛山摇摆  

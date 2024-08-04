@@ -10,8 +10,7 @@ description: "2024-05-17 ~ 2024-05-22"
 
 !!! info "Organizer"
 
-    [Swing Fuzhou](https://swing.kids/cn/swing-fu-zhou)  
-    榕城摇摆  
+    [Swing Fuzhou](https://swing.kids/cn/swing-fu-zhou) • 榕城摇摆  
 
 ---
 

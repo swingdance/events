@@ -13,8 +13,7 @@ tags:
 
 !!! info "Organizer"
 
-    [Swing Land](https://swing.kids/cn/swing-land)  
-    摇摆乐园  
+    [Swing Land](https://swing.kids/cn/swing-land) • 摇摆乐园  
 
 ---
 

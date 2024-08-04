@@ -11,10 +11,9 @@ tags:
 :fontawesome-solid-calendar-days: 2024-03-15 ~ 2024-03-17  
 :fontawesome-solid-location-dot: 北京  
 
-!!! info "组织者"
+!!! info "组织方"
 
-    [Swing Land](https://swing.kids/cn/swing-land)  
-    摇摆乐园  
+    [Swing Land](https://swing.kids/cn/swing-land) • 摇摆乐园  
 
 ---
 

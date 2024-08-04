@@ -8,7 +8,7 @@ description: "2024-07-20 ~ 2024-07-21"
 :fontawesome-solid-calendar-days: 2024-07-20 ~ 2024-07-21  
 :fontawesome-solid-location-dot: 深圳  
 
-!!! info "组织者"
+!!! info "组织方"
 
     [Walking the Blues](https://swing.kids/cn/walking-the-blues)  
 

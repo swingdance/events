@@ -8,7 +8,7 @@ description: "2025-01-10 ~ 2025-01-12"
 :fontawesome-solid-calendar-days: 2025-01-10 ~ 2025-01-12  
 :fontawesome-solid-location-dot: HK  
 
-!!! info "组织者"
+!!! info "组织方"
 
     [Rhythm Studio](https://swing.kids/hk/rhythm-studio)  
 

@@ -8,7 +8,7 @@ description: "2024-06-29 ~ 2024-06-30"
 :fontawesome-solid-calendar-days: 2024-06-29 ~ 2024-06-30  
 :fontawesome-solid-location-dot: 札幌  
 
-!!! info "组织者"
+!!! info "组织方"
 
     [Sapporo Swing Dance](https://swing.kids/jp/sapporo-swing-dance)  
 

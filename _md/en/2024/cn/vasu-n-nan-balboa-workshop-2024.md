@@ -11,8 +11,7 @@ description: "2024-06-08 ~ 2024-06-09"
 
 !!! info "Organizer"
 
-    [Swing Land](https://swing.kids/cn/swing-land)  
-    摇摆乐园  
+    [Swing Land](https://swing.kids/cn/swing-land) • 摇摆乐园  
 
 ---
 

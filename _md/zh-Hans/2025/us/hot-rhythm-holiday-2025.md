@@ -9,7 +9,7 @@ description: "2025-02-14 ~ 2025-02-16"
 :fontawesome-solid-calendar-days: 2025-02-14 ~ 2025-02-16  
 :fontawesome-solid-location-dot: 奥斯汀  
 
-!!! info "组织者"
+!!! info "组织方"
 
     [Hot Rhythm Foundation](https://swing.kids/us/hot-rhythm-foundation)  
 

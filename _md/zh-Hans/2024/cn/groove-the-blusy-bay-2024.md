@@ -12,7 +12,7 @@ tags:
 :fontawesome-solid-calendar-days: 2024-03-15 ~ 2024-03-17  
 :fontawesome-solid-location-dot: 深圳  
 
-!!! info "组织者"
+!!! info "组织方"
 
     [Groove Blues Swing](https://swing.kids/cn/groove-blues-swing)  
 

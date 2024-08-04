@@ -10,10 +10,9 @@ description: "2024-08-30 ~ 2024-09-01"
 :fontawesome-solid-calendar-days: 2024-08-30 ~ 2024-09-01  
 :fontawesome-solid-location-dot: 杭州  
 
-!!! info "组织者"
+!!! info "组织方"
 
-    [Seriously! Swing Studio](https://swing.kids/cn/seriously-swing-studio)  
-    SSS认真摇摆工作室  
+    [Seriously! Swing Studio](https://swing.kids/cn/seriously-swing-studio) • SSS认真摇摆工作室  
 
 ## 联系
 
