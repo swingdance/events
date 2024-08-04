@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:swing-news_zh-Hans_cn_vans-n-nan-balboa-workshop-aug-2024
+DTSTART;VALUE=DATE:20240823
+DTEND;VALUE=DATE:20240826
+SUMMARY:Vans & Nan Balboa Workshop - Aug
+URL:https://swing.news/zh-Hans/cn/vans-n-nan-balboa-workshop-aug-2024
+LOCATION:杭州
+END:VEVENT
+END:VCALENDAR
