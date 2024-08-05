@@ -8,7 +8,7 @@ tags:
 # California Balboa Classic 
 
 :fontawesome-solid-calendar-days: 2025-01-23 ~ 2025-01-26  
-:fontawesome-solid-location-dot: 加利福尼亚州  
+:fontawesome-solid-location-dot: 洛杉矶  
 
 ## 联系
 

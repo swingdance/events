@@ -8,7 +8,7 @@ tags:
 # California Balboa Classic 
 
 :fontawesome-solid-calendar-days: 2025-01-23 ~ 2025-01-26  
-:fontawesome-solid-location-dot: California  
+:fontawesome-solid-location-dot: Los Angeles  
 
 ## Contact
 

@@ -6,7 +6,7 @@ description: "2024-08-30 ~ 2024-09-02"
 # Camp Hollywood 
 
 :fontawesome-solid-calendar-days: 2024-08-30 ~ 2024-09-02  
-:fontawesome-solid-location-dot: 加利福尼亚州  
+:fontawesome-solid-location-dot: 洛杉矶  
 
 ## 联系
 

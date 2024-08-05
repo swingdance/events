@@ -8,7 +8,7 @@ tags:
 # California Balboa Classic 
 
 :fontawesome-solid-calendar-days: 2024-01-12 ~ 2024-01-14  
-:fontawesome-solid-location-dot: California  
+:fontawesome-solid-location-dot: Los Angeles  
 
 ## Contact
 
