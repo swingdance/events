@@ -13,7 +13,7 @@ tags:
 
 !!! info "组织方"
 
-    [Tabby The Cat](https://swing.kids/cn/tabby-the-cat) • Tabby The Cat 摇摆舞工作室  
+    [Tabby the Cat](https://swing.kids/cn/tabby-the-cat) • Tabby the Cat 摇摆舞工作室  
 
 ???+ venue "场地"
 

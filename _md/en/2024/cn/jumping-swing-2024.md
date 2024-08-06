@@ -10,7 +10,7 @@ description: "2024-05-01 ~ 2024-05-02"
 
 !!! info "Organizer"
 
-    [Tabby The Cat](https://swing.kids/cn/tabby-the-cat) • Tabby The Cat 摇摆舞工作室  
+    [Tabby the Cat](https://swing.kids/cn/tabby-the-cat) • Tabby the Cat 摇摆舞工作室  
 
 ---
 
