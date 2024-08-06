@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:swing-news_cn_solo-jazz-workshop-black-bottom-2024
+DTSTART;VALUE=DATE:20240814
+DTEND;VALUE=DATE:20240817
+SUMMARY:Solo Jazz Workshop - Black Bottom
+URL:https://swing.news/cn/solo-jazz-workshop-black-bottom-2024
+LOCATION:Shanghai
+END:VEVENT
+END:VCALENDAR
