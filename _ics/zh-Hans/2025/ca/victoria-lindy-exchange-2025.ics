@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:swing-news_zh-Hans_ca_victoria-lindy-exchange-2025
+DTSTART;VALUE=DATE:20250517
+DTEND;VALUE=DATE:20250520
+SUMMARY:Victoria Lindy Exchange
+URL:https://swing.news/zh-Hans/ca/victoria-lindy-exchange-2025
+LOCATION:维多利亚
+END:VEVENT
+END:VCALENDAR
