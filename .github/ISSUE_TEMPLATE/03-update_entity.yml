@@ -116,6 +116,7 @@ body:
         - Blues
         - Boogie Woogie
         - Shag
+        - Solo Jazz
 
   - type: textarea
     id: venue
