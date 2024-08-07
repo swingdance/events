@@ -15,9 +15,15 @@ description: "2024-09-20 ~ 2024-09-22"
 
 ???+ venue "Venue"
 
-    上海市静安区豫园路218号，百乐门  
-      
+    上海市静安区豫园路218号，百乐门  
     Paramount: No.218 Yuyuan Road, Jingan District, Shanghai  
+
+## Contact
+
+
+---
+
+ [:fontawesome-brands-weixin:{ .ky_social_links_icon }](https://mp.weixin.qq.com/s/MrktCK0mWRyZ0-uzbDzL6g){ target='_blank' }
 
 ---
 
@@ -29,7 +35,7 @@ description: "2024-09-20 ~ 2024-09-22"
 [:material-file-edit-outline:][edit-info]{ target='_blank' }
 </div>
 <div class="ky_page_footer_leading" markdown="span">
-[:material-clock-edit-outline: 2024-07-08 13:35 UTC][view-edit-history]{ .ky_page_footer_history_button target='_blank' }
+[:material-clock-edit-outline: 2024-08-07 13:02 UTC][view-edit-history]{ .ky_page_footer_history_button target='_blank' }
 </div>
 </div>
 
