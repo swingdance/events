@@ -14,6 +14,13 @@ tags:
 
     [Swing Beasts](https://swing.kids/cn/swing-beasts) • 摇摆野兽  
 
+## Contact
+
+
+---
+
+ [:fontawesome-brands-weixin:{ .ky_social_links_icon }](https://mp.weixin.qq.com/s/R8zF1myr5NonqyWgsR8pyw){ target='_blank' }
+
 ---
 
 [Add to Calendar](https://swing.news/ics/en/2024/cn/golden-bal-week-2024.ics){ .md-button }
@@ -24,7 +31,7 @@ tags:
 [:material-file-edit-outline:][edit-info]{ target='_blank' }
 </div>
 <div class="ky_page_footer_leading" markdown="span">
-[:material-clock-edit-outline: 2024-08-08 13:40 UTC][view-edit-history]{ .ky_page_footer_history_button target='_blank' }
+[:material-clock-edit-outline: 2024-08-08 14:02 UTC][view-edit-history]{ .ky_page_footer_history_button target='_blank' }
 </div>
 </div>
 
