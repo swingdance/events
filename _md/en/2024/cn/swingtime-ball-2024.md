@@ -16,8 +16,7 @@ description: "2024-11-01 ~ 2024-11-03"
 
 ???+ venue "Venue"
 
-    北京朝阳区歌华大厦 B座 11层 Ballroom 大舞厅  
-      
+    北京朝阳区歌华大厦 B座 11层 Ballroom 大舞厅  
     东城区东直门内北小街青龙胡同1号（北二环小街桥西南角）  
       
     Qinglong Hutong, Dongzhimen Inner North Alley, Dongcheng District, Beijing China (South East Corner of Xiaojie Bridge North 2nd Ring  
@@ -25,7 +24,11 @@ description: "2024-11-01 ~ 2024-11-03"
 ## Contact
 
 :fontawesome-solid-envelope: <stb@swingbeijing.com>  
-:fontawesome-solid-globe: <https://swingtimeball.com>{ target='_blank' }  
+:fontawesome-solid-globe: <info@swingtimeball.com>{ target='_blank' }  
+
+---
+
+ [:fontawesome-brands-weixin:{ .ky_social_links_icon }](https://mp.weixin.qq.com/s/goSDq9n_w96ZmGgoJltPGA){ target='_blank' }
 
 ---
 
@@ -37,7 +40,7 @@ description: "2024-11-01 ~ 2024-11-03"
 [:material-file-edit-outline:][edit-info]{ target='_blank' }
 </div>
 <div class="ky_page_footer_leading" markdown="span">
-[:material-clock-edit-outline: 2024-06-30 10:35 UTC][view-edit-history]{ .ky_page_footer_history_button target='_blank' }
+[:material-clock-edit-outline: 2024-08-08 13:37 UTC][view-edit-history]{ .ky_page_footer_history_button target='_blank' }
 </div>
 </div>
 
