@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:swing-news_zh-Hans_us_austin-lindy-exchange-2024
+DTSTART;VALUE=DATE:20241114
+DTEND;VALUE=DATE:20241118
+SUMMARY:Austin Lindy Exchange
+URL:https://swing.news/zh-Hans/us/austin-lindy-exchange-2024
+LOCATION:奥斯汀
+END:VEVENT
+END:VCALENDAR
