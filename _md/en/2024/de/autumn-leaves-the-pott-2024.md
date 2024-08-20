@@ -5,13 +5,13 @@ description: "2024-12-13 ~ 2024-12-15"
 
 # Autumn Leaves The Pott 
 
-:fontawesome-solid-calendar-days: 2024-12-13 ~ 2024-12-15  
-:fontawesome-solid-location-dot: Dortmund  
+:fontawesome-solid-calendar-days:{ .ky_list_leading_icon } 2024-12-13 ~ 2024-12-15  
+:fontawesome-solid-location-dot:{ .ky_list_leading_icon } Dortmund  
 
 ## Contact
 
-:fontawesome-solid-envelope: <info@lindypott.de>  
-:fontawesome-solid-globe: <https://www.lindypott.de>{ target='_blank' }  
+:fontawesome-solid-envelope:{ .ky_list_leading_icon } <info@lindypott.de>  
+:fontawesome-solid-globe:{ .ky_list_leading_icon } <https://www.lindypott.de>{ target='_blank' }  
 
 ---
 

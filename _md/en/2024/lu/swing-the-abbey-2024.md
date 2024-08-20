@@ -5,13 +5,13 @@ description: "2024-09-27 ~ 2024-09-29"
 
 # Swing the Abbey 
 
-:fontawesome-solid-calendar-days: 2024-09-27 ~ 2024-09-29  
-:fontawesome-solid-location-dot: Luxembourg City  
+:fontawesome-solid-calendar-days:{ .ky_list_leading_icon } 2024-09-27 ~ 2024-09-29  
+:fontawesome-solid-location-dot:{ .ky_list_leading_icon } Luxembourg City  
 
 ## Contact
 
-:fontawesome-solid-envelope: <info@swingdance.lu>  
-:fontawesome-solid-globe: <https://www.swingtheabbey.com>{ target='_blank' }  
+:fontawesome-solid-envelope:{ .ky_list_leading_icon } <info@swingdance.lu>  
+:fontawesome-solid-globe:{ .ky_list_leading_icon } <https://www.swingtheabbey.com>{ target='_blank' }  
 
 ---
 

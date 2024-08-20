@@ -7,12 +7,12 @@ tags:
 
 # Fast Feet Festival 
 
-:fontawesome-solid-calendar-days: 2024-09-21 ~ 2024-09-22  
-:fontawesome-solid-location-dot: 牛津  
+:fontawesome-solid-calendar-days:{ .ky_list_leading_icon } 2024-09-21 ~ 2024-09-22  
+:fontawesome-solid-location-dot:{ .ky_list_leading_icon } 牛津  
 
 ## 联系
 
-:fontawesome-solid-globe: <https://www.oxfordlindyhoppers.co.uk>{ target='_blank' }  
+:fontawesome-solid-globe:{ .ky_list_leading_icon } <https://www.oxfordlindyhoppers.co.uk>{ target='_blank' }  
 
 ---
 

@@ -5,13 +5,13 @@ description: "2024-08-22 ~ 2024-08-24"
 
 # Harvest Moon Swing Dance Camp 
 
-:fontawesome-solid-calendar-days: 2024-08-22 ~ 2024-08-24  
-:fontawesome-solid-location-dot: Rietberg  
+:fontawesome-solid-calendar-days:{ .ky_list_leading_icon } 2024-08-22 ~ 2024-08-24  
+:fontawesome-solid-location-dot:{ .ky_list_leading_icon } Rietberg  
 
 ## Contact
 
-:fontawesome-solid-envelope: <hallo@harvestmoon.camp>  
-:fontawesome-solid-globe: <https://www.harvestmoon.camp>{ target='_blank' }  
+:fontawesome-solid-envelope:{ .ky_list_leading_icon } <hallo@harvestmoon.camp>  
+:fontawesome-solid-globe:{ .ky_list_leading_icon } <https://www.harvestmoon.camp>{ target='_blank' }  
 
 ---
 

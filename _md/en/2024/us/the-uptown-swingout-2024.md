@@ -5,13 +5,13 @@ description: "2024-08-23 ~ 2024-08-25"
 
 # The Uptown Swingout 
 
-:fontawesome-solid-calendar-days: 2024-08-23 ~ 2024-08-25  
-:fontawesome-solid-location-dot: Minneapolis  
+:fontawesome-solid-calendar-days:{ .ky_list_leading_icon } 2024-08-23 ~ 2024-08-25  
+:fontawesome-solid-location-dot:{ .ky_list_leading_icon } Minneapolis  
 
 ## Contact
 
-:fontawesome-solid-envelope: <info@uptownswing.net>  
-:fontawesome-solid-globe: <https://www.uptownswingout.com>{ target='_blank' }  
+:fontawesome-solid-envelope:{ .ky_list_leading_icon } <info@uptownswing.net>  
+:fontawesome-solid-globe:{ .ky_list_leading_icon } <https://www.uptownswingout.com>{ target='_blank' }  
 
 ---
 

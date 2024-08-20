@@ -5,13 +5,13 @@ description: "2024-08-21 ~ 2024-08-24"
 
 # Swing Era 
 
-:fontawesome-solid-calendar-days: 2024-08-21 ~ 2024-08-24  
-:fontawesome-solid-location-dot: Bangkok  
+:fontawesome-solid-calendar-days:{ .ky_list_leading_icon } 2024-08-21 ~ 2024-08-24  
+:fontawesome-solid-location-dot:{ .ky_list_leading_icon } Bangkok  
 
 ## Contact
 
-:fontawesome-solid-envelope: <contact@theswingera.com>  
-:fontawesome-solid-globe: <https://theswingera.com>{ target='_blank' }  
+:fontawesome-solid-envelope:{ .ky_list_leading_icon } <contact@theswingera.com>  
+:fontawesome-solid-globe:{ .ky_list_leading_icon } <https://theswingera.com>{ target='_blank' }  
 
 ---
 

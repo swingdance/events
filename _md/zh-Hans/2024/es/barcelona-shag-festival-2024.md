@@ -5,13 +5,13 @@ description: "2024-09-20 ~ 2024-09-22"
 
 # Barcelona Shag Festival ^10^
 
-:fontawesome-solid-calendar-days: 2024-09-20 ~ 2024-09-22  
-:fontawesome-solid-location-dot: 巴塞罗那  
+:fontawesome-solid-calendar-days:{ .ky_list_leading_icon } 2024-09-20 ~ 2024-09-22  
+:fontawesome-solid-location-dot:{ .ky_list_leading_icon } 巴塞罗那  
 
 ## 联系
 
-:fontawesome-solid-envelope: <shagbcn@gmail.com>  
-:fontawesome-solid-globe: <https://bcn.shag.cat>{ target='_blank' }  
+:fontawesome-solid-envelope:{ .ky_list_leading_icon } <shagbcn@gmail.com>  
+:fontawesome-solid-globe:{ .ky_list_leading_icon } <https://bcn.shag.cat>{ target='_blank' }  
 
 ---
 

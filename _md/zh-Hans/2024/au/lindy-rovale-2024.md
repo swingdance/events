@@ -5,13 +5,13 @@ description: "2024-10-26"
 
 # Lindy Rovale 
 
-:fontawesome-solid-calendar-days: 2024-10-26 ~ 2024-10-26  
-:fontawesome-solid-location-dot: 墨尔本  
+:fontawesome-solid-calendar-days:{ .ky_list_leading_icon } 2024-10-26 ~ 2024-10-26  
+:fontawesome-solid-location-dot:{ .ky_list_leading_icon } 墨尔本  
 
 ## 联系
 
-:fontawesome-solid-envelope: <info@lindyroyale.com.au>  
-:fontawesome-solid-globe: <https://lindyroyale.com.au>{ target='_blank' }  
+:fontawesome-solid-envelope:{ .ky_list_leading_icon } <info@lindyroyale.com.au>  
+:fontawesome-solid-globe:{ .ky_list_leading_icon } <https://lindyroyale.com.au>{ target='_blank' }  
 
 ---
 

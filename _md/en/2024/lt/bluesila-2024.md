@@ -7,12 +7,12 @@ tags:
 
 # Bluesila 
 
-:fontawesome-solid-calendar-days: 2024-08-22 ~ 2024-08-25  
-:fontawesome-solid-location-dot: Vilnius  
+:fontawesome-solid-calendar-days:{ .ky_list_leading_icon } 2024-08-22 ~ 2024-08-25  
+:fontawesome-solid-location-dot:{ .ky_list_leading_icon } Vilnius  
 
 ## Contact
 
-:fontawesome-solid-globe: <https://bluesdance.lt/bluesila-2024-information-registration>{ target='_blank' }  
+:fontawesome-solid-globe:{ .ky_list_leading_icon } <https://bluesdance.lt/bluesila-2024-information-registration>{ target='_blank' }  
 
 ---
 

@@ -5,8 +5,8 @@ description: "2024-03-21 ~ 2024-03-24"
 
 # Awozi & Lis Workshop 
 
-:fontawesome-solid-calendar-days: 2024-03-21 ~ 2024-03-24  
-:fontawesome-solid-location-dot: Xiamen  
+:fontawesome-solid-calendar-days:{ .ky_list_leading_icon } 2024-03-21 ~ 2024-03-24  
+:fontawesome-solid-location-dot:{ .ky_list_leading_icon } Xiamen  
 
 !!! info "Organizer"
 

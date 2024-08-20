@@ -8,8 +8,8 @@ tags:
 
 # Balboa Festival 
 
-:fontawesome-solid-calendar-days: 2024-06-28 ~ 2024-06-30  
-:fontawesome-solid-location-dot: 上海  
+:fontawesome-solid-calendar-days:{ .ky_list_leading_icon } 2024-06-28 ~ 2024-06-30  
+:fontawesome-solid-location-dot:{ .ky_list_leading_icon } 上海  
 
 !!! info "组织方"
 
@@ -21,7 +21,7 @@ tags:
 
 ## 联系
 
-:fontawesome-solid-envelope: <balboafestival@163.com>  
+:fontawesome-solid-envelope:{ .ky_list_leading_icon } <balboafestival@163.com>  
 
 ---
 

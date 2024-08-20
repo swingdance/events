@@ -7,12 +7,12 @@ tags:
 
 # Savoie Balboa Festival 
 
-:fontawesome-solid-calendar-days: 2024-09-27 ~ 2024-09-29  
-:fontawesome-solid-location-dot: Drumettaz-Clarafond  
+:fontawesome-solid-calendar-days:{ .ky_list_leading_icon } 2024-09-27 ~ 2024-09-29  
+:fontawesome-solid-location-dot:{ .ky_list_leading_icon } Drumettaz-Clarafond  
 
 ## Contact
 
-:fontawesome-solid-globe: <https://savoiecaswing.fr/soirees-et-stages/savoie-balboa-festival-2024>{ target='_blank' }  
+:fontawesome-solid-globe:{ .ky_list_leading_icon } <https://savoiecaswing.fr/soirees-et-stages/savoie-balboa-festival-2024>{ target='_blank' }  
 
 ---
 

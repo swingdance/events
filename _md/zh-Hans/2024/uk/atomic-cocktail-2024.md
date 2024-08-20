@@ -5,12 +5,12 @@ description: "2024-11-01 ~ 2024-11-03"
 
 # Atomic Cocktail 
 
-:fontawesome-solid-calendar-days: 2024-11-01 ~ 2024-11-03  
-:fontawesome-solid-location-dot: 伯明翰  
+:fontawesome-solid-calendar-days:{ .ky_list_leading_icon } 2024-11-01 ~ 2024-11-03  
+:fontawesome-solid-location-dot:{ .ky_list_leading_icon } 伯明翰  
 
 ## 联系
 
-:fontawesome-solid-globe: <https://theswingera.co.uk/event/summer-ball>{ target='_blank' }  
+:fontawesome-solid-globe:{ .ky_list_leading_icon } <https://theswingera.co.uk/event/summer-ball>{ target='_blank' }  
 
 ---
 

@@ -5,8 +5,8 @@ description: "2025-01-16 ~ 2025-01-19"
 
 # Jumpin' at Istanbul 
 
-:fontawesome-solid-calendar-days: 2025-01-16 ~ 2025-01-19  
-:fontawesome-solid-location-dot: 伊斯坦布尔  
+:fontawesome-solid-calendar-days:{ .ky_list_leading_icon } 2025-01-16 ~ 2025-01-19  
+:fontawesome-solid-location-dot:{ .ky_list_leading_icon } 伊斯坦布尔  
 
 ## 联系
 

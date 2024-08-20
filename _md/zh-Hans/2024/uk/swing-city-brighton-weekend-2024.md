@@ -5,12 +5,12 @@ description: "2024-10-26 ~ 2024-10-27"
 
 # Swing City Brighton Weekend 
 
-:fontawesome-solid-calendar-days: 2024-10-26 ~ 2024-10-27  
-:fontawesome-solid-location-dot: 布赖顿  
+:fontawesome-solid-calendar-days:{ .ky_list_leading_icon } 2024-10-26 ~ 2024-10-27  
+:fontawesome-solid-location-dot:{ .ky_list_leading_icon } 布赖顿  
 
 ## 联系
 
-:fontawesome-solid-globe: <https://swingcitybrighton.dancecloud.com/dance/35893>{ target='_blank' }  
+:fontawesome-solid-globe:{ .ky_list_leading_icon } <https://swingcitybrighton.dancecloud.com/dance/35893>{ target='_blank' }  
 
 ---
 

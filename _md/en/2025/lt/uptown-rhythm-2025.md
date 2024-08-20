@@ -5,13 +5,13 @@ description: "2025-05-16 ~ 2025-05-18"
 
 # Uptown Rhythm 
 
-:fontawesome-solid-calendar-days: 2025-05-16 ~ 2025-05-18  
-:fontawesome-solid-location-dot: Vilnius  
+:fontawesome-solid-calendar-days:{ .ky_list_leading_icon } 2025-05-16 ~ 2025-05-18  
+:fontawesome-solid-location-dot:{ .ky_list_leading_icon } Vilnius  
 
 ## Contact
 
-:fontawesome-solid-envelope: <info@uptownrhythm.lt>  
-:fontawesome-solid-globe: <https://uptownrhythm.lt>{ target='_blank' }  
+:fontawesome-solid-envelope:{ .ky_list_leading_icon } <info@uptownrhythm.lt>  
+:fontawesome-solid-globe:{ .ky_list_leading_icon } <https://uptownrhythm.lt>{ target='_blank' }  
 
 ---
 

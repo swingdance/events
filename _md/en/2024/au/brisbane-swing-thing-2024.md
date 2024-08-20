@@ -5,13 +5,13 @@ description: "2024-05-31 ~ 2024-06-02"
 
 # Brisbane Swing Thing 
 
-:fontawesome-solid-calendar-days: 2024-05-31 ~ 2024-06-02  
-:fontawesome-solid-location-dot: Brisbane  
+:fontawesome-solid-calendar-days:{ .ky_list_leading_icon } 2024-05-31 ~ 2024-06-02  
+:fontawesome-solid-location-dot:{ .ky_list_leading_icon } Brisbane  
 
 ## Contact
 
-:fontawesome-solid-envelope: <brisbaneswingthing@gmail.com>  
-:fontawesome-solid-globe: <https://brisbaneswingthing.com>{ target='_blank' }  
+:fontawesome-solid-envelope:{ .ky_list_leading_icon } <brisbaneswingthing@gmail.com>  
+:fontawesome-solid-globe:{ .ky_list_leading_icon } <https://brisbaneswingthing.com>{ target='_blank' }  
 
 ---
 

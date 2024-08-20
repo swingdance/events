@@ -7,13 +7,13 @@ tags:
 
 # Shag Delight 
 
-:fontawesome-solid-calendar-days: 2024-09-06 ~ 2024-09-08  
-:fontawesome-solid-location-dot: 巴塞尔  
+:fontawesome-solid-calendar-days:{ .ky_list_leading_icon } 2024-09-06 ~ 2024-09-08  
+:fontawesome-solid-location-dot:{ .ky_list_leading_icon } 巴塞尔  
 
 ## 联系
 
-:fontawesome-solid-envelope: <info@baseljitterbugs.ch>  
-:fontawesome-solid-globe: <https://en.jitterbugsdelight.ch>{ target='_blank' }  
+:fontawesome-solid-envelope:{ .ky_list_leading_icon } <info@baseljitterbugs.ch>  
+:fontawesome-solid-globe:{ .ky_list_leading_icon } <https://en.jitterbugsdelight.ch>{ target='_blank' }  
 
 ---
 

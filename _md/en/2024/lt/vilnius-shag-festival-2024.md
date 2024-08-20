@@ -7,13 +7,13 @@ tags:
 
 # Vilnius Shag Festival 
 
-:fontawesome-solid-calendar-days: 2024-11-22 ~ 2024-11-24  
-:fontawesome-solid-location-dot: Vilnius  
+:fontawesome-solid-calendar-days:{ .ky_list_leading_icon } 2024-11-22 ~ 2024-11-24  
+:fontawesome-solid-location-dot:{ .ky_list_leading_icon } Vilnius  
 
 ## Contact
 
-:fontawesome-solid-envelope: <welcome@whatashag.lt>  
-:fontawesome-solid-globe: <https://whatashag.lt>{ target='_blank' }  
+:fontawesome-solid-envelope:{ .ky_list_leading_icon } <welcome@whatashag.lt>  
+:fontawesome-solid-globe:{ .ky_list_leading_icon } <https://whatashag.lt>{ target='_blank' }  
 
 ---
 

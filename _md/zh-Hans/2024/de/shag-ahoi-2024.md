@@ -7,12 +7,12 @@ tags:
 
 # Shag Ahoi! 
 
-:fontawesome-solid-calendar-days: 2024-08-23 ~ 2024-08-25  
-:fontawesome-solid-location-dot: 汉堡  
+:fontawesome-solid-calendar-days:{ .ky_list_leading_icon } 2024-08-23 ~ 2024-08-25  
+:fontawesome-solid-location-dot:{ .ky_list_leading_icon } 汉堡  
 
 ## 联系
 
-:fontawesome-solid-globe: <http://www.shagahoi.de>{ target='_blank' }  
+:fontawesome-solid-globe:{ .ky_list_leading_icon } <http://www.shagahoi.de>{ target='_blank' }  
 
 ---
 

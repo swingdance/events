@@ -8,8 +8,8 @@ tags:
 
 # Shanghai Balboa Weekend ^6^
 
-:fontawesome-solid-calendar-days: 2024-10-03 ~ 2024-10-06  
-:fontawesome-solid-location-dot: 上海  
+:fontawesome-solid-calendar-days:{ .ky_list_leading_icon } 2024-10-03 ~ 2024-10-06  
+:fontawesome-solid-location-dot:{ .ky_list_leading_icon } 上海  
 
 !!! info "组织方"
 
@@ -27,8 +27,8 @@ tags:
 
 ## 联系
 
-:fontawesome-solid-envelope: <shbalboaweekend@gmail.com>  
-:fontawesome-solid-globe: <http://shanghaibalboaweekend.com>{ target='_blank' }  
+:fontawesome-solid-envelope:{ .ky_list_leading_icon } <shbalboaweekend@gmail.com>  
+:fontawesome-solid-globe:{ .ky_list_leading_icon } <http://shanghaibalboaweekend.com>{ target='_blank' }  
 
 ---
 

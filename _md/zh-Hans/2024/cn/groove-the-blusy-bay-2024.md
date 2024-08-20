@@ -8,9 +8,9 @@ tags:
 
 # Groove the Blusy Bay 
 
-湾区布鲁斯节  
-:fontawesome-solid-calendar-days: 2024-03-15 ~ 2024-03-17  
-:fontawesome-solid-location-dot: 深圳  
+:fontawesome-solid-ticket:{ .ky_list_leading_icon } 湾区布鲁斯节  
+:fontawesome-solid-calendar-days:{ .ky_list_leading_icon } 2024-03-15 ~ 2024-03-17  
+:fontawesome-solid-location-dot:{ .ky_list_leading_icon } 深圳  
 
 !!! info "组织方"
 

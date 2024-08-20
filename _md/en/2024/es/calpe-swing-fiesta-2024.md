@@ -5,13 +5,13 @@ description: "2024-09-27 ~ 2024-09-29"
 
 # Calpe Swing Fiesta 
 
-:fontawesome-solid-calendar-days: 2024-09-27 ~ 2024-09-29  
-:fontawesome-solid-location-dot: Calpe  
+:fontawesome-solid-calendar-days:{ .ky_list_leading_icon } 2024-09-27 ~ 2024-09-29  
+:fontawesome-solid-location-dot:{ .ky_list_leading_icon } Calpe  
 
 ## Contact
 
-:fontawesome-solid-envelope: <Lindyclub@gmail.com>  
-:fontawesome-solid-globe: <https://www.calpeswingfiesta.co.uk>{ target='_blank' }  
+:fontawesome-solid-envelope:{ .ky_list_leading_icon } <Lindyclub@gmail.com>  
+:fontawesome-solid-globe:{ .ky_list_leading_icon } <https://www.calpeswingfiesta.co.uk>{ target='_blank' }  
 
 ---
 

@@ -5,13 +5,13 @@ description: "2024-08-01 ~ 2024-08-04"
 
 # Cincy Hop 
 
-:fontawesome-solid-calendar-days: 2024-08-01 ~ 2024-08-04  
-:fontawesome-solid-location-dot: Cincinnati  
+:fontawesome-solid-calendar-days:{ .ky_list_leading_icon } 2024-08-01 ~ 2024-08-04  
+:fontawesome-solid-location-dot:{ .ky_list_leading_icon } Cincinnati  
 
 ## Contact
 
-:fontawesome-solid-envelope: <info@cincyhop.org>  
-:fontawesome-solid-globe: <https://cincyhop.squarespace.com>{ target='_blank' }  
+:fontawesome-solid-envelope:{ .ky_list_leading_icon } <info@cincyhop.org>  
+:fontawesome-solid-globe:{ .ky_list_leading_icon } <https://cincyhop.squarespace.com>{ target='_blank' }  
 
 ---
 

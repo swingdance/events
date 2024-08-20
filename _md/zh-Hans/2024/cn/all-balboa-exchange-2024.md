@@ -8,8 +8,8 @@ tags:
 
 # All Balboa Exchange 
 
-:fontawesome-solid-calendar-days: 2024-03-15 ~ 2024-03-17  
-:fontawesome-solid-location-dot: 北京  
+:fontawesome-solid-calendar-days:{ .ky_list_leading_icon } 2024-03-15 ~ 2024-03-17  
+:fontawesome-solid-location-dot:{ .ky_list_leading_icon } 北京  
 
 !!! info "组织方"
 

@@ -7,8 +7,8 @@ tags:
 
 # Spring Mini-Blues Weekend 
 
-:fontawesome-solid-calendar-days: 2024-09-13 ~ 2024-09-14  
-:fontawesome-solid-location-dot: Melbourne  
+:fontawesome-solid-calendar-days:{ .ky_list_leading_icon } 2024-09-13 ~ 2024-09-14  
+:fontawesome-solid-location-dot:{ .ky_list_leading_icon } Melbourne  
 
 ## Contact
 

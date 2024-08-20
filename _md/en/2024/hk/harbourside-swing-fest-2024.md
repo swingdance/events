@@ -5,8 +5,8 @@ description: "2024-02-02 ~ 2024-02-04"
 
 # Harbourside Swing Fest 
 
-:fontawesome-solid-calendar-days: 2024-02-02 ~ 2024-02-04  
-:fontawesome-solid-location-dot: HK  
+:fontawesome-solid-calendar-days:{ .ky_list_leading_icon } 2024-02-02 ~ 2024-02-04  
+:fontawesome-solid-location-dot:{ .ky_list_leading_icon } HK  
 
 !!! info "Organizer"
 
@@ -18,8 +18,8 @@ description: "2024-02-02 ~ 2024-02-04"
 
 ## Contact
 
-:fontawesome-solid-envelope: <info@rhythmstudiohk.com>  
-:fontawesome-solid-globe: <https://rhythmstudiohk.com/harbour-side-swing-fest>{ target='_blank' }  
+:fontawesome-solid-envelope:{ .ky_list_leading_icon } <info@rhythmstudiohk.com>  
+:fontawesome-solid-globe:{ .ky_list_leading_icon } <https://rhythmstudiohk.com/harbour-side-swing-fest>{ target='_blank' }  
 
 ---
 

@@ -7,13 +7,13 @@ tags:
 
 # The Jump 
 
-:fontawesome-solid-calendar-days: 2024-09-13 ~ 2024-09-20  
-:fontawesome-solid-location-dot: Valencia  
+:fontawesome-solid-calendar-days:{ .ky_list_leading_icon } 2024-09-13 ~ 2024-09-20  
+:fontawesome-solid-location-dot:{ .ky_list_leading_icon } Valencia  
 
 ## Contact
 
-:fontawesome-solid-envelope: <hello@thebluesroom.com>  
-:fontawesome-solid-globe: <https://thebluesroom.com/br_event/the-jump>{ target='_blank' }  
+:fontawesome-solid-envelope:{ .ky_list_leading_icon } <hello@thebluesroom.com>  
+:fontawesome-solid-globe:{ .ky_list_leading_icon } <https://thebluesroom.com/br_event/the-jump>{ target='_blank' }  
 
 ---
 

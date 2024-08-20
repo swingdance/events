@@ -5,8 +5,8 @@ description: "2024-06-14 ~ 2024-06-16"
 
 # Jump for Joy 
 
-:fontawesome-solid-calendar-days: 2024-06-14 ~ 2024-06-16  
-:fontawesome-solid-location-dot: Shanghai  
+:fontawesome-solid-calendar-days:{ .ky_list_leading_icon } 2024-06-14 ~ 2024-06-16  
+:fontawesome-solid-location-dot:{ .ky_list_leading_icon } Shanghai  
 
 !!! info "Organizer"
 

@@ -7,13 +7,13 @@ tags:
 
 # HaniBal Balboa Festival 
 
-:fontawesome-solid-calendar-days: 2024-09-05 ~ 2024-09-09  
-:fontawesome-solid-location-dot: 卢布尔雅那  
+:fontawesome-solid-calendar-days:{ .ky_list_leading_icon } 2024-09-05 ~ 2024-09-09  
+:fontawesome-solid-location-dot:{ .ky_list_leading_icon } 卢布尔雅那  
 
 ## 联系
 
-:fontawesome-solid-envelope: <hello@festivalhanibal.si>  
-:fontawesome-solid-globe: <https://festivalhanibal.si>{ target='_blank' }  
+:fontawesome-solid-envelope:{ .ky_list_leading_icon } <hello@festivalhanibal.si>  
+:fontawesome-solid-globe:{ .ky_list_leading_icon } <https://festivalhanibal.si>{ target='_blank' }  
 
 ---
 

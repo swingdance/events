@@ -5,8 +5,8 @@ description: "2024-08-30 ~ 2024-09-02"
 
 # Rhythm City Mess Around 
 
-:fontawesome-solid-calendar-days: 2024-08-30 ~ 2024-09-02  
-:fontawesome-solid-location-dot: 温哥华  
+:fontawesome-solid-calendar-days:{ .ky_list_leading_icon } 2024-08-30 ~ 2024-09-02  
+:fontawesome-solid-location-dot:{ .ky_list_leading_icon } 温哥华  
 
 ## 联系
 

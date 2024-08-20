@@ -5,8 +5,8 @@ description: "2024-12-05 ~ 2024-12-08"
 
 # Savoy Cup Asia 
 
-:fontawesome-solid-calendar-days: 2024-12-05 ~ 2024-12-08  
-:fontawesome-solid-location-dot: 首尔  
+:fontawesome-solid-calendar-days:{ .ky_list_leading_icon } 2024-12-05 ~ 2024-12-08  
+:fontawesome-solid-location-dot:{ .ky_list_leading_icon } 首尔  
 
 ???+ venue "场地"
 
@@ -14,8 +14,8 @@ description: "2024-12-05 ~ 2024-12-08"
 
 ## 联系
 
-:fontawesome-solid-envelope: <savoycupasia@gmail.com>  
-:fontawesome-solid-globe: <https://savoycupasia.com>{ target='_blank' }  
+:fontawesome-solid-envelope:{ .ky_list_leading_icon } <savoycupasia@gmail.com>  
+:fontawesome-solid-globe:{ .ky_list_leading_icon } <https://savoycupasia.com>{ target='_blank' }  
 
 ---
 

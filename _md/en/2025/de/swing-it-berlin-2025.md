@@ -5,13 +5,13 @@ description: "2025-01-23 ~ 2025-01-26"
 
 # Swing It Berlin! 
 
-:fontawesome-solid-calendar-days: 2025-01-23 ~ 2025-01-26  
-:fontawesome-solid-location-dot: Berlin  
+:fontawesome-solid-calendar-days:{ .ky_list_leading_icon } 2025-01-23 ~ 2025-01-26  
+:fontawesome-solid-location-dot:{ .ky_list_leading_icon } Berlin  
 
 ## Contact
 
-:fontawesome-solid-envelope: <info@swingbase.de>  
-:fontawesome-solid-globe: <https://www.swingitberlin.com>{ target='_blank' }  
+:fontawesome-solid-envelope:{ .ky_list_leading_icon } <info@swingbase.de>  
+:fontawesome-solid-globe:{ .ky_list_leading_icon } <https://www.swingitberlin.com>{ target='_blank' }  
 
 ---
 

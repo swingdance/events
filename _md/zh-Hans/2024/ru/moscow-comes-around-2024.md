@@ -8,13 +8,13 @@ tags:
 
 # Moscow Comes Around 
 
-:fontawesome-solid-calendar-days: 2024-09-13 ~ 2024-09-15  
-:fontawesome-solid-location-dot: 莫斯科  
+:fontawesome-solid-calendar-days:{ .ky_list_leading_icon } 2024-09-13 ~ 2024-09-15  
+:fontawesome-solid-location-dot:{ .ky_list_leading_icon } 莫斯科  
 
 ## 联系
 
-:fontawesome-solid-envelope: <moscowcomesaround@gmail.com>  
-:fontawesome-solid-globe: <https://moscowcomesaround.ru>{ target='_blank' }  
+:fontawesome-solid-envelope:{ .ky_list_leading_icon } <moscowcomesaround@gmail.com>  
+:fontawesome-solid-globe:{ .ky_list_leading_icon } <https://moscowcomesaround.ru>{ target='_blank' }  
 
 ---
 

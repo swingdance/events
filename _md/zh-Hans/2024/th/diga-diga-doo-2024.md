@@ -5,12 +5,12 @@ description: "2024-09-27 ~ 2024-09-29"
 
 # Diga Diga Doo 
 
-:fontawesome-solid-calendar-days: 2024-09-27 ~ 2024-09-29  
-:fontawesome-solid-location-dot: 曼谷  
+:fontawesome-solid-calendar-days:{ .ky_list_leading_icon } 2024-09-27 ~ 2024-09-29  
+:fontawesome-solid-location-dot:{ .ky_list_leading_icon } 曼谷  
 
 ## 联系
 
-:fontawesome-solid-globe: <https://sites.google.com/view/diga-diga-doo>{ target='_blank' }  
+:fontawesome-solid-globe:{ .ky_list_leading_icon } <https://sites.google.com/view/diga-diga-doo>{ target='_blank' }  
 
 ---
 

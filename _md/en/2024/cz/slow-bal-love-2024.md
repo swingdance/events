@@ -7,8 +7,8 @@ tags:
 
 # Slow Bal Love 
 
-:fontawesome-solid-calendar-days: 2024-10-13 ~ 2024-10-20  
-:fontawesome-solid-location-dot: Prague  
+:fontawesome-solid-calendar-days:{ .ky_list_leading_icon } 2024-10-13 ~ 2024-10-20  
+:fontawesome-solid-location-dot:{ .ky_list_leading_icon } Prague  
 
 ???+ venue "Venue"
 
@@ -16,8 +16,8 @@ tags:
 
 ## Contact
 
-:fontawesome-solid-envelope: <balloveinc@gmail.com>  
-:fontawesome-solid-globe: <https://www.bal-love.com>{ target='_blank' }  
+:fontawesome-solid-envelope:{ .ky_list_leading_icon } <balloveinc@gmail.com>  
+:fontawesome-solid-globe:{ .ky_list_leading_icon } <https://www.bal-love.com>{ target='_blank' }  
 
 ---
 

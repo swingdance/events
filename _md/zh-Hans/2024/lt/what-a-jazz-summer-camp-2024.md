@@ -5,8 +5,8 @@ description: "2024-08-15 ~ 2024-08-18"
 
 # What a Jazz Summer Camp 
 
-:fontawesome-solid-calendar-days: 2024-08-15 ~ 2024-08-18  
-:fontawesome-solid-location-dot: 朱奥多尼  
+:fontawesome-solid-calendar-days:{ .ky_list_leading_icon } 2024-08-15 ~ 2024-08-18  
+:fontawesome-solid-location-dot:{ .ky_list_leading_icon } 朱奥多尼  
 
 ???+ venue "场地"
 
@@ -14,8 +14,8 @@ description: "2024-08-15 ~ 2024-08-18"
 
 ## 联系
 
-:fontawesome-solid-envelope: <welcome@whatajazz.lt>  
-:fontawesome-solid-globe: <https://whatajazz.lt/shop/stonykla-full-pass>{ target='_blank' }  
+:fontawesome-solid-envelope:{ .ky_list_leading_icon } <welcome@whatajazz.lt>  
+:fontawesome-solid-globe:{ .ky_list_leading_icon } <https://whatajazz.lt/shop/stonykla-full-pass>{ target='_blank' }  
 
 ---
 

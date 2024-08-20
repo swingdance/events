@@ -7,12 +7,12 @@ tags:
 
 # Northern Slow Bal Celebration 
 
-:fontawesome-solid-calendar-days: 2024-10-11 ~ 2024-10-13  
-:fontawesome-solid-location-dot: Bradford  
+:fontawesome-solid-calendar-days:{ .ky_list_leading_icon } 2024-10-11 ~ 2024-10-13  
+:fontawesome-solid-location-dot:{ .ky_list_leading_icon } Bradford  
 
 ## Contact
 
-:fontawesome-solid-globe: <https://northern.slowbal.co.uk>{ target='_blank' }  
+:fontawesome-solid-globe:{ .ky_list_leading_icon } <https://northern.slowbal.co.uk>{ target='_blank' }  
 
 ---
 

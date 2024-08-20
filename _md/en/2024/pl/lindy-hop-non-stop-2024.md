@@ -5,13 +5,13 @@ description: "2024-08-23 ~ 2024-08-25"
 
 # Lindy Hop Non Stop 
 
-:fontawesome-solid-calendar-days: 2024-08-23 ~ 2024-08-25  
-:fontawesome-solid-location-dot: Krakow  
+:fontawesome-solid-calendar-days:{ .ky_list_leading_icon } 2024-08-23 ~ 2024-08-25  
+:fontawesome-solid-location-dot:{ .ky_list_leading_icon } Krakow  
 
 ## Contact
 
-:fontawesome-solid-envelope: <info@swing.org.pl>  
-:fontawesome-solid-globe: <https://www.nonstop-lindyhop.pl>{ target='_blank' }  
+:fontawesome-solid-envelope:{ .ky_list_leading_icon } <info@swing.org.pl>  
+:fontawesome-solid-globe:{ .ky_list_leading_icon } <https://www.nonstop-lindyhop.pl>{ target='_blank' }  
 
 ---
 

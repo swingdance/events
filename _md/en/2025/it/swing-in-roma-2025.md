@@ -5,13 +5,13 @@ description: "2025-02-07 ~ 2025-02-09"
 
 # SwingInRoma 
 
-:fontawesome-solid-calendar-days: 2025-02-07 ~ 2025-02-09  
-:fontawesome-solid-location-dot: Rome  
+:fontawesome-solid-calendar-days:{ .ky_list_leading_icon } 2025-02-07 ~ 2025-02-09  
+:fontawesome-solid-location-dot:{ .ky_list_leading_icon } Rome  
 
 ## Contact
 
-:fontawesome-solid-envelope: <swinginroma@gmail.com>  
-:fontawesome-solid-globe: <https://www.swinginroma.com>{ target='_blank' }  
+:fontawesome-solid-envelope:{ .ky_list_leading_icon } <swinginroma@gmail.com>  
+:fontawesome-solid-globe:{ .ky_list_leading_icon } <https://www.swinginroma.com>{ target='_blank' }  
 
 ---
 

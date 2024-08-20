@@ -5,13 +5,13 @@ description: "2024-10-11 ~ 2024-10-13"
 
 # All Lithuanian Weekend 
 
-:fontawesome-solid-calendar-days: 2024-10-11 ~ 2024-10-13  
-:fontawesome-solid-location-dot: Vilnius  
+:fontawesome-solid-calendar-days:{ .ky_list_leading_icon } 2024-10-11 ~ 2024-10-13  
+:fontawesome-solid-location-dot:{ .ky_list_leading_icon } Vilnius  
 
 ## Contact
 
-:fontawesome-solid-envelope: <info@alllithuanianweekend.lt>  
-:fontawesome-solid-globe: <https://alllithuanianweekend.lt>{ target='_blank' }  
+:fontawesome-solid-envelope:{ .ky_list_leading_icon } <info@alllithuanianweekend.lt>  
+:fontawesome-solid-globe:{ .ky_list_leading_icon } <https://alllithuanianweekend.lt>{ target='_blank' }  
 
 ---
 

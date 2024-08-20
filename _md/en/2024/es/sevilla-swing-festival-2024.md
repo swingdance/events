@@ -5,13 +5,13 @@ description: "2024-04-25 ~ 2024-04-28"
 
 # Sevilla Swing Festival ^7^
 
-:fontawesome-solid-calendar-days: 2024-04-25 ~ 2024-04-28  
-:fontawesome-solid-location-dot: Sevilla  
+:fontawesome-solid-calendar-days:{ .ky_list_leading_icon } 2024-04-25 ~ 2024-04-28  
+:fontawesome-solid-location-dot:{ .ky_list_leading_icon } Sevilla  
 
 ## Contact
 
-:fontawesome-solid-envelope: <sevillaswing@gmail.com>  
-:fontawesome-solid-globe: <https://sevillaswingfestival.com>{ target='_blank' }  
+:fontawesome-solid-envelope:{ .ky_list_leading_icon } <sevillaswing@gmail.com>  
+:fontawesome-solid-globe:{ .ky_list_leading_icon } <https://sevillaswingfestival.com>{ target='_blank' }  
 
 ---
 

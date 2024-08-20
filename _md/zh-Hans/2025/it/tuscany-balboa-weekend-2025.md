@@ -7,13 +7,13 @@ tags:
 
 # Tuscany Balboa Weekend ^8^
 
-:fontawesome-solid-calendar-days: 2025-01-17 ~ 2025-01-19  
-:fontawesome-solid-location-dot: 蒙特卡蒂尼-泰尔梅  
+:fontawesome-solid-calendar-days:{ .ky_list_leading_icon } 2025-01-17 ~ 2025-01-19  
+:fontawesome-solid-location-dot:{ .ky_list_leading_icon } 蒙特卡蒂尼-泰尔梅  
 
 ## 联系
 
-:fontawesome-solid-envelope: <info.swingmood@gmail.com>  
-:fontawesome-solid-globe: <http://www.tuscanybalboaweekend.it>{ target='_blank' }  
+:fontawesome-solid-envelope:{ .ky_list_leading_icon } <info.swingmood@gmail.com>  
+:fontawesome-solid-globe:{ .ky_list_leading_icon } <http://www.tuscanybalboaweekend.it>{ target='_blank' }  
 
 ---
 

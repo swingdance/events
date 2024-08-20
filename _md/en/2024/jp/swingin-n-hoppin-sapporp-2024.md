@@ -5,8 +5,8 @@ description: "2024-06-29 ~ 2024-06-30"
 
 # Swingin' & Hoppin' Sapporp 
 
-:fontawesome-solid-calendar-days: 2024-06-29 ~ 2024-06-30  
-:fontawesome-solid-location-dot: Sapporo  
+:fontawesome-solid-calendar-days:{ .ky_list_leading_icon } 2024-06-29 ~ 2024-06-30  
+:fontawesome-solid-location-dot:{ .ky_list_leading_icon } Sapporo  
 
 !!! info "Organizer"
 

@@ -5,13 +5,13 @@ description: "2024-11-15 ~ 2024-11-17"
 
 # Lyon Swing Festival 
 
-:fontawesome-solid-calendar-days: 2024-11-15 ~ 2024-11-17  
-:fontawesome-solid-location-dot: Lyon  
+:fontawesome-solid-calendar-days:{ .ky_list_leading_icon } 2024-11-15 ~ 2024-11-17  
+:fontawesome-solid-location-dot:{ .ky_list_leading_icon } Lyon  
 
 ## Contact
 
-:fontawesome-solid-envelope: <lyonswingfestival@gmail.com>  
-:fontawesome-solid-globe: <https://www.lyonswingfestival.com>{ target='_blank' }  
+:fontawesome-solid-envelope:{ .ky_list_leading_icon } <lyonswingfestival@gmail.com>  
+:fontawesome-solid-globe:{ .ky_list_leading_icon } <https://www.lyonswingfestival.com>{ target='_blank' }  
 
 ---
 

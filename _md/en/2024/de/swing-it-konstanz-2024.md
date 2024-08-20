@@ -5,13 +5,13 @@ description: "2024-09-06 ~ 2024-09-08"
 
 # Swing it! Konstanz 
 
-:fontawesome-solid-calendar-days: 2024-09-06 ~ 2024-09-08  
-:fontawesome-solid-location-dot: Konstanz  
+:fontawesome-solid-calendar-days:{ .ky_list_leading_icon } 2024-09-06 ~ 2024-09-08  
+:fontawesome-solid-location-dot:{ .ky_list_leading_icon } Konstanz  
 
 ## Contact
 
-:fontawesome-solid-envelope: <info@swinginkonstanz.de>  
-:fontawesome-solid-globe: <https://www.swinginkonstanz.de>{ target='_blank' }  
+:fontawesome-solid-envelope:{ .ky_list_leading_icon } <info@swinginkonstanz.de>  
+:fontawesome-solid-globe:{ .ky_list_leading_icon } <https://www.swinginkonstanz.de>{ target='_blank' }  
 
 ---
 

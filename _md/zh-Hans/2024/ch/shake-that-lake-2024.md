@@ -5,12 +5,12 @@ description: "2024-09-27 ~ 2024-09-29"
 
 # shaKe that laKe 
 
-:fontawesome-solid-calendar-days: 2024-09-27 ~ 2024-09-29  
-:fontawesome-solid-location-dot: 日内瓦  
+:fontawesome-solid-calendar-days:{ .ky_list_leading_icon } 2024-09-27 ~ 2024-09-29  
+:fontawesome-solid-location-dot:{ .ky_list_leading_icon } 日内瓦  
 
 ## 联系
 
-:fontawesome-solid-globe: <https://shakethatlake.ch>{ target='_blank' }  
+:fontawesome-solid-globe:{ .ky_list_leading_icon } <https://shakethatlake.ch>{ target='_blank' }  
 
 ---
 

@@ -5,12 +5,12 @@ description: "2024-10-25 ~ 2024-10-27"
 
 # Swing Fest Malaga 
 
-:fontawesome-solid-calendar-days: 2024-10-25 ~ 2024-10-27  
-:fontawesome-solid-location-dot: Malaga  
+:fontawesome-solid-calendar-days:{ .ky_list_leading_icon } 2024-10-25 ~ 2024-10-27  
+:fontawesome-solid-location-dot:{ .ky_list_leading_icon } Malaga  
 
 ## Contact
 
-:fontawesome-solid-globe: <https://swingfestmalaga.webador.es/>{ target='_blank' }  
+:fontawesome-solid-globe:{ .ky_list_leading_icon } <https://swingfestmalaga.webador.es/>{ target='_blank' }  
 
 ---
 

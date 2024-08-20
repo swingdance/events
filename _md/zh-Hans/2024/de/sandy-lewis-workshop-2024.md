@@ -5,13 +5,13 @@ description: "2024-12-06 ~ 2024-12-08"
 
 # Sandy Lewis Workshop 
 
-:fontawesome-solid-calendar-days: 2024-12-06 ~ 2024-12-08  
-:fontawesome-solid-location-dot: 达姆施塔特  
+:fontawesome-solid-calendar-days:{ .ky_list_leading_icon } 2024-12-06 ~ 2024-12-08  
+:fontawesome-solid-location-dot:{ .ky_list_leading_icon } 达姆施塔特  
 
 ## 联系
 
-:fontawesome-solid-envelope: <info@sunnysideswing.de>  
-:fontawesome-solid-globe: <https://www.betinafischer.net>{ target='_blank' }  
+:fontawesome-solid-envelope:{ .ky_list_leading_icon } <info@sunnysideswing.de>  
+:fontawesome-solid-globe:{ .ky_list_leading_icon } <https://www.betinafischer.net>{ target='_blank' }  
 
 ---
 

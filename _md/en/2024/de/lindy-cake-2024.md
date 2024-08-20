@@ -5,12 +5,12 @@ description: "2024-10-03 ~ 2024-10-06"
 
 # Lindy Cake 
 
-:fontawesome-solid-calendar-days: 2024-10-03 ~ 2024-10-06  
-:fontawesome-solid-location-dot: Freiburg  
+:fontawesome-solid-calendar-days:{ .ky_list_leading_icon } 2024-10-03 ~ 2024-10-06  
+:fontawesome-solid-location-dot:{ .ky_list_leading_icon } Freiburg  
 
 ## Contact
 
-:fontawesome-solid-globe: <https://lindycake.de>{ target='_blank' }  
+:fontawesome-solid-globe:{ .ky_list_leading_icon } <https://lindycake.de>{ target='_blank' }  
 
 ---
 

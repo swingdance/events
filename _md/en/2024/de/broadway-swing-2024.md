@@ -5,13 +5,13 @@ description: "2024-11-01 ~ 2024-11-04"
 
 # Broadway Swing 
 
-:fontawesome-solid-calendar-days: 2024-11-01 ~ 2024-11-04  
-:fontawesome-solid-location-dot: Magdeburg  
+:fontawesome-solid-calendar-days:{ .ky_list_leading_icon } 2024-11-01 ~ 2024-11-04  
+:fontawesome-solid-location-dot:{ .ky_list_leading_icon } Magdeburg  
 
 ## Contact
 
-:fontawesome-solid-envelope: <broadway@swing39.de>  
-:fontawesome-solid-globe: <https://broadway.swing39.de>{ target='_blank' }  
+:fontawesome-solid-envelope:{ .ky_list_leading_icon } <broadway@swing39.de>  
+:fontawesome-solid-globe:{ .ky_list_leading_icon } <https://broadway.swing39.de>{ target='_blank' }  
 
 ---
 

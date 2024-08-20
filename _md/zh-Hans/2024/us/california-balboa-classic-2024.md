@@ -7,13 +7,13 @@ tags:
 
 # California Balboa Classic 
 
-:fontawesome-solid-calendar-days: 2024-01-12 ~ 2024-01-14  
-:fontawesome-solid-location-dot: 洛杉矶  
+:fontawesome-solid-calendar-days:{ .ky_list_leading_icon } 2024-01-12 ~ 2024-01-14  
+:fontawesome-solid-location-dot:{ .ky_list_leading_icon } 洛杉矶  
 
 ## 联系
 
-:fontawesome-solid-envelope: <support@calbalclassic.com>  
-:fontawesome-solid-globe: <https://calbalclassic.com>{ target='_blank' }  
+:fontawesome-solid-envelope:{ .ky_list_leading_icon } <support@calbalclassic.com>  
+:fontawesome-solid-globe:{ .ky_list_leading_icon } <https://calbalclassic.com>{ target='_blank' }  
 
 ---
 

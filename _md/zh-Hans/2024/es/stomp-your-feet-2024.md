@@ -5,13 +5,13 @@ description: "2024-10-04 ~ 2024-10-06"
 
 # Stomp Your Feet 
 
-:fontawesome-solid-calendar-days: 2024-10-04 ~ 2024-10-06  
-:fontawesome-solid-location-dot: 巴塞罗那  
+:fontawesome-solid-calendar-days:{ .ky_list_leading_icon } 2024-10-04 ~ 2024-10-06  
+:fontawesome-solid-location-dot:{ .ky_list_leading_icon } 巴塞罗那  
 
 ## 联系
 
-:fontawesome-solid-envelope: <Stompyourfeetbarcelona@gmail.com>  
-:fontawesome-solid-globe: <https://stompyourfeetbarcelona.com>{ target='_blank' }  
+:fontawesome-solid-envelope:{ .ky_list_leading_icon } <Stompyourfeetbarcelona@gmail.com>  
+:fontawesome-solid-globe:{ .ky_list_leading_icon } <https://stompyourfeetbarcelona.com>{ target='_blank' }  
 
 ---
 

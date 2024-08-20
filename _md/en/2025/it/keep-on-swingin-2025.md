@@ -5,13 +5,13 @@ description: "2025-01-03 ~ 2025-01-06"
 
 # Keep On Swingin’ 
 
-:fontawesome-solid-calendar-days: 2025-01-03 ~ 2025-01-06  
-:fontawesome-solid-location-dot: Florence  
+:fontawesome-solid-calendar-days:{ .ky_list_leading_icon } 2025-01-03 ~ 2025-01-06  
+:fontawesome-solid-location-dot:{ .ky_list_leading_icon } Florence  
 
 ## Contact
 
-:fontawesome-solid-envelope: <info@swingstudio22.it>  
-:fontawesome-solid-globe: <https://www.swingstudio22.it>{ target='_blank' }  
+:fontawesome-solid-envelope:{ .ky_list_leading_icon } <info@swingstudio22.it>  
+:fontawesome-solid-globe:{ .ky_list_leading_icon } <https://www.swingstudio22.it>{ target='_blank' }  
 
 ---
 

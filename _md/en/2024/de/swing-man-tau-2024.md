@@ -5,13 +5,13 @@ description: "2024-10-25 ~ 2024-10-27"
 
 # Swing Man Tau 
 
-:fontawesome-solid-calendar-days: 2024-10-25 ~ 2024-10-27  
-:fontawesome-solid-location-dot: Bremen  
+:fontawesome-solid-calendar-days:{ .ky_list_leading_icon } 2024-10-25 ~ 2024-10-27  
+:fontawesome-solid-location-dot:{ .ky_list_leading_icon } Bremen  
 
 ## Contact
 
-:fontawesome-solid-envelope: <info@swingmantau.de>  
-:fontawesome-solid-globe: <https://swingmantau.de>{ target='_blank' }  
+:fontawesome-solid-envelope:{ .ky_list_leading_icon } <info@swingmantau.de>  
+:fontawesome-solid-globe:{ .ky_list_leading_icon } <https://swingmantau.de>{ target='_blank' }  
 
 ---
 

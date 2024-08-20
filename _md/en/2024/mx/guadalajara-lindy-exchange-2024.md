@@ -6,8 +6,8 @@ description: "2024-11-16 ~ 2024-11-18"
 
 # Guadalajara Lindy Exchange 
 
-:fontawesome-solid-calendar-days: 2024-11-16 ~ 2024-11-18  
-:fontawesome-solid-location-dot: Guadalajara  
+:fontawesome-solid-calendar-days:{ .ky_list_leading_icon } 2024-11-16 ~ 2024-11-18  
+:fontawesome-solid-location-dot:{ .ky_list_leading_icon } Guadalajara  
 
 ## Contact
 

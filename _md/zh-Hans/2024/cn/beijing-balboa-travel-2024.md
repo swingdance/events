@@ -8,9 +8,9 @@ tags:
 
 # Beijing Balboa Travel 
 
-北京巴尔博亚之旅  
-:fontawesome-solid-calendar-days: 2024-01-05 ~ 2024-01-07  
-:fontawesome-solid-location-dot: 北京  
+:fontawesome-solid-ticket:{ .ky_list_leading_icon } 北京巴尔博亚之旅  
+:fontawesome-solid-calendar-days:{ .ky_list_leading_icon } 2024-01-05 ~ 2024-01-07  
+:fontawesome-solid-location-dot:{ .ky_list_leading_icon } 北京  
 
 !!! info "组织方"
 

@@ -5,13 +5,13 @@ description: "2024-10-03 ~ 2024-10-06"
 
 # Seoul Lindy Fest 
 
-:fontawesome-solid-calendar-days: 2024-10-03 ~ 2024-10-06  
-:fontawesome-solid-location-dot: 首尔  
+:fontawesome-solid-calendar-days:{ .ky_list_leading_icon } 2024-10-03 ~ 2024-10-06  
+:fontawesome-solid-location-dot:{ .ky_list_leading_icon } 首尔  
 
 ## 联系
 
-:fontawesome-solid-envelope: <nallakim@gmail.com>  
-:fontawesome-solid-globe: <https://seoullindyfest.wordpress.com>{ target='_blank' }  
+:fontawesome-solid-envelope:{ .ky_list_leading_icon } <nallakim@gmail.com>  
+:fontawesome-solid-globe:{ .ky_list_leading_icon } <https://seoullindyfest.wordpress.com>{ target='_blank' }  
 
 ---
 

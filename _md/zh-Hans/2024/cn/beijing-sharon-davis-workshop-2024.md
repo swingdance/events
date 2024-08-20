@@ -5,9 +5,9 @@ description: "2024-03-29 ~ 2024-04-01"
 
 # Sharon Davis Workshop 
 
-Sharon Davis 摇摆秘籍  
-:fontawesome-solid-calendar-days: 2024-03-29 ~ 2024-04-01  
-:fontawesome-solid-location-dot: 北京  
+:fontawesome-solid-ticket:{ .ky_list_leading_icon } Sharon Davis 摇摆秘籍  
+:fontawesome-solid-calendar-days:{ .ky_list_leading_icon } 2024-03-29 ~ 2024-04-01  
+:fontawesome-solid-location-dot:{ .ky_list_leading_icon } 北京  
 
 !!! info "组织方"
 

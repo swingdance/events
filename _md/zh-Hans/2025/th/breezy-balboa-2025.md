@@ -7,8 +7,8 @@ tags:
 
 # Breezy Balboa 
 
-:fontawesome-solid-calendar-days: 2025-02-01 ~ 2025-02-09  
-:fontawesome-solid-location-dot: 华欣  
+:fontawesome-solid-calendar-days:{ .ky_list_leading_icon } 2025-02-01 ~ 2025-02-09  
+:fontawesome-solid-location-dot:{ .ky_list_leading_icon } 华欣  
 
 ???+ details "详细信息"
 

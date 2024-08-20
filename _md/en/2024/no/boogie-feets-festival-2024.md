@@ -7,13 +7,13 @@ tags:
 
 # Boogie Feet's Festival 
 
-:fontawesome-solid-calendar-days: 2024-07-17 ~ 2024-07-21  
-:fontawesome-solid-location-dot: Dombaas  
+:fontawesome-solid-calendar-days:{ .ky_list_leading_icon } 2024-07-17 ~ 2024-07-21  
+:fontawesome-solid-location-dot:{ .ky_list_leading_icon } Dombaas  
 
 ## Contact
 
-:fontawesome-solid-envelope: <boogiefeetsfestival@gmail.com>  
-:fontawesome-solid-globe: <https://boogiefeets.com>{ target='_blank' }  
+:fontawesome-solid-envelope:{ .ky_list_leading_icon } <boogiefeetsfestival@gmail.com>  
+:fontawesome-solid-globe:{ .ky_list_leading_icon } <https://boogiefeets.com>{ target='_blank' }  
 
 ---
 

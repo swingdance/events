@@ -5,8 +5,8 @@ description: "2024-09-08"
 
 # Swing OWL 
 
-:fontawesome-solid-calendar-days: 2024-09-08 ~ 2024-09-08  
-:fontawesome-solid-location-dot: Tokyo  
+:fontawesome-solid-calendar-days:{ .ky_list_leading_icon } 2024-09-08 ~ 2024-09-08  
+:fontawesome-solid-location-dot:{ .ky_list_leading_icon } Tokyo  
 
 !!! info "Organizer"
 
@@ -14,7 +14,7 @@ description: "2024-09-08"
 
 ## Contact
 
-:fontawesome-solid-envelope: <info@dancingbus.com>  
+:fontawesome-solid-envelope:{ .ky_list_leading_icon } <info@dancingbus.com>  
 
 ---
 

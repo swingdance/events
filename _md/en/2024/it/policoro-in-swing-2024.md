@@ -5,13 +5,13 @@ description: "2024-08-18 ~ 2024-08-26"
 
 # Policoro in Swing 
 
-:fontawesome-solid-calendar-days: 2024-08-18 ~ 2024-08-26  
-:fontawesome-solid-location-dot: Policoro  
+:fontawesome-solid-calendar-days:{ .ky_list_leading_icon } 2024-08-18 ~ 2024-08-26  
+:fontawesome-solid-location-dot:{ .ky_list_leading_icon } Policoro  
 
 ## Contact
 
-:fontawesome-solid-envelope: <info@policoroinswing.com>  
-:fontawesome-solid-globe: <https://www.policoroinswing.com>{ target='_blank' }  
+:fontawesome-solid-envelope:{ .ky_list_leading_icon } <info@policoroinswing.com>  
+:fontawesome-solid-globe:{ .ky_list_leading_icon } <https://www.policoroinswing.com>{ target='_blank' }  
 
 ---
 

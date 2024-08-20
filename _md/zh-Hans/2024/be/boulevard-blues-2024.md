@@ -7,13 +7,13 @@ tags:
 
 # Boulevard Blues 
 
-:fontawesome-solid-calendar-days: 2024-10-25 ~ 2024-10-27  
-:fontawesome-solid-location-dot: 哈瑟尔特  
+:fontawesome-solid-calendar-days:{ .ky_list_leading_icon } 2024-10-25 ~ 2024-10-27  
+:fontawesome-solid-location-dot:{ .ky_list_leading_icon } 哈瑟尔特  
 
 ## 联系
 
-:fontawesome-solid-envelope: <sway.vzw@gmail.com>  
-:fontawesome-solid-globe: <https://www.boulevardblues.be>{ target='_blank' }  
+:fontawesome-solid-envelope:{ .ky_list_leading_icon } <sway.vzw@gmail.com>  
+:fontawesome-solid-globe:{ .ky_list_leading_icon } <https://www.boulevardblues.be>{ target='_blank' }  
 
 ---
 

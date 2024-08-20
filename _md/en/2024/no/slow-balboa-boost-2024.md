@@ -7,8 +7,8 @@ tags:
 
 # Slow Balboa Boost 
 
-:fontawesome-solid-calendar-days: 2024-08-24 ~ 2024-08-25  
-:fontawesome-solid-location-dot: Oslo  
+:fontawesome-solid-calendar-days:{ .ky_list_leading_icon } 2024-08-24 ~ 2024-08-25  
+:fontawesome-solid-location-dot:{ .ky_list_leading_icon } Oslo  
 
 ## Contact
 

@@ -5,12 +5,12 @@ description: "2024-07-27"
 
 # Champions Cup Korea 
 
-:fontawesome-solid-calendar-days: 2024-07-27 ~ 2024-07-27  
-:fontawesome-solid-location-dot: 首尔  
+:fontawesome-solid-calendar-days:{ .ky_list_leading_icon } 2024-07-27 ~ 2024-07-27  
+:fontawesome-solid-location-dot:{ .ky_list_leading_icon } 首尔  
 
 ## 联系
 
-:fontawesome-solid-globe: <https://www.facebook.com/events/935804484856969>{ target='_blank' }  
+:fontawesome-solid-globe:{ .ky_list_leading_icon } <https://www.facebook.com/events/935804484856969>{ target='_blank' }  
 
 ---
 

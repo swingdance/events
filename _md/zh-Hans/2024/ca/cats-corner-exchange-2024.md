@@ -6,13 +6,13 @@ description: "2024-10-25 ~ 2024-10-27"
 
 # Cat’s Corner Exchange 
 
-:fontawesome-solid-calendar-days: 2024-10-25 ~ 2024-10-27  
-:fontawesome-solid-location-dot: 蒙特利尔  
+:fontawesome-solid-calendar-days:{ .ky_list_leading_icon } 2024-10-25 ~ 2024-10-27  
+:fontawesome-solid-location-dot:{ .ky_list_leading_icon } 蒙特利尔  
 
 ## 联系
 
-:fontawesome-solid-envelope: <info@catscorner.ca>  
-:fontawesome-solid-globe: <https://www.catscorner.ca>{ target='_blank' }  
+:fontawesome-solid-envelope:{ .ky_list_leading_icon } <info@catscorner.ca>  
+:fontawesome-solid-globe:{ .ky_list_leading_icon } <https://www.catscorner.ca>{ target='_blank' }  
 
 ---
 

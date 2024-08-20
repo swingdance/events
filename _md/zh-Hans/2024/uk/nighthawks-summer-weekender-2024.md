@@ -5,12 +5,12 @@ description: "2024-09-06 ~ 2024-09-09"
 
 # Nighthawks Summer Weekender 
 
-:fontawesome-solid-calendar-days: 2024-09-06 ~ 2024-09-09  
-:fontawesome-solid-location-dot: 白金汉郡  
+:fontawesome-solid-calendar-days:{ .ky_list_leading_icon } 2024-09-06 ~ 2024-09-09  
+:fontawesome-solid-location-dot:{ .ky_list_leading_icon } 白金汉郡  
 
 ## 联系
 
-:fontawesome-solid-globe: <https://nighthawks.info>{ target='_blank' }  
+:fontawesome-solid-globe:{ .ky_list_leading_icon } <https://nighthawks.info>{ target='_blank' }  
 
 ---
 

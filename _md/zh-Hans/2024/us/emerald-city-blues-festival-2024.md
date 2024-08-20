@@ -7,8 +7,8 @@ tags:
 
 # Emerald City Blues Festival 
 
-:fontawesome-solid-calendar-days: 2024-10-25 ~ 2024-10-28  
-:fontawesome-solid-location-dot: 西雅图  
+:fontawesome-solid-calendar-days:{ .ky_list_leading_icon } 2024-10-25 ~ 2024-10-28  
+:fontawesome-solid-location-dot:{ .ky_list_leading_icon } 西雅图  
 
 ## 联系
 

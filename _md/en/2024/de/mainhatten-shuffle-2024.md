@@ -7,13 +7,13 @@ tags:
 
 # Mainhatten Shuffle 
 
-:fontawesome-solid-calendar-days: 2024-10-31 ~ 2024-11-03  
-:fontawesome-solid-location-dot: Frankfurt  
+:fontawesome-solid-calendar-days:{ .ky_list_leading_icon } 2024-10-31 ~ 2024-11-03  
+:fontawesome-solid-location-dot:{ .ky_list_leading_icon } Frankfurt  
 
 ## Contact
 
-:fontawesome-solid-envelope: <mainhattenshuffle@gmail.com>  
-:fontawesome-solid-globe: <https://shuffle.rmswing.de>{ target='_blank' }  
+:fontawesome-solid-envelope:{ .ky_list_leading_icon } <mainhattenshuffle@gmail.com>  
+:fontawesome-solid-globe:{ .ky_list_leading_icon } <https://shuffle.rmswing.de>{ target='_blank' }  
 
 ---
 

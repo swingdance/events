@@ -5,8 +5,8 @@ description: "2024-06-28"
 
 # Tomodachi Swing 
 
-:fontawesome-solid-calendar-days: 2024-06-28 ~ 2024-06-28  
-:fontawesome-solid-location-dot: Tokyo  
+:fontawesome-solid-calendar-days:{ .ky_list_leading_icon } 2024-06-28 ~ 2024-06-28  
+:fontawesome-solid-location-dot:{ .ky_list_leading_icon } Tokyo  
 
 !!! info "Organizer"
 

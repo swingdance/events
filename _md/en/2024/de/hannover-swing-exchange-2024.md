@@ -6,12 +6,12 @@ description: "2024-09-06 ~ 2024-09-08"
 
 # Hannover Swing Exchange 
 
-:fontawesome-solid-calendar-days: 2024-09-06 ~ 2024-09-08  
-:fontawesome-solid-location-dot: Hannover  
+:fontawesome-solid-calendar-days:{ .ky_list_leading_icon } 2024-09-06 ~ 2024-09-08  
+:fontawesome-solid-location-dot:{ .ky_list_leading_icon } Hannover  
 
 ## Contact
 
-:fontawesome-solid-globe: <https://hannoverswingexchange.de>{ target='_blank' }  
+:fontawesome-solid-globe:{ .ky_list_leading_icon } <https://hannoverswingexchange.de>{ target='_blank' }  
 
 ---
 

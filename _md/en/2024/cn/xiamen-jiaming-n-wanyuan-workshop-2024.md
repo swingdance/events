@@ -5,9 +5,9 @@ description: "2024-03-01 ~ 2024-03-03"
 
 # Jiaming & Wanyuan Workshop 
 
-佳铭&婉圆「摇摆之旅」  
-:fontawesome-solid-calendar-days: 2024-03-01 ~ 2024-03-03  
-:fontawesome-solid-location-dot: Xiamen  
+:fontawesome-solid-ticket:{ .ky_list_leading_icon } 佳铭&婉圆「摇摆之旅」  
+:fontawesome-solid-calendar-days:{ .ky_list_leading_icon } 2024-03-01 ~ 2024-03-03  
+:fontawesome-solid-location-dot:{ .ky_list_leading_icon } Xiamen  
 
 !!! info "Organizer"
 

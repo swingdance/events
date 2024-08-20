@@ -5,13 +5,13 @@ description: "2025-05-29 ~ 2025-06-02"
 
 # Sunny Slide Swing Fest 
 
-:fontawesome-solid-calendar-days: 2025-05-29 ~ 2025-06-02  
-:fontawesome-solid-location-dot: 西尔维·玛丽娜  
+:fontawesome-solid-calendar-days:{ .ky_list_leading_icon } 2025-05-29 ~ 2025-06-02  
+:fontawesome-solid-location-dot:{ .ky_list_leading_icon } 西尔维·玛丽娜  
 
 ## 联系
 
-:fontawesome-solid-envelope: <info@sunnyslideswingfest.com>  
-:fontawesome-solid-globe: <https://www.sunnyslideswingfest.com>{ target='_blank' }  
+:fontawesome-solid-envelope:{ .ky_list_leading_icon } <info@sunnyslideswingfest.com>  
+:fontawesome-solid-globe:{ .ky_list_leading_icon } <https://www.sunnyslideswingfest.com>{ target='_blank' }  
 
 ---
 

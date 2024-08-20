@@ -7,8 +7,8 @@ tags:
 
 # Tokyo Balboa Weekend 
 
-:fontawesome-solid-calendar-days: 2024-12-08 ~ 2024-12-10  
-:fontawesome-solid-location-dot: Tokyo  
+:fontawesome-solid-calendar-days:{ .ky_list_leading_icon } 2024-12-08 ~ 2024-12-10  
+:fontawesome-solid-location-dot:{ .ky_list_leading_icon } Tokyo  
 
 !!! info "Organizer"
 
@@ -16,8 +16,8 @@ tags:
 
 ## Contact
 
-:fontawesome-solid-envelope: <lindyhop@swing-jack.com>  
-:fontawesome-solid-globe: <http://www.swing-jack.com>{ target='_blank' }  
+:fontawesome-solid-envelope:{ .ky_list_leading_icon } <lindyhop@swing-jack.com>  
+:fontawesome-solid-globe:{ .ky_list_leading_icon } <http://www.swing-jack.com>{ target='_blank' }  
 
 ---
 

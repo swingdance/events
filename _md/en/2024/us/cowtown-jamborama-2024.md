@@ -5,13 +5,13 @@ description: "2024-09-06 ~ 2024-09-08"
 
 # Cowtown Jamborama 
 
-:fontawesome-solid-calendar-days: 2024-09-06 ~ 2024-09-08  
-:fontawesome-solid-location-dot: Omaha  
+:fontawesome-solid-calendar-days:{ .ky_list_leading_icon } 2024-09-06 ~ 2024-09-08  
+:fontawesome-solid-location-dot:{ .ky_list_leading_icon } Omaha  
 
 ## Contact
 
-:fontawesome-solid-envelope: <jitterbugs@jitterbugs.org>  
-:fontawesome-solid-globe: <https://jitterbugs.org>{ target='_blank' }  
+:fontawesome-solid-envelope:{ .ky_list_leading_icon } <jitterbugs@jitterbugs.org>  
+:fontawesome-solid-globe:{ .ky_list_leading_icon } <https://jitterbugs.org>{ target='_blank' }  
 
 ---
 

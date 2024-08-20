@@ -5,8 +5,8 @@ description: "2024-05-01 ~ 2024-05-02"
 
 # Jumpin’ Swing 
 
-:fontawesome-solid-calendar-days: 2024-05-01 ~ 2024-05-02  
-:fontawesome-solid-location-dot: Shanghai  
+:fontawesome-solid-calendar-days:{ .ky_list_leading_icon } 2024-05-01 ~ 2024-05-02  
+:fontawesome-solid-location-dot:{ .ky_list_leading_icon } Shanghai  
 
 !!! info "Organizer"
 

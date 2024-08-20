@@ -5,12 +5,12 @@ description: "2024-11-08 ~ 2024-11-10"
 
 # Swinging Marzipan Lubeck 
 
-:fontawesome-solid-calendar-days: 2024-11-08 ~ 2024-11-10  
-:fontawesome-solid-location-dot: Lubeck  
+:fontawesome-solid-calendar-days:{ .ky_list_leading_icon } 2024-11-08 ~ 2024-11-10  
+:fontawesome-solid-location-dot:{ .ky_list_leading_icon } Lubeck  
 
 ## Contact
 
-:fontawesome-solid-globe: <https://www.swingingmarzipan.de>{ target='_blank' }  
+:fontawesome-solid-globe:{ .ky_list_leading_icon } <https://www.swingingmarzipan.de>{ target='_blank' }  
 
 ---
 

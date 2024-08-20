@@ -5,8 +5,8 @@ description: "2024-10-11 ~ 2024-10-13"
 
 # Osaka Lindy Exchange ^18^
 
-:fontawesome-solid-calendar-days: 2024-10-11 ~ 2024-10-13  
-:fontawesome-solid-location-dot: 大阪  
+:fontawesome-solid-calendar-days:{ .ky_list_leading_icon } 2024-10-11 ~ 2024-10-13  
+:fontawesome-solid-location-dot:{ .ky_list_leading_icon } 大阪  
 
 !!! info "组织方"
 
@@ -14,7 +14,7 @@ description: "2024-10-11 ~ 2024-10-13"
 
 ## 联系
 
-:fontawesome-solid-globe: <https://osakalindyexchange.com>{ target='_blank' }  
+:fontawesome-solid-globe:{ .ky_list_leading_icon } <https://osakalindyexchange.com>{ target='_blank' }  
 
 ---
 

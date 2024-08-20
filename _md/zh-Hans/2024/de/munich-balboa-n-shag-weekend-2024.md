@@ -6,12 +6,12 @@ description: "2024-10-25 ~ 2024-10-27"
 
 # Munich Balboa & Shag Weekend ^18^
 
-:fontawesome-solid-calendar-days: 2024-10-25 ~ 2024-10-27  
-:fontawesome-solid-location-dot: 慕尼黑  
+:fontawesome-solid-calendar-days:{ .ky_list_leading_icon } 2024-10-25 ~ 2024-10-27  
+:fontawesome-solid-location-dot:{ .ky_list_leading_icon } 慕尼黑  
 
 ## 联系
 
-:fontawesome-solid-globe: <https://www.mbsw.worldofswing.com/mbsw>{ target='_blank' }  
+:fontawesome-solid-globe:{ .ky_list_leading_icon } <https://www.mbsw.worldofswing.com/mbsw>{ target='_blank' }  
 
 ---
 

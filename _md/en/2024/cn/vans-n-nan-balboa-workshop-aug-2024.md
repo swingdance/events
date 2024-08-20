@@ -7,8 +7,8 @@ tags:
 
 # Vans & Nan Balboa Workshop - Aug 
 
-:fontawesome-solid-calendar-days: 2024-08-23 ~ 2024-08-25  
-:fontawesome-solid-location-dot: Hangzhou  
+:fontawesome-solid-calendar-days:{ .ky_list_leading_icon } 2024-08-23 ~ 2024-08-25  
+:fontawesome-solid-location-dot:{ .ky_list_leading_icon } Hangzhou  
 
 !!! info "Organizer"
 

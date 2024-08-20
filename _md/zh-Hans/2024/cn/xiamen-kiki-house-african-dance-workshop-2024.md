@@ -5,9 +5,9 @@ description: "2024-05-18 ~ 2024-05-19"
 
 # Kiki House African Dance Workshop 
 
-木木之家非洲舞 Workshop  
-:fontawesome-solid-calendar-days: 2024-05-18 ~ 2024-05-19  
-:fontawesome-solid-location-dot: 厦门  
+:fontawesome-solid-ticket:{ .ky_list_leading_icon } 木木之家非洲舞 Workshop  
+:fontawesome-solid-calendar-days:{ .ky_list_leading_icon } 2024-05-18 ~ 2024-05-19  
+:fontawesome-solid-location-dot:{ .ky_list_leading_icon } 厦门  
 
 !!! info "组织方"
 

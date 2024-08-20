@@ -5,13 +5,13 @@ description: "2025-01-24 ~ 2025-01-27"
 
 # The Adelaide Lindy Exchange 
 
-:fontawesome-solid-calendar-days: 2025-01-24 ~ 2025-01-27  
-:fontawesome-solid-location-dot: 阿得莱德  
+:fontawesome-solid-calendar-days:{ .ky_list_leading_icon } 2025-01-24 ~ 2025-01-27  
+:fontawesome-solid-location-dot:{ .ky_list_leading_icon } 阿得莱德  
 
 ## 联系
 
-:fontawesome-solid-envelope: <swingthatthing@outlook.com.au>  
-:fontawesome-solid-globe: <https://www.swingthatthing.com.au>{ target='_blank' }  
+:fontawesome-solid-envelope:{ .ky_list_leading_icon } <swingthatthing@outlook.com.au>  
+:fontawesome-solid-globe:{ .ky_list_leading_icon } <https://www.swingthatthing.com.au>{ target='_blank' }  
 
 ---
 

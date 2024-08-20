@@ -5,9 +5,9 @@ description: "2024-04-19 ~ 2024-04-21"
 
 # Bouncy Chengdu 
 
-妖艳儿摇摆节  
-:fontawesome-solid-calendar-days: 2024-04-19 ~ 2024-04-21  
-:fontawesome-solid-location-dot: 成都  
+:fontawesome-solid-ticket:{ .ky_list_leading_icon } 妖艳儿摇摆节  
+:fontawesome-solid-calendar-days:{ .ky_list_leading_icon } 2024-04-19 ~ 2024-04-21  
+:fontawesome-solid-location-dot:{ .ky_list_leading_icon } 成都  
 
 !!! info "组织方"
 

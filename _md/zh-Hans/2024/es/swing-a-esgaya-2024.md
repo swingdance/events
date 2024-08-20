@@ -5,8 +5,8 @@ description: "2024-09-20 ~ 2024-09-22"
 
 # Swing A Esgaya 
 
-:fontawesome-solid-calendar-days: 2024-09-20 ~ 2024-09-22  
-:fontawesome-solid-location-dot: 希洪  
+:fontawesome-solid-calendar-days:{ .ky_list_leading_icon } 2024-09-20 ~ 2024-09-22  
+:fontawesome-solid-location-dot:{ .ky_list_leading_icon } 希洪  
 
 ## 联系
 

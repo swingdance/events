@@ -5,13 +5,13 @@ description: "2024-11-14 ~ 2024-11-17"
 
 # Austin Lindy Exchange 
 
-:fontawesome-solid-calendar-days: 2024-11-14 ~ 2024-11-17  
-:fontawesome-solid-location-dot: 奥斯汀  
+:fontawesome-solid-calendar-days:{ .ky_list_leading_icon } 2024-11-14 ~ 2024-11-17  
+:fontawesome-solid-location-dot:{ .ky_list_leading_icon } 奥斯汀  
 
 ## 联系
 
-:fontawesome-solid-envelope: <alxcommittee@gmail.com>  
-:fontawesome-solid-globe: <https://www.austinlindyexchange.org>{ target='_blank' }  
+:fontawesome-solid-envelope:{ .ky_list_leading_icon } <alxcommittee@gmail.com>  
+:fontawesome-solid-globe:{ .ky_list_leading_icon } <https://www.austinlindyexchange.org>{ target='_blank' }  
 
 ---
 

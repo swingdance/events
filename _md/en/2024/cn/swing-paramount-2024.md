@@ -5,9 +5,9 @@ description: "2024-09-20 ~ 2024-09-22"
 
 # Swing Paramount ^2^
 
-摇摆百乐门  
-:fontawesome-solid-calendar-days: 2024-09-20 ~ 2024-09-22  
-:fontawesome-solid-location-dot: Shanghai  
+:fontawesome-solid-ticket:{ .ky_list_leading_icon } 摇摆百乐门  
+:fontawesome-solid-calendar-days:{ .ky_list_leading_icon } 2024-09-20 ~ 2024-09-22  
+:fontawesome-solid-location-dot:{ .ky_list_leading_icon } Shanghai  
 
 !!! info "Organizer"
 
@@ -15,7 +15,8 @@ description: "2024-09-20 ~ 2024-09-22"
 
 ???+ venue "Venue"
 
-    上海市静安区豫园路218号，百乐门  
+    上海市静安区豫园路218号，百乐门  
+      
     Paramount: No.218 Yuyuan Road, Jingan District, Shanghai  
 
 ## Contact

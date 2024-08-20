@@ -5,13 +5,13 @@ description: "2024-08-14 ~ 2024-08-18"
 
 # Bal & Lindy Vintage Festival 
 
-:fontawesome-solid-calendar-days: 2024-08-14 ~ 2024-08-18  
-:fontawesome-solid-location-dot: Castiglion Fiorentino  
+:fontawesome-solid-calendar-days:{ .ky_list_leading_icon } 2024-08-14 ~ 2024-08-18  
+:fontawesome-solid-location-dot:{ .ky_list_leading_icon } Castiglion Fiorentino  
 
 ## Contact
 
-:fontawesome-solid-envelope: <info@swingmood.it>  
-:fontawesome-solid-globe: <https://www.swingmood.it>{ target='_blank' }  
+:fontawesome-solid-envelope:{ .ky_list_leading_icon } <info@swingmood.it>  
+:fontawesome-solid-globe:{ .ky_list_leading_icon } <https://www.swingmood.it>{ target='_blank' }  
 
 ---
 

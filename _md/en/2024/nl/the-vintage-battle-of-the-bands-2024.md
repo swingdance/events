@@ -5,13 +5,13 @@ description: "2024-11-22 ~ 2024-11-24"
 
 # The Vintage Battle of the Bands 
 
-:fontawesome-solid-calendar-days: 2024-11-22 ~ 2024-11-24  
-:fontawesome-solid-location-dot: Amsterdam  
+:fontawesome-solid-calendar-days:{ .ky_list_leading_icon } 2024-11-22 ~ 2024-11-24  
+:fontawesome-solid-location-dot:{ .ky_list_leading_icon } Amsterdam  
 
 ## Contact
 
-:fontawesome-solid-envelope: <info.vintagejazzevents@gmail.com>  
-:fontawesome-solid-globe: <https://vintagejazzevents.com/battle-of-the-bands>{ target='_blank' }  
+:fontawesome-solid-envelope:{ .ky_list_leading_icon } <info.vintagejazzevents@gmail.com>  
+:fontawesome-solid-globe:{ .ky_list_leading_icon } <https://vintagejazzevents.com/battle-of-the-bands>{ target='_blank' }  
 
 ---
 

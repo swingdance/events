@@ -5,12 +5,12 @@ description: "2024-10-04 ~ 2024-10-13"
 
 # Crete on the Beat 
 
-:fontawesome-solid-calendar-days: 2024-10-04 ~ 2024-10-13  
-:fontawesome-solid-location-dot: Crete  
+:fontawesome-solid-calendar-days:{ .ky_list_leading_icon } 2024-10-04 ~ 2024-10-13  
+:fontawesome-solid-location-dot:{ .ky_list_leading_icon } Crete  
 
 ## Contact
 
-:fontawesome-solid-globe: <https://www.wetravel.com/trips/crete-on-the-beat-dance-retreat-worldwide-dance-adventures-82549070>{ target='_blank' }  
+:fontawesome-solid-globe:{ .ky_list_leading_icon } <https://www.wetravel.com/trips/crete-on-the-beat-dance-retreat-worldwide-dance-adventures-82549070>{ target='_blank' }  
 
 ---
 

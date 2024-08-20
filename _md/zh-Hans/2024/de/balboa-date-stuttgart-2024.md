@@ -7,12 +7,12 @@ tags:
 
 # Balboa Date Stuttgart 
 
-:fontawesome-solid-calendar-days: 2024-11-16 ~ 2024-11-17  
-:fontawesome-solid-location-dot: 斯图加特  
+:fontawesome-solid-calendar-days:{ .ky_list_leading_icon } 2024-11-16 ~ 2024-11-17  
+:fontawesome-solid-location-dot:{ .ky_list_leading_icon } 斯图加特  
 
 ## 联系
 
-:fontawesome-solid-globe: <https://www.swingkultur.de/veranstaltungen/16/171124-balboa-date-stuttgart>{ target='_blank' }  
+:fontawesome-solid-globe:{ .ky_list_leading_icon } <https://www.swingkultur.de/veranstaltungen/16/171124-balboa-date-stuttgart>{ target='_blank' }  
 
 ---
 

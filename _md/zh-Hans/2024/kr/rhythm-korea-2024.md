@@ -5,14 +5,14 @@ description: "2024-06-21 ~ 2024-06-23"
 
 # Rhythm Korea 
 
-리듬코리아  
-:fontawesome-solid-calendar-days: 2024-06-21 ~ 2024-06-23  
-:fontawesome-solid-location-dot: 首尔  
+:fontawesome-solid-ticket:{ .ky_list_leading_icon } 리듬코리아  
+:fontawesome-solid-calendar-days:{ .ky_list_leading_icon } 2024-06-21 ~ 2024-06-23  
+:fontawesome-solid-location-dot:{ .ky_list_leading_icon } 首尔  
 
 ## 联系
 
-:fontawesome-solid-envelope: <rhythmkoreaevent@gmail.com>  
-:fontawesome-solid-globe: <https://www.rhythmkorea.com>{ target='_blank' }  
+:fontawesome-solid-envelope:{ .ky_list_leading_icon } <rhythmkoreaevent@gmail.com>  
+:fontawesome-solid-globe:{ .ky_list_leading_icon } <https://www.rhythmkorea.com>{ target='_blank' }  
 
 ---
 

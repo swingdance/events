@@ -5,13 +5,13 @@ description: "2025-04-24 ~ 2025-04-28"
 
 # Hullabaloo 
 
-:fontawesome-solid-calendar-days: 2025-04-24 ~ 2025-04-28  
-:fontawesome-solid-location-dot: 珀斯  
+:fontawesome-solid-calendar-days:{ .ky_list_leading_icon } 2025-04-24 ~ 2025-04-28  
+:fontawesome-solid-location-dot:{ .ky_list_leading_icon } 珀斯  
 
 ## 联系
 
-:fontawesome-solid-envelope: <hulla@perthswing.com>  
-:fontawesome-solid-globe: <https://hulla.org>{ target='_blank' }  
+:fontawesome-solid-envelope:{ .ky_list_leading_icon } <hulla@perthswing.com>  
+:fontawesome-solid-globe:{ .ky_list_leading_icon } <https://hulla.org>{ target='_blank' }  
 
 ---
 

@@ -5,13 +5,13 @@ description: "2024-10-11 ~ 2024-10-13"
 
 # Swing’n’Milan 
 
-:fontawesome-solid-calendar-days: 2024-10-11 ~ 2024-10-13  
-:fontawesome-solid-location-dot: Milan  
+:fontawesome-solid-calendar-days:{ .ky_list_leading_icon } 2024-10-11 ~ 2024-10-13  
+:fontawesome-solid-location-dot:{ .ky_list_leading_icon } Milan  
 
 ## Contact
 
-:fontawesome-solid-envelope: <info@swingnmilan.it>  
-:fontawesome-solid-globe: <https://www.swingnmilan.it>{ target='_blank' }  
+:fontawesome-solid-envelope:{ .ky_list_leading_icon } <info@swingnmilan.it>  
+:fontawesome-solid-globe:{ .ky_list_leading_icon } <https://www.swingnmilan.it>{ target='_blank' }  
 
 ---
 

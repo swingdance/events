@@ -7,8 +7,8 @@ tags:
 
 # Balboa Lab Tea Party 
 
-:fontawesome-solid-calendar-days: 2024-06-16 ~ 2024-06-16  
-:fontawesome-solid-location-dot: 东京  
+:fontawesome-solid-calendar-days:{ .ky_list_leading_icon } 2024-06-16 ~ 2024-06-16  
+:fontawesome-solid-location-dot:{ .ky_list_leading_icon } 东京  
 
 !!! info "组织方"
 

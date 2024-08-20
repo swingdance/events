@@ -5,12 +5,12 @@ description: "2025-01-31 ~ 2025-02-02"
 
 # Lindy In The Sky with Diamonds 
 
-:fontawesome-solid-calendar-days: 2025-01-31 ~ 2025-02-02  
-:fontawesome-solid-location-dot: 利物浦  
+:fontawesome-solid-calendar-days:{ .ky_list_leading_icon } 2025-01-31 ~ 2025-02-02  
+:fontawesome-solid-location-dot:{ .ky_list_leading_icon } 利物浦  
 
 ## 联系
 
-:fontawesome-solid-globe: <https://www.merseyswing.com/events/lindy-in-the-sky-with-diamonds-2025>{ target='_blank' }  
+:fontawesome-solid-globe:{ .ky_list_leading_icon } <https://www.merseyswing.com/events/lindy-in-the-sky-with-diamonds-2025>{ target='_blank' }  
 
 ---
 

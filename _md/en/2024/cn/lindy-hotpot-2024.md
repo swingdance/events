@@ -5,8 +5,8 @@ description: "2024-03-22 ~ 2024-03-24"
 
 # Lindy Hotpot 
 
-:fontawesome-solid-calendar-days: 2024-03-22 ~ 2024-03-24  
-:fontawesome-solid-location-dot: Chongqing  
+:fontawesome-solid-calendar-days:{ .ky_list_leading_icon } 2024-03-22 ~ 2024-03-24  
+:fontawesome-solid-location-dot:{ .ky_list_leading_icon } Chongqing  
 
 !!! info "Organizer"
 

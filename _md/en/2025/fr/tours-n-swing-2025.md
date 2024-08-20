@@ -5,13 +5,13 @@ description: "2025-01-24 ~ 2025-01-26"
 
 # Tours’n Swing 
 
-:fontawesome-solid-calendar-days: 2025-01-24 ~ 2025-01-26  
-:fontawesome-solid-location-dot: Tours  
+:fontawesome-solid-calendar-days:{ .ky_list_leading_icon } 2025-01-24 ~ 2025-01-26  
+:fontawesome-solid-location-dot:{ .ky_list_leading_icon } Tours  
 
 ## Contact
 
-:fontawesome-solid-envelope: <toursnswing@gmail.com>  
-:fontawesome-solid-globe: <https://toursnswing.wixsite.com/tns11>{ target='_blank' }  
+:fontawesome-solid-envelope:{ .ky_list_leading_icon } <toursnswing@gmail.com>  
+:fontawesome-solid-globe:{ .ky_list_leading_icon } <https://toursnswing.wixsite.com/tns11>{ target='_blank' }  
 
 ---
 

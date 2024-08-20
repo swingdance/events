@@ -5,13 +5,13 @@ description: "2024-11-22 ~ 2024-11-24"
 
 # Hot Jazz Jamboree 
 
-:fontawesome-solid-calendar-days: 2024-11-22 ~ 2024-11-24  
-:fontawesome-solid-location-dot: Denver  
+:fontawesome-solid-calendar-days:{ .ky_list_leading_icon } 2024-11-22 ~ 2024-11-24  
+:fontawesome-solid-location-dot:{ .ky_list_leading_icon } Denver  
 
 ## Contact
 
-:fontawesome-solid-envelope: <info@cmdance.org>  
-:fontawesome-solid-globe: <https://www.cmdance.org/cmevents/hjj2024>{ target='_blank' }  
+:fontawesome-solid-envelope:{ .ky_list_leading_icon } <info@cmdance.org>  
+:fontawesome-solid-globe:{ .ky_list_leading_icon } <https://www.cmdance.org/cmevents/hjj2024>{ target='_blank' }  
 
 ---
 

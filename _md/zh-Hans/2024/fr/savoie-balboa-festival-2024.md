@@ -7,12 +7,12 @@ tags:
 
 # Savoie Balboa Festival 
 
-:fontawesome-solid-calendar-days: 2024-09-27 ~ 2024-09-29  
-:fontawesome-solid-location-dot: 德吕梅塔-克拉拉丰  
+:fontawesome-solid-calendar-days:{ .ky_list_leading_icon } 2024-09-27 ~ 2024-09-29  
+:fontawesome-solid-location-dot:{ .ky_list_leading_icon } 德吕梅塔-克拉拉丰  
 
 ## 联系
 
-:fontawesome-solid-globe: <https://savoiecaswing.fr/soirees-et-stages/savoie-balboa-festival-2024>{ target='_blank' }  
+:fontawesome-solid-globe:{ .ky_list_leading_icon } <https://savoiecaswing.fr/soirees-et-stages/savoie-balboa-festival-2024>{ target='_blank' }  
 
 ---
 

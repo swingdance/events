@@ -5,13 +5,13 @@ description: "2025-05-17 ~ 2025-05-19"
 
 # Victoria Lindy Exchange 
 
-:fontawesome-solid-calendar-days: 2025-05-17 ~ 2025-05-19  
-:fontawesome-solid-location-dot: Victoria  
+:fontawesome-solid-calendar-days:{ .ky_list_leading_icon } 2025-05-17 ~ 2025-05-19  
+:fontawesome-solid-location-dot:{ .ky_list_leading_icon } Victoria  
 
 ## Contact
 
-:fontawesome-solid-envelope: <hello@swingvictoria.net>  
-:fontawesome-solid-globe: <https://www.swingvictoria.net/events/victoria-lindy-exchange>{ target='_blank' }  
+:fontawesome-solid-envelope:{ .ky_list_leading_icon } <hello@swingvictoria.net>  
+:fontawesome-solid-globe:{ .ky_list_leading_icon } <https://www.swingvictoria.net/events/victoria-lindy-exchange>{ target='_blank' }  
 
 ---
 

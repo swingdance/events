@@ -6,9 +6,9 @@ description: "2024-09-15 ~ 2024-09-17"
 
 # Women's Jazzination ^1^
 
-爵了姐妹  
-:fontawesome-solid-calendar-days: 2024-09-15 ~ 2024-09-17  
-:fontawesome-solid-location-dot: Shanghai  
+:fontawesome-solid-ticket:{ .ky_list_leading_icon } 爵了姐妹  
+:fontawesome-solid-calendar-days:{ .ky_list_leading_icon } 2024-09-15 ~ 2024-09-17  
+:fontawesome-solid-location-dot:{ .ky_list_leading_icon } Shanghai  
 
 ---
 

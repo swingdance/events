@@ -5,13 +5,13 @@ description: "2024-10-03 ~ 2024-10-06"
 
 # Swingomania 
 
-:fontawesome-solid-calendar-days: 2024-10-03 ~ 2024-10-06  
-:fontawesome-solid-location-dot: 纽伦堡  
+:fontawesome-solid-calendar-days:{ .ky_list_leading_icon } 2024-10-03 ~ 2024-10-06  
+:fontawesome-solid-location-dot:{ .ky_list_leading_icon } 纽伦堡  
 
 ## 联系
 
-:fontawesome-solid-envelope: <swingomania@boogie-woogie-club-nuernberg.de>  
-:fontawesome-solid-globe: <https://swingomania.lindymaniacs.de>{ target='_blank' }  
+:fontawesome-solid-envelope:{ .ky_list_leading_icon } <swingomania@boogie-woogie-club-nuernberg.de>  
+:fontawesome-solid-globe:{ .ky_list_leading_icon } <https://swingomania.lindymaniacs.de>{ target='_blank' }  
 
 ---
 

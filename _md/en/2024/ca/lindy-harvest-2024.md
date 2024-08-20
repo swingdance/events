@@ -5,12 +5,12 @@ description: "2024-09-26 ~ 2024-09-29"
 
 # Lindy Harvest 
 
-:fontawesome-solid-calendar-days: 2024-09-26 ~ 2024-09-29  
-:fontawesome-solid-location-dot: Edmonton  
+:fontawesome-solid-calendar-days:{ .ky_list_leading_icon } 2024-09-26 ~ 2024-09-29  
+:fontawesome-solid-location-dot:{ .ky_list_leading_icon } Edmonton  
 
 ## Contact
 
-:fontawesome-solid-globe: <https://www.lindyharvest.com>{ target='_blank' }  
+:fontawesome-solid-globe:{ .ky_list_leading_icon } <https://www.lindyharvest.com>{ target='_blank' }  
 
 ---
 

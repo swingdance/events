@@ -5,13 +5,13 @@ description: "2024-09-12 ~ 2024-09-15"
 
 # Sicily Swing Fest 
 
-:fontawesome-solid-calendar-days: 2024-09-12 ~ 2024-09-15  
-:fontawesome-solid-location-dot: 卡塔尼亚  
+:fontawesome-solid-calendar-days:{ .ky_list_leading_icon } 2024-09-12 ~ 2024-09-15  
+:fontawesome-solid-location-dot:{ .ky_list_leading_icon } 卡塔尼亚  
 
 ## 联系
 
-:fontawesome-solid-envelope: <info@sicilyswingfest.it>  
-:fontawesome-solid-globe: <https://www.sicilyswingfest.it>{ target='_blank' }  
+:fontawesome-solid-envelope:{ .ky_list_leading_icon } <info@sicilyswingfest.it>  
+:fontawesome-solid-globe:{ .ky_list_leading_icon } <https://www.sicilyswingfest.it>{ target='_blank' }  
 
 ---
 

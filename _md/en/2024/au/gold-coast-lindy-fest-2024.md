@@ -5,8 +5,8 @@ description: "2024-07-26 ~ 2024-07-28"
 
 # Gold Coast Lindy Fest 
 
-:fontawesome-solid-calendar-days: 2024-07-26 ~ 2024-07-28  
-:fontawesome-solid-location-dot: Gold Coast  
+:fontawesome-solid-calendar-days:{ .ky_list_leading_icon } 2024-07-26 ~ 2024-07-28  
+:fontawesome-solid-location-dot:{ .ky_list_leading_icon } Gold Coast  
 
 ## Contact
 

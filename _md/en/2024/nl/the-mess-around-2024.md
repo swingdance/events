@@ -5,13 +5,13 @@ description: "2024-09-20 ~ 2024-09-22"
 
 # The Mess Around 
 
-:fontawesome-solid-calendar-days: 2024-09-20 ~ 2024-09-22  
-:fontawesome-solid-location-dot: The Hague  
+:fontawesome-solid-calendar-days:{ .ky_list_leading_icon } 2024-09-20 ~ 2024-09-22  
+:fontawesome-solid-location-dot:{ .ky_list_leading_icon } The Hague  
 
 ## Contact
 
-:fontawesome-solid-envelope: <info@hofstadhop.nl>  
-:fontawesome-solid-globe: <https://hofstadhop.com/mess-around>{ target='_blank' }  
+:fontawesome-solid-envelope:{ .ky_list_leading_icon } <info@hofstadhop.nl>  
+:fontawesome-solid-globe:{ .ky_list_leading_icon } <https://hofstadhop.com/mess-around>{ target='_blank' }  
 
 ---
 

@@ -5,8 +5,8 @@ description: "2024-08-12"
 
 # Swing Jack! 
 
-:fontawesome-solid-calendar-days: 2024-08-12 ~ 2024-08-12  
-:fontawesome-solid-location-dot: Tokyo  
+:fontawesome-solid-calendar-days:{ .ky_list_leading_icon } 2024-08-12 ~ 2024-08-12  
+:fontawesome-solid-location-dot:{ .ky_list_leading_icon } Tokyo  
 
 !!! info "Organizer"
 
@@ -14,7 +14,7 @@ description: "2024-08-12"
 
 ## Contact
 
-:fontawesome-solid-envelope: <lindyhop@swing-jack.com>  
+:fontawesome-solid-envelope:{ .ky_list_leading_icon } <lindyhop@swing-jack.com>  
 
 ---
 

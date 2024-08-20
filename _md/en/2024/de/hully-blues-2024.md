@@ -7,13 +7,13 @@ tags:
 
 # Hully Blues 
 
-:fontawesome-solid-calendar-days: 2024-09-20 ~ 2024-09-22  
-:fontawesome-solid-location-dot: Landkreis Stade  
+:fontawesome-solid-calendar-days:{ .ky_list_leading_icon } 2024-09-20 ~ 2024-09-22  
+:fontawesome-solid-location-dot:{ .ky_list_leading_icon } Landkreis Stade  
 
 ## Contact
 
-:fontawesome-solid-envelope: <henning@swing.farm>  
-:fontawesome-solid-globe: <https://blues.swing.farm>{ target='_blank' }  
+:fontawesome-solid-envelope:{ .ky_list_leading_icon } <henning@swing.farm>  
+:fontawesome-solid-globe:{ .ky_list_leading_icon } <https://blues.swing.farm>{ target='_blank' }  
 
 ---
 

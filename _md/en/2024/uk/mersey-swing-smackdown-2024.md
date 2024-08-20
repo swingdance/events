@@ -5,13 +5,13 @@ description: "2024-10-04 ~ 2024-10-06"
 
 # Mersey Swing Smackdown 
 
-:fontawesome-solid-calendar-days: 2024-10-04 ~ 2024-10-06  
-:fontawesome-solid-location-dot: Liverpool  
+:fontawesome-solid-calendar-days:{ .ky_list_leading_icon } 2024-10-04 ~ 2024-10-06  
+:fontawesome-solid-location-dot:{ .ky_list_leading_icon } Liverpool  
 
 ## Contact
 
-:fontawesome-solid-envelope: <info@merseyswing.com>  
-:fontawesome-solid-globe: <https://www.merseyswing.com/events/smackdown-2024>{ target='_blank' }  
+:fontawesome-solid-envelope:{ .ky_list_leading_icon } <info@merseyswing.com>  
+:fontawesome-solid-globe:{ .ky_list_leading_icon } <https://www.merseyswing.com/events/smackdown-2024>{ target='_blank' }  
 
 ---
 

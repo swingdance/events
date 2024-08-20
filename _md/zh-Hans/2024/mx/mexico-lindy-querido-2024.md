@@ -5,8 +5,8 @@ description: "2024-09-13 ~ 2024-09-16"
 
 # Mexico Lindy Querido 
 
-:fontawesome-solid-calendar-days: 2024-09-13 ~ 2024-09-16  
-:fontawesome-solid-location-dot: 墨西哥城  
+:fontawesome-solid-calendar-days:{ .ky_list_leading_icon } 2024-09-13 ~ 2024-09-16  
+:fontawesome-solid-location-dot:{ .ky_list_leading_icon } 墨西哥城  
 
 ## 联系
 

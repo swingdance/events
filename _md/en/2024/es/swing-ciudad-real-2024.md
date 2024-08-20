@@ -5,13 +5,13 @@ description: "2024-10-25 ~ 2024-10-27"
 
 # Swing Ciudad Real ^6^
 
-:fontawesome-solid-calendar-days: 2024-10-25 ~ 2024-10-27  
-:fontawesome-solid-location-dot: Ciudad Real  
+:fontawesome-solid-calendar-days:{ .ky_list_leading_icon } 2024-10-25 ~ 2024-10-27  
+:fontawesome-solid-location-dot:{ .ky_list_leading_icon } Ciudad Real  
 
 ## Contact
 
-:fontawesome-solid-envelope: <hola@swingciudadreal.es>  
-:fontawesome-solid-globe: <https://swingciudadreal.es>{ target='_blank' }  
+:fontawesome-solid-envelope:{ .ky_list_leading_icon } <hola@swingciudadreal.es>  
+:fontawesome-solid-globe:{ .ky_list_leading_icon } <https://swingciudadreal.es>{ target='_blank' }  
 
 ---
 

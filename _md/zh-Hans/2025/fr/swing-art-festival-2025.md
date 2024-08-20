@@ -5,8 +5,8 @@ description: "2025-03-14 ~ 2025-03-16"
 
 # Swing Art Festival 
 
-:fontawesome-solid-calendar-days: 2025-03-14 ~ 2025-03-16  
-:fontawesome-solid-location-dot: 波尔多  
+:fontawesome-solid-calendar-days:{ .ky_list_leading_icon } 2025-03-14 ~ 2025-03-16  
+:fontawesome-solid-location-dot:{ .ky_list_leading_icon } 波尔多  
 
 !!! info "组织方"
 
@@ -14,7 +14,7 @@ description: "2025-03-14 ~ 2025-03-16"
 
 ## 联系
 
-:fontawesome-solid-envelope: <swingtime@free.fr>  
+:fontawesome-solid-envelope:{ .ky_list_leading_icon } <swingtime@free.fr>  
 
 ---
 

@@ -5,13 +5,13 @@ description: "2024-09-15 ~ 2024-09-17"
 
 # Vintage Swing Festival 
 
-:fontawesome-solid-calendar-days: 2024-09-15 ~ 2024-09-17  
-:fontawesome-solid-location-dot: 采列  
+:fontawesome-solid-calendar-days:{ .ky_list_leading_icon } 2024-09-15 ~ 2024-09-17  
+:fontawesome-solid-location-dot:{ .ky_list_leading_icon } 采列  
 
 ## 联系
 
-:fontawesome-solid-envelope: <festival@vintage.si>  
-:fontawesome-solid-globe: <https://vintageswingfestival.com>{ target='_blank' }  
+:fontawesome-solid-envelope:{ .ky_list_leading_icon } <festival@vintage.si>  
+:fontawesome-solid-globe:{ .ky_list_leading_icon } <https://vintageswingfestival.com>{ target='_blank' }  
 
 ---
 

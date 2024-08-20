@@ -5,13 +5,13 @@ description: "2024-12-26 ~ 2024-12-31"
 
 # The Snowball ^20^
 
-:fontawesome-solid-calendar-days: 2024-12-26 ~ 2024-12-31  
-:fontawesome-solid-location-dot: 斯德哥尔摩  
+:fontawesome-solid-calendar-days:{ .ky_list_leading_icon } 2024-12-26 ~ 2024-12-31  
+:fontawesome-solid-location-dot:{ .ky_list_leading_icon } 斯德哥尔摩  
 
 ## 联系
 
-:fontawesome-solid-envelope: <info@thesnowball.se>  
-:fontawesome-solid-globe: <https://www.thesnowball.se>{ target='_blank' }  
+:fontawesome-solid-envelope:{ .ky_list_leading_icon } <info@thesnowball.se>  
+:fontawesome-solid-globe:{ .ky_list_leading_icon } <https://www.thesnowball.se>{ target='_blank' }  
 
 ---
 

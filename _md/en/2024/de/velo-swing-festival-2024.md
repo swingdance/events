@@ -5,13 +5,13 @@ description: "2024-08-15 ~ 2024-08-18"
 
 # Velo-Swing Festival 
 
-:fontawesome-solid-calendar-days: 2024-08-15 ~ 2024-08-18  
-:fontawesome-solid-location-dot: Saarbruecken  
+:fontawesome-solid-calendar-days:{ .ky_list_leading_icon } 2024-08-15 ~ 2024-08-18  
+:fontawesome-solid-location-dot:{ .ky_list_leading_icon } Saarbruecken  
 
 ## Contact
 
-:fontawesome-solid-envelope: <veloswingfestival@gmail.com>  
-:fontawesome-solid-globe: <https://www.veloswingfestival.com>{ target='_blank' }  
+:fontawesome-solid-envelope:{ .ky_list_leading_icon } <veloswingfestival@gmail.com>  
+:fontawesome-solid-globe:{ .ky_list_leading_icon } <https://www.veloswingfestival.com>{ target='_blank' }  
 
 ---
 

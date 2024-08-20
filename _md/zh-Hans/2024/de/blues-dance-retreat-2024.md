@@ -7,12 +7,12 @@ tags:
 
 # Blues Dance Retreat 
 
-:fontawesome-solid-calendar-days: 2024-10-03 ~ 2024-10-06  
-:fontawesome-solid-location-dot: 科隆  
+:fontawesome-solid-calendar-days:{ .ky_list_leading_icon } 2024-10-03 ~ 2024-10-06  
+:fontawesome-solid-location-dot:{ .ky_list_leading_icon } 科隆  
 
 ## 联系
 
-:fontawesome-solid-globe: <https://www.tanzbildung.info/ZweisamerTanzPaartanz#BluesDanceRetreat>{ target='_blank' }  
+:fontawesome-solid-globe:{ .ky_list_leading_icon } <https://www.tanzbildung.info/ZweisamerTanzPaartanz#BluesDanceRetreat>{ target='_blank' }  
 
 ---
 

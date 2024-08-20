@@ -7,9 +7,9 @@ tags:
 
 # Blues in Green 
 
-小罗老师布鲁斯工作坊  
-:fontawesome-solid-calendar-days: 2024-08-10 ~ 2024-08-12  
-:fontawesome-solid-location-dot: Jingdezhen  
+:fontawesome-solid-ticket:{ .ky_list_leading_icon } 小罗老师布鲁斯工作坊  
+:fontawesome-solid-calendar-days:{ .ky_list_leading_icon } 2024-08-10 ~ 2024-08-12  
+:fontawesome-solid-location-dot:{ .ky_list_leading_icon } Jingdezhen  
 
 ## Contact
 

@@ -5,12 +5,12 @@ description: "2025-01-23 ~ 2025-01-26"
 
 # Lindy Szau’s Birthday Jam ^11^
 
-:fontawesome-solid-calendar-days: 2025-01-23 ~ 2025-01-26  
-:fontawesome-solid-location-dot: Wroclaw  
+:fontawesome-solid-calendar-days:{ .ky_list_leading_icon } 2025-01-23 ~ 2025-01-26  
+:fontawesome-solid-location-dot:{ .ky_list_leading_icon } Wroclaw  
 
 ## Contact
 
-:fontawesome-solid-globe: <https://www.birthdayjam.pl>{ target='_blank' }  
+:fontawesome-solid-globe:{ .ky_list_leading_icon } <https://www.birthdayjam.pl>{ target='_blank' }  
 
 ---
 

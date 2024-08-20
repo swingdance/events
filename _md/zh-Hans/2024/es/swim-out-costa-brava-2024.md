@@ -5,13 +5,13 @@ description: "2024-09-05 ~ 2024-09-08"
 
 # Swim Out Costa Brava 
 
-:fontawesome-solid-calendar-days: 2024-09-05 ~ 2024-09-08  
-:fontawesome-solid-location-dot: 雅弗郎其  
+:fontawesome-solid-calendar-days:{ .ky_list_leading_icon } 2024-09-05 ~ 2024-09-08  
+:fontawesome-solid-location-dot:{ .ky_list_leading_icon } 雅弗郎其  
 
 ## 联系
 
-:fontawesome-solid-envelope: <swimoutcostabrava@gmail.com>  
-:fontawesome-solid-globe: <https://swimoutcostabrava.com>{ target='_blank' }  
+:fontawesome-solid-envelope:{ .ky_list_leading_icon } <swimoutcostabrava@gmail.com>  
+:fontawesome-solid-globe:{ .ky_list_leading_icon } <https://swimoutcostabrava.com>{ target='_blank' }  
 
 ---
 

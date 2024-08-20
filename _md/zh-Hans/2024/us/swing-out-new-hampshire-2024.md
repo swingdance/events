@@ -5,13 +5,13 @@ description: "2024-08-21 ~ 2024-08-24"
 
 # Swing Out New Hampshire 
 
-:fontawesome-solid-calendar-days: 2024-08-21 ~ 2024-08-24  
-:fontawesome-solid-location-dot: 希伯伦  
+:fontawesome-solid-calendar-days:{ .ky_list_leading_icon } 2024-08-21 ~ 2024-08-24  
+:fontawesome-solid-location-dot:{ .ky_list_leading_icon } 希伯伦  
 
 ## 联系
 
-:fontawesome-solid-envelope: <info@swingoutnh.com>  
-:fontawesome-solid-globe: <https://www.swingoutnh.com>{ target='_blank' }  
+:fontawesome-solid-envelope:{ .ky_list_leading_icon } <info@swingoutnh.com>  
+:fontawesome-solid-globe:{ .ky_list_leading_icon } <https://www.swingoutnh.com>{ target='_blank' }  
 
 ---
 

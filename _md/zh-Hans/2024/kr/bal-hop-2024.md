@@ -5,13 +5,13 @@ description: "2024-08-16 ~ 2024-08-18"
 
 # BAL & HOP 
 
-:fontawesome-solid-calendar-days: 2024-08-16 ~ 2024-08-18  
-:fontawesome-solid-location-dot: 首尔  
+:fontawesome-solid-calendar-days:{ .ky_list_leading_icon } 2024-08-16 ~ 2024-08-18  
+:fontawesome-solid-location-dot:{ .ky_list_leading_icon } 首尔  
 
 ## 联系
 
-:fontawesome-solid-envelope: <balnhop.kr@gmail.com>  
-:fontawesome-solid-globe: <https://balnhop2024.modoo.at>{ target='_blank' }  
+:fontawesome-solid-envelope:{ .ky_list_leading_icon } <balnhop.kr@gmail.com>  
+:fontawesome-solid-globe:{ .ky_list_leading_icon } <https://balnhop2024.modoo.at>{ target='_blank' }  
 
 ---
 

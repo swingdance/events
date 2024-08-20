@@ -5,13 +5,13 @@ description: "2024-11-15 ~ 2024-11-17"
 
 # Stir it! 
 
-:fontawesome-solid-calendar-days: 2024-11-15 ~ 2024-11-17  
-:fontawesome-solid-location-dot: Zurich  
+:fontawesome-solid-calendar-days:{ .ky_list_leading_icon } 2024-11-15 ~ 2024-11-17  
+:fontawesome-solid-location-dot:{ .ky_list_leading_icon } Zurich  
 
 ## Contact
 
-:fontawesome-solid-envelope: <info@stirit.ch>  
-:fontawesome-solid-globe: <https://stirit.ch>{ target='_blank' }  
+:fontawesome-solid-envelope:{ .ky_list_leading_icon } <info@stirit.ch>  
+:fontawesome-solid-globe:{ .ky_list_leading_icon } <https://stirit.ch>{ target='_blank' }  
 
 ---
 

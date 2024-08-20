@@ -5,12 +5,12 @@ description: "2024-09-20 ~ 2024-09-22"
 
 # Gothenburg Queer Lindy Festival 
 
-:fontawesome-solid-calendar-days: 2024-09-20 ~ 2024-09-22  
-:fontawesome-solid-location-dot: Gothenburg  
+:fontawesome-solid-calendar-days:{ .ky_list_leading_icon } 2024-09-20 ~ 2024-09-22  
+:fontawesome-solid-location-dot:{ .ky_list_leading_icon } Gothenburg  
 
 ## Contact
 
-:fontawesome-solid-globe: <https://www.gbgqueerlindy.com>{ target='_blank' }  
+:fontawesome-solid-globe:{ .ky_list_leading_icon } <https://www.gbgqueerlindy.com>{ target='_blank' }  
 
 ---
 

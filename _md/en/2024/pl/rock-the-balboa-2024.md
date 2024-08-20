@@ -7,13 +7,13 @@ tags:
 
 # Rock the Balboa! 
 
-:fontawesome-solid-calendar-days: 2024-09-27 ~ 2024-09-29  
-:fontawesome-solid-location-dot: Krakow  
+:fontawesome-solid-calendar-days:{ .ky_list_leading_icon } 2024-09-27 ~ 2024-09-29  
+:fontawesome-solid-location-dot:{ .ky_list_leading_icon } Krakow  
 
 ## Contact
 
-:fontawesome-solid-envelope: <rockthebalboa.cracow@gmail.com>  
-:fontawesome-solid-globe: <https://www.rockthebalboa.com>{ target='_blank' }  
+:fontawesome-solid-envelope:{ .ky_list_leading_icon } <rockthebalboa.cracow@gmail.com>  
+:fontawesome-solid-globe:{ .ky_list_leading_icon } <https://www.rockthebalboa.com>{ target='_blank' }  
 
 ---
 

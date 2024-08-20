@@ -5,13 +5,13 @@ description: "2024-08-31 ~ 2024-09-01"
 
 # Lindy Hop Trainingslager 
 
-:fontawesome-solid-calendar-days: 2024-08-31 ~ 2024-09-01  
-:fontawesome-solid-location-dot: Augsburg  
+:fontawesome-solid-calendar-days:{ .ky_list_leading_icon } 2024-08-31 ~ 2024-09-01  
+:fontawesome-solid-location-dot:{ .ky_list_leading_icon } Augsburg  
 
 ## Contact
 
-:fontawesome-solid-envelope: <info@hepcatclub.com>  
-:fontawesome-solid-globe: <https://hepcatclub.com/events/lindy-trainingslager>{ target='_blank' }  
+:fontawesome-solid-envelope:{ .ky_list_leading_icon } <info@hepcatclub.com>  
+:fontawesome-solid-globe:{ .ky_list_leading_icon } <https://hepcatclub.com/events/lindy-trainingslager>{ target='_blank' }  
 
 ---
 

@@ -5,12 +5,12 @@ description: "2024-11-29 ~ 2024-12-01"
 
 # Hully Hop Swing Farm 
 
-:fontawesome-solid-calendar-days: 2024-11-29 ~ 2024-12-01  
-:fontawesome-solid-location-dot: 施塔德县  
+:fontawesome-solid-calendar-days:{ .ky_list_leading_icon } 2024-11-29 ~ 2024-12-01  
+:fontawesome-solid-location-dot:{ .ky_list_leading_icon } 施塔德县  
 
 ## 联系
 
-:fontawesome-solid-globe: <https://swing.farm>{ target='_blank' }  
+:fontawesome-solid-globe:{ .ky_list_leading_icon } <https://swing.farm>{ target='_blank' }  
 
 ---
 

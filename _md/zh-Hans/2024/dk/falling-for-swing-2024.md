@@ -5,9 +5,9 @@ description: "2024-11-01 ~ 2024-11-03"
 
 # Falling for Swing 
 
-Fallin' for Swing  
-:fontawesome-solid-calendar-days: 2024-11-01 ~ 2024-11-03  
-:fontawesome-solid-location-dot: 奧登斯  
+:fontawesome-solid-ticket:{ .ky_list_leading_icon } Fallin' for Swing  
+:fontawesome-solid-calendar-days:{ .ky_list_leading_icon } 2024-11-01 ~ 2024-11-03  
+:fontawesome-solid-location-dot:{ .ky_list_leading_icon } 奧登斯  
 
 !!! info "组织方"
 

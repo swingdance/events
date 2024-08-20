@@ -5,8 +5,8 @@ description: "2024-10-31 ~ 2024-11-03"
 
 # Lindy poh! 
 
-:fontawesome-solid-calendar-days: 2024-10-31 ~ 2024-11-03  
-:fontawesome-solid-location-dot: 圣地亚哥  
+:fontawesome-solid-calendar-days:{ .ky_list_leading_icon } 2024-10-31 ~ 2024-11-03  
+:fontawesome-solid-location-dot:{ .ky_list_leading_icon } 圣地亚哥  
 
 ## 联系
 

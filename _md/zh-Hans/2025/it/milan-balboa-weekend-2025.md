@@ -7,13 +7,13 @@ tags:
 
 # Milan Balboa Weekend 
 
-:fontawesome-solid-calendar-days: 2025-01-24 ~ 2025-01-26  
-:fontawesome-solid-location-dot: 米兰  
+:fontawesome-solid-calendar-days:{ .ky_list_leading_icon } 2025-01-24 ~ 2025-01-26  
+:fontawesome-solid-location-dot:{ .ky_list_leading_icon } 米兰  
 
 ## 联系
 
-:fontawesome-solid-envelope: <info@lostintheshuffle.it>  
-:fontawesome-solid-globe: <https://www.lostintheshuffle.it>{ target='_blank' }  
+:fontawesome-solid-envelope:{ .ky_list_leading_icon } <info@lostintheshuffle.it>  
+:fontawesome-solid-globe:{ .ky_list_leading_icon } <https://www.lostintheshuffle.it>{ target='_blank' }  
 
 ---
 

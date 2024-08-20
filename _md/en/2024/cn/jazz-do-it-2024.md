@@ -5,9 +5,9 @@ description: "2024-07-19 ~ 2024-07-21"
 
 # Jazz Do It 
 
-北京林迪舞交流节  
-:fontawesome-solid-calendar-days: 2024-07-19 ~ 2024-07-21  
-:fontawesome-solid-location-dot: Beijing  
+:fontawesome-solid-ticket:{ .ky_list_leading_icon } 北京林迪舞交流节  
+:fontawesome-solid-calendar-days:{ .ky_list_leading_icon } 2024-07-19 ~ 2024-07-21  
+:fontawesome-solid-location-dot:{ .ky_list_leading_icon } Beijing  
 
 !!! info "Organizer"
 

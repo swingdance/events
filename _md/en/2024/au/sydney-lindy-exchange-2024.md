@@ -6,13 +6,13 @@ description: "2024-08-30 ~ 2024-09-01"
 
 # Sydney Lindy Exchange 
 
-:fontawesome-solid-calendar-days: 2024-08-30 ~ 2024-09-01  
-:fontawesome-solid-location-dot: Sydney  
+:fontawesome-solid-calendar-days:{ .ky_list_leading_icon } 2024-08-30 ~ 2024-09-01  
+:fontawesome-solid-location-dot:{ .ky_list_leading_icon } Sydney  
 
 ## Contact
 
-:fontawesome-solid-envelope: <slxteam@sydneylindyexchange.com>  
-:fontawesome-solid-globe: <http://www.sydneylindyexchange.com>{ target='_blank' }  
+:fontawesome-solid-envelope:{ .ky_list_leading_icon } <slxteam@sydneylindyexchange.com>  
+:fontawesome-solid-globe:{ .ky_list_leading_icon } <http://www.sydneylindyexchange.com>{ target='_blank' }  
 
 ---
 

@@ -5,13 +5,13 @@ description: "2024-11-30 ~ 2024-12-01"
 
 # Remy & Ramona Weekend 
 
-:fontawesome-solid-calendar-days: 2024-11-30 ~ 2024-12-01  
-:fontawesome-solid-location-dot: 墨尔本  
+:fontawesome-solid-calendar-days:{ .ky_list_leading_icon } 2024-11-30 ~ 2024-12-01  
+:fontawesome-solid-location-dot:{ .ky_list_leading_icon } 墨尔本  
 
 ## 联系
 
-:fontawesome-solid-envelope: <info@1929studios.com>  
-:fontawesome-solid-globe: <https://www.1929studios.com/event-calendar/2024/11/30/remy-amp-ramona-weekend>{ target='_blank' }  
+:fontawesome-solid-envelope:{ .ky_list_leading_icon } <info@1929studios.com>  
+:fontawesome-solid-globe:{ .ky_list_leading_icon } <https://www.1929studios.com/event-calendar/2024/11/30/remy-amp-ramona-weekend>{ target='_blank' }  
 
 ---
 

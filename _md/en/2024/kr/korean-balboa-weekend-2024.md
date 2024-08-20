@@ -8,13 +8,13 @@ tags:
 
 # Korean Balboa Weekend 
 
-:fontawesome-solid-calendar-days: 2024-11-15 ~ 2024-11-17  
-:fontawesome-solid-location-dot: Seoul  
+:fontawesome-solid-calendar-days:{ .ky_list_leading_icon } 2024-11-15 ~ 2024-11-17  
+:fontawesome-solid-location-dot:{ .ky_list_leading_icon } Seoul  
 
 ## Contact
 
-:fontawesome-solid-envelope: <koreabalboaweekend2008@gmail.com>  
-:fontawesome-solid-globe: <https://www.koreabalboa.com>{ target='_blank' }  
+:fontawesome-solid-envelope:{ .ky_list_leading_icon } <koreabalboaweekend2008@gmail.com>  
+:fontawesome-solid-globe:{ .ky_list_leading_icon } <https://www.koreabalboa.com>{ target='_blank' }  
 
 ---
 

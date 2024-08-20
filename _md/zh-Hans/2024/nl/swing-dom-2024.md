@@ -5,12 +5,12 @@ description: "2024-11-08 ~ 2024-11-10"
 
 # SwingDom 
 
-:fontawesome-solid-calendar-days: 2024-11-08 ~ 2024-11-10  
-:fontawesome-solid-location-dot: 乌得勒支  
+:fontawesome-solid-calendar-days:{ .ky_list_leading_icon } 2024-11-08 ~ 2024-11-10  
+:fontawesome-solid-location-dot:{ .ky_list_leading_icon } 乌得勒支  
 
 ## 联系
 
-:fontawesome-solid-globe: <http://swingdom.nl>{ target='_blank' }  
+:fontawesome-solid-globe:{ .ky_list_leading_icon } <http://swingdom.nl>{ target='_blank' }  
 
 ---
 

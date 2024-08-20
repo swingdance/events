@@ -6,9 +6,9 @@ description: "2024-10-18 ~ 2024-10-20"
 
 # Hop the Bay 
 
-湾区摇摆大会  
-:fontawesome-solid-calendar-days: 2024-10-18 ~ 2024-10-20  
-:fontawesome-solid-location-dot: Foshan  
+:fontawesome-solid-ticket:{ .ky_list_leading_icon } 湾区摇摆大会  
+:fontawesome-solid-calendar-days:{ .ky_list_leading_icon } 2024-10-18 ~ 2024-10-20  
+:fontawesome-solid-location-dot:{ .ky_list_leading_icon } Foshan  
 
 !!! info "Organizer"
 
@@ -17,7 +17,7 @@ description: "2024-10-18 ~ 2024-10-20"
 
 ## Contact
 
-:fontawesome-solid-envelope: <HTB2024@swingshenzhen.com>  
+:fontawesome-solid-envelope:{ .ky_list_leading_icon } <HTB2024@swingshenzhen.com>  
 
 ---
 

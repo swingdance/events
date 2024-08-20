@@ -6,13 +6,13 @@ description: "2024-10-03 ~ 2024-10-06"
 
 # Toulouse Swing Exchange 
 
-:fontawesome-solid-calendar-days: 2024-10-03 ~ 2024-10-06  
-:fontawesome-solid-location-dot: Toulouse  
+:fontawesome-solid-calendar-days:{ .ky_list_leading_icon } 2024-10-03 ~ 2024-10-06  
+:fontawesome-solid-location-dot:{ .ky_list_leading_icon } Toulouse  
 
 ## Contact
 
-:fontawesome-solid-envelope: <toulouseswingexchange@gmail.com>  
-:fontawesome-solid-globe: <https://www.toulouseswingexchange.fr>{ target='_blank' }  
+:fontawesome-solid-envelope:{ .ky_list_leading_icon } <toulouseswingexchange@gmail.com>  
+:fontawesome-solid-globe:{ .ky_list_leading_icon } <https://www.toulouseswingexchange.fr>{ target='_blank' }  
 
 ---
 

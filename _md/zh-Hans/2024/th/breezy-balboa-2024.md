@@ -7,8 +7,8 @@ tags:
 
 # Breezy Balboa 
 
-:fontawesome-solid-calendar-days: 2024-05-04 ~ 2024-05-12  
-:fontawesome-solid-location-dot: 华欣  
+:fontawesome-solid-calendar-days:{ .ky_list_leading_icon } 2024-05-04 ~ 2024-05-12  
+:fontawesome-solid-location-dot:{ .ky_list_leading_icon } 华欣  
 
 ## 联系
 

@@ -5,12 +5,12 @@ description: "2025-03-07 ~ 2025-03-09"
 
 # B.T.Switch 
 
-:fontawesome-solid-calendar-days: 2025-03-07 ~ 2025-03-09  
-:fontawesome-solid-location-dot: Darmstadt  
+:fontawesome-solid-calendar-days:{ .ky_list_leading_icon } 2025-03-07 ~ 2025-03-09  
+:fontawesome-solid-location-dot:{ .ky_list_leading_icon } Darmstadt  
 
 ## Contact
 
-:fontawesome-solid-globe: <https://btswing.dance>{ target='_blank' }  
+:fontawesome-solid-globe:{ .ky_list_leading_icon } <https://btswing.dance>{ target='_blank' }  
 
 ---
 

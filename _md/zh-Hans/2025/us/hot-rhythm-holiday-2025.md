@@ -6,8 +6,8 @@ description: "2025-02-14 ~ 2025-02-16"
 
 # Hot Rhythm Holiday 
 
-:fontawesome-solid-calendar-days: 2025-02-14 ~ 2025-02-16  
-:fontawesome-solid-location-dot: 奥斯汀  
+:fontawesome-solid-calendar-days:{ .ky_list_leading_icon } 2025-02-14 ~ 2025-02-16  
+:fontawesome-solid-location-dot:{ .ky_list_leading_icon } 奥斯汀  
 
 !!! info "组织方"
 
@@ -15,8 +15,8 @@ description: "2025-02-14 ~ 2025-02-16"
 
 ## 联系
 
-:fontawesome-solid-envelope: <info@hotrhythmholiday.com>  
-:fontawesome-solid-globe: <https://www.hotrhythmholiday.com>{ target='_blank' }  
+:fontawesome-solid-envelope:{ .ky_list_leading_icon } <info@hotrhythmholiday.com>  
+:fontawesome-solid-globe:{ .ky_list_leading_icon } <https://www.hotrhythmholiday.com>{ target='_blank' }  
 
 ---
 

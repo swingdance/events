@@ -5,8 +5,8 @@ description: "2025-04-04 ~ 2025-04-06"
 
 # Swing Train Festival ^6^
 
-:fontawesome-solid-calendar-days: 2025-04-04 ~ 2025-04-06  
-:fontawesome-solid-location-dot: 杜林  
+:fontawesome-solid-calendar-days:{ .ky_list_leading_icon } 2025-04-04 ~ 2025-04-06  
+:fontawesome-solid-location-dot:{ .ky_list_leading_icon } 杜林  
 
 ## 联系
 

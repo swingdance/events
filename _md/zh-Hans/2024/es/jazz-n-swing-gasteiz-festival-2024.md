@@ -5,12 +5,12 @@ description: "2024-07-19 ~ 2024-07-21"
 
 # Jazz & Swing Gasteiz Festival 
 
-:fontawesome-solid-calendar-days: 2024-07-19 ~ 2024-07-21  
-:fontawesome-solid-location-dot: 维多利亚  
+:fontawesome-solid-calendar-days:{ .ky_list_leading_icon } 2024-07-19 ~ 2024-07-21  
+:fontawesome-solid-location-dot:{ .ky_list_leading_icon } 维多利亚  
 
 ## 联系
 
-:fontawesome-solid-globe: <https://swingverguenza.com/2024/03/09/save-the-data-jazzswing/>{ target='_blank' }  
+:fontawesome-solid-globe:{ .ky_list_leading_icon } <https://swingverguenza.com/2024/03/09/save-the-data-jazzswing/>{ target='_blank' }  
 
 ---
 

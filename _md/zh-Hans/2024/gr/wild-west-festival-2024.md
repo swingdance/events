@@ -5,13 +5,13 @@ description: "2024-11-07 ~ 2024-11-10"
 
 # Wild West Festival 
 
-:fontawesome-solid-calendar-days: 2024-11-07 ~ 2024-11-10  
-:fontawesome-solid-location-dot: 雅典  
+:fontawesome-solid-calendar-days:{ .ky_list_leading_icon } 2024-11-07 ~ 2024-11-10  
+:fontawesome-solid-location-dot:{ .ky_list_leading_icon } 雅典  
 
 ## 联系
 
-:fontawesome-solid-envelope: <wildfestivalgr@gmail.com>  
-:fontawesome-solid-globe: <https://wildwestfestival.gr>{ target='_blank' }  
+:fontawesome-solid-envelope:{ .ky_list_leading_icon } <wildfestivalgr@gmail.com>  
+:fontawesome-solid-globe:{ .ky_list_leading_icon } <https://wildwestfestival.gr>{ target='_blank' }  
 
 ---
 

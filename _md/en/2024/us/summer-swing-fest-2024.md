@@ -5,12 +5,12 @@ description: "2024-08-16 ~ 2024-08-18"
 
 # Summer Swing Fest 
 
-:fontawesome-solid-calendar-days: 2024-08-16 ~ 2024-08-18  
-:fontawesome-solid-location-dot: Mesa  
+:fontawesome-solid-calendar-days:{ .ky_list_leading_icon } 2024-08-16 ~ 2024-08-18  
+:fontawesome-solid-location-dot:{ .ky_list_leading_icon } Mesa  
 
 ## Contact
 
-:fontawesome-solid-envelope: <summerswingfest@gmail.com>  
+:fontawesome-solid-envelope:{ .ky_list_leading_icon } <summerswingfest@gmail.com>  
 
 ---
 

@@ -5,13 +5,13 @@ description: "2024-11-01 ~ 2024-11-03"
 
 # The Savoy Jazz Jam 
 
-:fontawesome-solid-calendar-days: 2024-11-01 ~ 2024-11-03  
-:fontawesome-solid-location-dot: 和福  
+:fontawesome-solid-calendar-days:{ .ky_list_leading_icon } 2024-11-01 ~ 2024-11-03  
+:fontawesome-solid-location-dot:{ .ky_list_leading_icon } 和福  
 
 ## 联系
 
-:fontawesome-solid-envelope: <mail@Jiveswing.com>  
-:fontawesome-solid-globe: <https://jiveswing.com>{ target='_blank' }  
+:fontawesome-solid-envelope:{ .ky_list_leading_icon } <mail@Jiveswing.com>  
+:fontawesome-solid-globe:{ .ky_list_leading_icon } <https://jiveswing.com>{ target='_blank' }  
 
 ---
 

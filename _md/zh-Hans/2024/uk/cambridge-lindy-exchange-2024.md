@@ -5,13 +5,13 @@ description: "2024-11-01 ~ 2024-11-03"
 
 # Cambridge Lindy Exchange 
 
-:fontawesome-solid-calendar-days: 2024-11-01 ~ 2024-11-03  
-:fontawesome-solid-location-dot: 剑桥  
+:fontawesome-solid-calendar-days:{ .ky_list_leading_icon } 2024-11-01 ~ 2024-11-03  
+:fontawesome-solid-location-dot:{ .ky_list_leading_icon } 剑桥  
 
 ## 联系
 
-:fontawesome-solid-envelope: <info@cambridgeswingdance.com>  
-:fontawesome-solid-globe: <https://www.cambridgeswingdance.com/events/cambridge-lindy-exchange>{ target='_blank' }  
+:fontawesome-solid-envelope:{ .ky_list_leading_icon } <info@cambridgeswingdance.com>  
+:fontawesome-solid-globe:{ .ky_list_leading_icon } <https://www.cambridgeswingdance.com/events/cambridge-lindy-exchange>{ target='_blank' }  
 
 ---
 

@@ -7,8 +7,8 @@ tags:
 
 # Golden Bal-Week 
 
-:fontawesome-solid-calendar-days: 2024-09-26 ~ 2024-09-30  
-:fontawesome-solid-location-dot: 北京  
+:fontawesome-solid-calendar-days:{ .ky_list_leading_icon } 2024-09-26 ~ 2024-09-30  
+:fontawesome-solid-location-dot:{ .ky_list_leading_icon } 北京  
 
 !!! info "组织方"
 

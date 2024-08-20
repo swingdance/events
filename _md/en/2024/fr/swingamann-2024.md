@@ -5,12 +5,12 @@ description: "2024-11-15 ~ 2024-11-17"
 
 # SwinG’amann 
 
-:fontawesome-solid-calendar-days: 2024-11-15 ~ 2024-11-17  
-:fontawesome-solid-location-dot: Rennes  
+:fontawesome-solid-calendar-days:{ .ky_list_leading_icon } 2024-11-15 ~ 2024-11-17  
+:fontawesome-solid-location-dot:{ .ky_list_leading_icon } Rennes  
 
 ## Contact
 
-:fontawesome-solid-globe: <https://swingamann.danceaddict.fr>{ target='_blank' }  
+:fontawesome-solid-globe:{ .ky_list_leading_icon } <https://swingamann.danceaddict.fr>{ target='_blank' }  
 
 ---
 

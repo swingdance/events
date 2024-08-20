@@ -7,13 +7,13 @@ tags:
 
 # Jurassic Bal 
 
-:fontawesome-solid-calendar-days: 2025-04-04 ~ 2025-04-06  
-:fontawesome-solid-location-dot: Canberra  
+:fontawesome-solid-calendar-days:{ .ky_list_leading_icon } 2025-04-04 ~ 2025-04-06  
+:fontawesome-solid-location-dot:{ .ky_list_leading_icon } Canberra  
 
 ## Contact
 
-:fontawesome-solid-envelope: <canberra.balboa@gmail.com>  
-:fontawesome-solid-globe: <https://www.jurassicbal.com/>{ target='_blank' }  
+:fontawesome-solid-envelope:{ .ky_list_leading_icon } <canberra.balboa@gmail.com>  
+:fontawesome-solid-globe:{ .ky_list_leading_icon } <https://www.jurassicbal.com/>{ target='_blank' }  
 
 ---
 

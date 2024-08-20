@@ -7,8 +7,8 @@ tags:
 
 # Bal’heim 
 
-:fontawesome-solid-calendar-days: 2025-04-25 ~ 2025-04-27  
-:fontawesome-solid-location-dot: Trondheim  
+:fontawesome-solid-calendar-days:{ .ky_list_leading_icon } 2025-04-25 ~ 2025-04-27  
+:fontawesome-solid-location-dot:{ .ky_list_leading_icon } Trondheim  
 
 ## Contact
 

@@ -7,12 +7,12 @@ tags:
 
 # Tours’N Balboa 
 
-:fontawesome-solid-calendar-days: 2024-09-13 ~ 2024-09-15  
-:fontawesome-solid-location-dot: Tours  
+:fontawesome-solid-calendar-days:{ .ky_list_leading_icon } 2024-09-13 ~ 2024-09-15  
+:fontawesome-solid-location-dot:{ .ky_list_leading_icon } Tours  
 
 ## Contact
 
-:fontawesome-solid-globe: <https://www.viensonswing.fr/event/1199/TOURS'N%20BALBOA%20%231/Tours>{ target='_blank' }  
+:fontawesome-solid-globe:{ .ky_list_leading_icon } <https://www.viensonswing.fr/event/1199/TOURS'N%20BALBOA%20%231/Tours>{ target='_blank' }  
 
 ---
 

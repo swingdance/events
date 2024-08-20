@@ -5,13 +5,13 @@ description: "2024-07-27 ~ 2024-08-03"
 
 # Summer Camp Lindy Week 
 
-:fontawesome-solid-calendar-days: 2024-07-27 ~ 2024-08-03  
-:fontawesome-solid-location-dot: Le Mont-Dore  
+:fontawesome-solid-calendar-days:{ .ky_list_leading_icon } 2024-07-27 ~ 2024-08-03  
+:fontawesome-solid-location-dot:{ .ky_list_leading_icon } Le Mont-Dore  
 
 ## Contact
 
-:fontawesome-solid-envelope: <studiohop@studiohop.com>  
-:fontawesome-solid-globe: <https://www.studiohop.com>{ target='_blank' }  
+:fontawesome-solid-envelope:{ .ky_list_leading_icon } <studiohop@studiohop.com>  
+:fontawesome-solid-globe:{ .ky_list_leading_icon } <https://www.studiohop.com>{ target='_blank' }  
 
 ---
 

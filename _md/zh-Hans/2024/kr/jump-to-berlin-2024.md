@@ -5,8 +5,8 @@ description: "2024-10-18 ~ 2024-10-20"
 
 # Jump to Berlin 
 
-:fontawesome-solid-calendar-days: 2024-10-18 ~ 2024-10-20  
-:fontawesome-solid-location-dot: 首尔  
+:fontawesome-solid-calendar-days:{ .ky_list_leading_icon } 2024-10-18 ~ 2024-10-20  
+:fontawesome-solid-location-dot:{ .ky_list_leading_icon } 首尔  
 
 ## 联系
 

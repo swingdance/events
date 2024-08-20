@@ -5,13 +5,13 @@ description: "2024-07-19 ~ 2024-07-21"
 
 # Flying Home 
 
-:fontawesome-solid-calendar-days: 2024-07-19 ~ 2024-07-21  
-:fontawesome-solid-location-dot: Durham  
+:fontawesome-solid-calendar-days:{ .ky_list_leading_icon } 2024-07-19 ~ 2024-07-21  
+:fontawesome-solid-location-dot:{ .ky_list_leading_icon } Durham  
 
 ## Contact
 
-:fontawesome-solid-envelope: <flyinghome@triangleswingdance.org>  
-:fontawesome-solid-globe: <https://www.flyinghomenc.com>{ target='_blank' }  
+:fontawesome-solid-envelope:{ .ky_list_leading_icon } <flyinghome@triangleswingdance.org>  
+:fontawesome-solid-globe:{ .ky_list_leading_icon } <https://www.flyinghomenc.com>{ target='_blank' }  
 
 ---
 

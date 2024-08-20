@@ -6,13 +6,13 @@ description: "2024-02-29 ~ 2024-03-03"
 
 # Move Your Bottom 
 
-:fontawesome-solid-calendar-days: 2024-02-29 ~ 2024-03-03  
-:fontawesome-solid-location-dot: Valencia  
+:fontawesome-solid-calendar-days:{ .ky_list_leading_icon } 2024-02-29 ~ 2024-03-03  
+:fontawesome-solid-location-dot:{ .ky_list_leading_icon } Valencia  
 
 ## Contact
 
-:fontawesome-solid-envelope: <info@moveyourbottom.com>  
-:fontawesome-solid-globe: <https://moveyourbottom.com>{ target='_blank' }  
+:fontawesome-solid-envelope:{ .ky_list_leading_icon } <info@moveyourbottom.com>  
+:fontawesome-solid-globe:{ .ky_list_leading_icon } <https://moveyourbottom.com>{ target='_blank' }  
 
 ---
 

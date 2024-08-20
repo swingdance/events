@@ -5,8 +5,8 @@ description: "2024-05-17 ~ 2024-05-22"
 
 # Awozi & Lis Fuzhou Workshop 
 
-:fontawesome-solid-calendar-days: 2024-05-17 ~ 2024-05-22  
-:fontawesome-solid-location-dot: Fuzhou  
+:fontawesome-solid-calendar-days:{ .ky_list_leading_icon } 2024-05-17 ~ 2024-05-22  
+:fontawesome-solid-location-dot:{ .ky_list_leading_icon } Fuzhou  
 
 !!! info "Organizer"
 

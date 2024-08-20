@@ -5,12 +5,12 @@ description: "2024-09-13 ~ 2024-09-15"
 
 # Edinburgh Lindy Exchange 
 
-:fontawesome-solid-calendar-days: 2024-09-13 ~ 2024-09-15  
-:fontawesome-solid-location-dot: 爱丁堡  
+:fontawesome-solid-calendar-days:{ .ky_list_leading_icon } 2024-09-13 ~ 2024-09-15  
+:fontawesome-solid-location-dot:{ .ky_list_leading_icon } 爱丁堡  
 
 ## 联系
 
-:fontawesome-solid-globe: <https://www.edinburghlindyexchange.co.uk>{ target='_blank' }  
+:fontawesome-solid-globe:{ .ky_list_leading_icon } <https://www.edinburghlindyexchange.co.uk>{ target='_blank' }  
 
 ---
 

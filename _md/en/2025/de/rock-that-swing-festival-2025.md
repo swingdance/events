@@ -6,13 +6,13 @@ description: "2025-02-27 ~ 2025-03-03"
 
 # Rock That Swing Festival 
 
-:fontawesome-solid-calendar-days: 2025-02-27 ~ 2025-03-03  
-:fontawesome-solid-location-dot: Munich  
+:fontawesome-solid-calendar-days:{ .ky_list_leading_icon } 2025-02-27 ~ 2025-03-03  
+:fontawesome-solid-location-dot:{ .ky_list_leading_icon } Munich  
 
 ## Contact
 
-:fontawesome-solid-envelope: <info@rockthatswing.com>  
-:fontawesome-solid-globe: <https://www.rockthatswing.com/rtsf>{ target='_blank' }  
+:fontawesome-solid-envelope:{ .ky_list_leading_icon } <info@rockthatswing.com>  
+:fontawesome-solid-globe:{ .ky_list_leading_icon } <https://www.rockthatswing.com/rtsf>{ target='_blank' }  
 
 ---
 

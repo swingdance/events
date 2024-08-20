@@ -5,13 +5,13 @@ description: "2024-07-31 ~ 2024-08-05"
 
 # Swing in the Amalfi Coast 
 
-:fontawesome-solid-calendar-days: 2024-07-31 ~ 2024-08-05  
-:fontawesome-solid-location-dot: 特拉蒙蒂  
+:fontawesome-solid-calendar-days:{ .ky_list_leading_icon } 2024-07-31 ~ 2024-08-05  
+:fontawesome-solid-location-dot:{ .ky_list_leading_icon } 特拉蒙蒂  
 
 ## 联系
 
-:fontawesome-solid-envelope: <novellangswingcamp@gmail.com>  
-:fontawesome-solid-globe: <https://www.novellangswingcamp.com>{ target='_blank' }  
+:fontawesome-solid-envelope:{ .ky_list_leading_icon } <novellangswingcamp@gmail.com>  
+:fontawesome-solid-globe:{ .ky_list_leading_icon } <https://www.novellangswingcamp.com>{ target='_blank' }  
 
 ---
 

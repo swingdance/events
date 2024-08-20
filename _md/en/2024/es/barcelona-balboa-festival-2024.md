@@ -7,13 +7,13 @@ tags:
 
 # Barcelona Balboa Festival 
 
-:fontawesome-solid-calendar-days: 2024-11-29 ~ 2024-12-01  
-:fontawesome-solid-location-dot: Barcelona  
+:fontawesome-solid-calendar-days:{ .ky_list_leading_icon } 2024-11-29 ~ 2024-12-01  
+:fontawesome-solid-location-dot:{ .ky_list_leading_icon } Barcelona  
 
 ## Contact
 
-:fontawesome-solid-envelope: <info.barcelonabalboafestival@gmail.com>  
-:fontawesome-solid-globe: <https://www.barcelonabalboafestival.com>{ target='_blank' }  
+:fontawesome-solid-envelope:{ .ky_list_leading_icon } <info.barcelonabalboafestival@gmail.com>  
+:fontawesome-solid-globe:{ .ky_list_leading_icon } <https://www.barcelonabalboafestival.com>{ target='_blank' }  
 
 ---
 

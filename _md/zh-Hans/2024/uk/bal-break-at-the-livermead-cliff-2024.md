@@ -7,13 +7,13 @@ tags:
 
 # BalBreak at the Livermead Cliff 
 
-:fontawesome-solid-calendar-days: 2024-09-06 ~ 2024-09-08  
-:fontawesome-solid-location-dot: 托基  
+:fontawesome-solid-calendar-days:{ .ky_list_leading_icon } 2024-09-06 ~ 2024-09-08  
+:fontawesome-solid-location-dot:{ .ky_list_leading_icon } 托基  
 
 ## 联系
 
-:fontawesome-solid-envelope: <team@dancebalboa.co.uk>  
-:fontawesome-solid-globe: <https://www.balbreak.co.uk>{ target='_blank' }  
+:fontawesome-solid-envelope:{ .ky_list_leading_icon } <team@dancebalboa.co.uk>  
+:fontawesome-solid-globe:{ .ky_list_leading_icon } <https://www.balbreak.co.uk>{ target='_blank' }  
 
 ---
 

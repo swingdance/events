@@ -5,8 +5,8 @@ description: "2024-07-05 ~ 2024-07-07"
 
 # Funs Swing Exchange 
 
-:fontawesome-solid-calendar-days: 2024-07-05 ~ 2024-07-07  
-:fontawesome-solid-location-dot: Changsha  
+:fontawesome-solid-calendar-days:{ .ky_list_leading_icon } 2024-07-05 ~ 2024-07-07  
+:fontawesome-solid-location-dot:{ .ky_list_leading_icon } Changsha  
 
 !!! info "Organizer"
 

@@ -8,13 +8,13 @@ tags:
 
 # European Balboa Festival 
 
-:fontawesome-solid-calendar-days: 2024-12-06 ~ 2024-12-08  
-:fontawesome-solid-location-dot: 图卢兹  
+:fontawesome-solid-calendar-days:{ .ky_list_leading_icon } 2024-12-06 ~ 2024-12-08  
+:fontawesome-solid-location-dot:{ .ky_list_leading_icon } 图卢兹  
 
 ## 联系
 
-:fontawesome-solid-envelope: <studiohop@studiohop.com>  
-:fontawesome-solid-globe: <https://www.studiohop.com>{ target='_blank' }  
+:fontawesome-solid-envelope:{ .ky_list_leading_icon } <studiohop@studiohop.com>  
+:fontawesome-solid-globe:{ .ky_list_leading_icon } <https://www.studiohop.com>{ target='_blank' }  
 
 ---
 

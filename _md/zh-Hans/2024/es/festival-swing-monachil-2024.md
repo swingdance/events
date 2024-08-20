@@ -5,13 +5,13 @@ description: "2024-07-19 ~ 2024-07-21"
 
 # Festival Swing Monachil 
 
-:fontawesome-solid-calendar-days: 2024-07-19 ~ 2024-07-21  
-:fontawesome-solid-location-dot: 莫纳奇尔  
+:fontawesome-solid-calendar-days:{ .ky_list_leading_icon } 2024-07-19 ~ 2024-07-21  
+:fontawesome-solid-location-dot:{ .ky_list_leading_icon } 莫纳奇尔  
 
 ## 联系
 
-:fontawesome-solid-envelope: <festivalswingmonachil@gmail.com>  
-:fontawesome-solid-globe: <https://www.festivalinternacionalswing.monachil.es>{ target='_blank' }  
+:fontawesome-solid-envelope:{ .ky_list_leading_icon } <festivalswingmonachil@gmail.com>  
+:fontawesome-solid-globe:{ .ky_list_leading_icon } <https://www.festivalinternacionalswing.monachil.es>{ target='_blank' }  
 
 ---
 

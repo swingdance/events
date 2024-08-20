@@ -6,12 +6,12 @@ description: "2024-09-20 ~ 2024-09-22"
 
 # New York Lindy Exchange 
 
-:fontawesome-solid-calendar-days: 2024-09-20 ~ 2024-09-22  
-:fontawesome-solid-location-dot: New York City  
+:fontawesome-solid-calendar-days:{ .ky_list_leading_icon } 2024-09-20 ~ 2024-09-22  
+:fontawesome-solid-location-dot:{ .ky_list_leading_icon } New York City  
 
 ## Contact
 
-:fontawesome-solid-globe: <https://www.nylindy.com>{ target='_blank' }  
+:fontawesome-solid-globe:{ .ky_list_leading_icon } <https://www.nylindy.com>{ target='_blank' }  
 
 ---
 

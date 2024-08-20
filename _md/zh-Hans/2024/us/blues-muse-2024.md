@@ -7,8 +7,8 @@ tags:
 
 # Blues Muse 
 
-:fontawesome-solid-calendar-days: 2024-10-05 ~ 2024-10-07  
-:fontawesome-solid-location-dot: 費城  
+:fontawesome-solid-calendar-days:{ .ky_list_leading_icon } 2024-10-05 ~ 2024-10-07  
+:fontawesome-solid-location-dot:{ .ky_list_leading_icon } 費城  
 
 ## 联系
 

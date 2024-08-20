@@ -5,12 +5,12 @@ description: "2024-08-02 ~ 2024-08-04"
 
 # Rittenhopalooza 
 
-:fontawesome-solid-calendar-days: 2024-08-02 ~ 2024-08-04  
-:fontawesome-solid-location-dot: 費城  
+:fontawesome-solid-calendar-days:{ .ky_list_leading_icon } 2024-08-02 ~ 2024-08-04  
+:fontawesome-solid-location-dot:{ .ky_list_leading_icon } 費城  
 
 ## 联系
 
-:fontawesome-solid-globe: <https://www.rittenhopalooza.com>{ target='_blank' }  
+:fontawesome-solid-globe:{ .ky_list_leading_icon } <https://www.rittenhopalooza.com>{ target='_blank' }  
 
 ---
 

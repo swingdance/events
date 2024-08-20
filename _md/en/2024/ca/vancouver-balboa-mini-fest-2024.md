@@ -7,8 +7,8 @@ tags:
 
 # Vancouver Balboa Mini Fest 
 
-:fontawesome-solid-calendar-days: 2024-10-18 ~ 2024-10-20  
-:fontawesome-solid-location-dot: Vancouver  
+:fontawesome-solid-calendar-days:{ .ky_list_leading_icon } 2024-10-18 ~ 2024-10-20  
+:fontawesome-solid-location-dot:{ .ky_list_leading_icon } Vancouver  
 
 ## Contact
 

@@ -7,8 +7,8 @@ tags:
 
 # Vasu & Xinru Balboa Weekend 
 
-:fontawesome-solid-calendar-days: 2024-09-27 ~ 2024-09-29  
-:fontawesome-solid-location-dot: HK  
+:fontawesome-solid-calendar-days:{ .ky_list_leading_icon } 2024-09-27 ~ 2024-09-29  
+:fontawesome-solid-location-dot:{ .ky_list_leading_icon } HK  
 
 !!! info "Organizer"
 

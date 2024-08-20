@@ -6,8 +6,8 @@ description: "2024-09-06 ~ 2024-09-08"
 
 # Beijing Blues Bush 
 
-:fontawesome-solid-calendar-days: 2024-09-06 ~ 2024-09-08  
-:fontawesome-solid-location-dot: Beijing  
+:fontawesome-solid-calendar-days:{ .ky_list_leading_icon } 2024-09-06 ~ 2024-09-08  
+:fontawesome-solid-location-dot:{ .ky_list_leading_icon } Beijing  
 
 !!! info "Organizer"
 

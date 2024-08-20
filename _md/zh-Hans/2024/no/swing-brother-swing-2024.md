@@ -7,12 +7,12 @@ tags:
 
 # Swing Brother, Swing! 
 
-:fontawesome-solid-calendar-days: 2024-10-17 ~ 2024-10-20  
-:fontawesome-solid-location-dot: 卑尔根  
+:fontawesome-solid-calendar-days:{ .ky_list_leading_icon } 2024-10-17 ~ 2024-10-20  
+:fontawesome-solid-location-dot:{ .ky_list_leading_icon } 卑尔根  
 
 ## 联系
 
-:fontawesome-solid-globe: <https://www.swingbrotherswing.no>{ target='_blank' }  
+:fontawesome-solid-globe:{ .ky_list_leading_icon } <https://www.swingbrotherswing.no>{ target='_blank' }  
 
 ---
 

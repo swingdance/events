@@ -5,9 +5,9 @@ description: "2024-06-08 ~ 2024-06-10"
 
 # Lalla & Sunny Workshop 
 
-摇摆端舞  
-:fontawesome-solid-calendar-days: 2024-06-08 ~ 2024-06-10  
-:fontawesome-solid-location-dot: Dali  
+:fontawesome-solid-ticket:{ .ky_list_leading_icon } 摇摆端舞  
+:fontawesome-solid-calendar-days:{ .ky_list_leading_icon } 2024-06-08 ~ 2024-06-10  
+:fontawesome-solid-location-dot:{ .ky_list_leading_icon } Dali  
 
 !!! info "Organizer"
 

@@ -6,9 +6,9 @@ description: "2024-08-30 ~ 2024-09-01"
 
 # Westlake Swing Carnival 
 
-西湖摇摆嘉年华  
-:fontawesome-solid-calendar-days: 2024-08-30 ~ 2024-09-01  
-:fontawesome-solid-location-dot: Hangzhou  
+:fontawesome-solid-ticket:{ .ky_list_leading_icon } 西湖摇摆嘉年华  
+:fontawesome-solid-calendar-days:{ .ky_list_leading_icon } 2024-08-30 ~ 2024-09-01  
+:fontawesome-solid-location-dot:{ .ky_list_leading_icon } Hangzhou  
 
 !!! info "Organizer"
 

@@ -7,12 +7,12 @@ tags:
 
 # Great Lakes Balboa Escape 
 
-:fontawesome-solid-calendar-days: 2024-09-27 ~ 2024-09-29  
-:fontawesome-solid-location-dot: Chicago  
+:fontawesome-solid-calendar-days:{ .ky_list_leading_icon } 2024-09-27 ~ 2024-09-29  
+:fontawesome-solid-location-dot:{ .ky_list_leading_icon } Chicago  
 
 ## Contact
 
-:fontawesome-solid-globe: <https://www.greatlakesbalboaescape.com>{ target='_blank' }  
+:fontawesome-solid-globe:{ .ky_list_leading_icon } <https://www.greatlakesbalboaescape.com>{ target='_blank' }  
 
 ---
 

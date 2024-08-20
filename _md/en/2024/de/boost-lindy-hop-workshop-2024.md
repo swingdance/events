@@ -5,13 +5,13 @@ description: "2024-09-28 ~ 2024-09-29"
 
 # Boost Lindy Hop Workshop 
 
-:fontawesome-solid-calendar-days: 2024-09-28 ~ 2024-09-29  
-:fontawesome-solid-location-dot: Heidelberg  
+:fontawesome-solid-calendar-days:{ .ky_list_leading_icon } 2024-09-28 ~ 2024-09-29  
+:fontawesome-solid-location-dot:{ .ky_list_leading_icon } Heidelberg  
 
 ## Contact
 
-:fontawesome-solid-envelope: <dance@swingstep.com>  
-:fontawesome-solid-globe: <https://swingstep.com/events/boost>{ target='_blank' }  
+:fontawesome-solid-envelope:{ .ky_list_leading_icon } <dance@swingstep.com>  
+:fontawesome-solid-globe:{ .ky_list_leading_icon } <https://swingstep.com/events/boost>{ target='_blank' }  
 
 ---
 

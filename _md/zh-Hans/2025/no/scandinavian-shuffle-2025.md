@@ -7,8 +7,8 @@ tags:
 
 # Scandinavian Shuffle 
 
-:fontawesome-solid-calendar-days: 2025-02-07 ~ 2025-02-09  
-:fontawesome-solid-location-dot: 卑尔根  
+:fontawesome-solid-calendar-days:{ .ky_list_leading_icon } 2025-02-07 ~ 2025-02-09  
+:fontawesome-solid-location-dot:{ .ky_list_leading_icon } 卑尔根  
 
 ## 联系
 

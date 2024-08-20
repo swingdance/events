@@ -5,13 +5,13 @@ description: "2025-01-09 ~ 2025-01-12"
 
 # Cheek to Cheek Swing Festival 
 
-:fontawesome-solid-calendar-days: 2025-01-09 ~ 2025-01-12  
-:fontawesome-solid-location-dot: 台北  
+:fontawesome-solid-calendar-days:{ .ky_list_leading_icon } 2025-01-09 ~ 2025-01-12  
+:fontawesome-solid-location-dot:{ .ky_list_leading_icon } 台北  
 
 ## 联系
 
-:fontawesome-solid-envelope: <c2cswing@gmail.com>  
-:fontawesome-solid-globe: <https://c2cswing.com>{ target='_blank' }  
+:fontawesome-solid-envelope:{ .ky_list_leading_icon } <c2cswing@gmail.com>  
+:fontawesome-solid-globe:{ .ky_list_leading_icon } <https://c2cswing.com>{ target='_blank' }  
 
 ---
 

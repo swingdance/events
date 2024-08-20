@@ -5,12 +5,12 @@ description: "2024-08-30 ~ 2024-09-01"
 
 # Hep to the Hive 
 
-:fontawesome-solid-calendar-days: 2024-08-30 ~ 2024-09-01  
-:fontawesome-solid-location-dot: 曼彻斯特  
+:fontawesome-solid-calendar-days:{ .ky_list_leading_icon } 2024-08-30 ~ 2024-09-01  
+:fontawesome-solid-location-dot:{ .ky_list_leading_icon } 曼彻斯特  
 
 ## 联系
 
-:fontawesome-solid-globe: <https://swingnorth.org.uk/hep-to-the-hive>{ target='_blank' }  
+:fontawesome-solid-globe:{ .ky_list_leading_icon } <https://swingnorth.org.uk/hep-to-the-hive>{ target='_blank' }  
 
 ---
 

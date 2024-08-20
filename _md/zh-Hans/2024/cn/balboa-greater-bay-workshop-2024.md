@@ -7,9 +7,9 @@ tags:
 
 # Balboa Greater Bay Workshop 
 
-Bal 浪湾区  
-:fontawesome-solid-calendar-days: 2024-07-27 ~ 2024-07-28  
-:fontawesome-solid-location-dot: 深圳  
+:fontawesome-solid-ticket:{ .ky_list_leading_icon } Bal 浪湾区  
+:fontawesome-solid-calendar-days:{ .ky_list_leading_icon } 2024-07-27 ~ 2024-07-28  
+:fontawesome-solid-location-dot:{ .ky_list_leading_icon } 深圳  
 
 !!! info "组织方"
 

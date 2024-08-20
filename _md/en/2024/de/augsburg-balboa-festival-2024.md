@@ -7,13 +7,13 @@ tags:
 
 # Augsburg Balboa Festival 
 
-:fontawesome-solid-calendar-days: 2024-09-20 ~ 2024-09-22  
-:fontawesome-solid-location-dot: Augsburg  
+:fontawesome-solid-calendar-days:{ .ky_list_leading_icon } 2024-09-20 ~ 2024-09-22  
+:fontawesome-solid-location-dot:{ .ky_list_leading_icon } Augsburg  
 
 ## Contact
 
-:fontawesome-solid-envelope: <info@hepcatclub.com>  
-:fontawesome-solid-globe: <https://www.augsburgbalboa.com>{ target='_blank' }  
+:fontawesome-solid-envelope:{ .ky_list_leading_icon } <info@hepcatclub.com>  
+:fontawesome-solid-globe:{ .ky_list_leading_icon } <https://www.augsburgbalboa.com>{ target='_blank' }  
 
 ---
 

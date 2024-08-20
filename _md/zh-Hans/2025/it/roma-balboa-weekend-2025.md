@@ -7,13 +7,13 @@ tags:
 
 # Roma Balboa Weekend 
 
-:fontawesome-solid-calendar-days: 2025-03-14 ~ 2025-03-16  
-:fontawesome-solid-location-dot: 罗马  
+:fontawesome-solid-calendar-days:{ .ky_list_leading_icon } 2025-03-14 ~ 2025-03-16  
+:fontawesome-solid-location-dot:{ .ky_list_leading_icon } 罗马  
 
 ## 联系
 
-:fontawesome-solid-envelope: <romabalboaweekend@gmail.com>  
-:fontawesome-solid-globe: <http://www.romabalboaweekend.com>{ target='_blank' }  
+:fontawesome-solid-envelope:{ .ky_list_leading_icon } <romabalboaweekend@gmail.com>  
+:fontawesome-solid-globe:{ .ky_list_leading_icon } <http://www.romabalboaweekend.com>{ target='_blank' }  
 
 ---
 

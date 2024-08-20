@@ -5,13 +5,13 @@ description: "2024-08-18 ~ 2024-08-25"
 
 # La Plagne Swing 
 
-:fontawesome-solid-calendar-days: 2024-08-18 ~ 2024-08-25  
-:fontawesome-solid-location-dot: La Plagne-Tarentaise  
+:fontawesome-solid-calendar-days:{ .ky_list_leading_icon } 2024-08-18 ~ 2024-08-25  
+:fontawesome-solid-location-dot:{ .ky_list_leading_icon } La Plagne-Tarentaise  
 
 ## Contact
 
-:fontawesome-solid-envelope: <contact@happyswing.org>  
-:fontawesome-solid-globe: <https://laplagne.happyswing.org>{ target='_blank' }  
+:fontawesome-solid-envelope:{ .ky_list_leading_icon } <contact@happyswing.org>  
+:fontawesome-solid-globe:{ .ky_list_leading_icon } <https://laplagne.happyswing.org>{ target='_blank' }  
 
 ---
 

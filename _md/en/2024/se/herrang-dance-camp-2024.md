@@ -6,8 +6,8 @@ description: "2024-07-06 ~ 2024-07-26"
 
 # Herräng Dance Camp 
 
-:fontawesome-solid-calendar-days: 2024-07-06 ~ 2024-07-26  
-:fontawesome-solid-location-dot: Stockholm  
+:fontawesome-solid-calendar-days:{ .ky_list_leading_icon } 2024-07-06 ~ 2024-07-26  
+:fontawesome-solid-location-dot:{ .ky_list_leading_icon } Stockholm  
 
 ???+ venue "Venue"
 
@@ -19,8 +19,8 @@ description: "2024-07-06 ~ 2024-07-26"
 
 ## Contact
 
-:fontawesome-solid-envelope: <info@herrang.com>  
-:fontawesome-solid-globe: <https://www.herrang.com>{ target='_blank' }  
+:fontawesome-solid-envelope:{ .ky_list_leading_icon } <info@herrang.com>  
+:fontawesome-solid-globe:{ .ky_list_leading_icon } <https://www.herrang.com>{ target='_blank' }  
 
 ---
 

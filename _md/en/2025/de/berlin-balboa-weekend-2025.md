@@ -7,13 +7,13 @@ tags:
 
 # Berlin Balboa Weekend 
 
-:fontawesome-solid-calendar-days: 2025-02-28 ~ 2025-03-02  
-:fontawesome-solid-location-dot: Berlin  
+:fontawesome-solid-calendar-days:{ .ky_list_leading_icon } 2025-02-28 ~ 2025-03-02  
+:fontawesome-solid-location-dot:{ .ky_list_leading_icon } Berlin  
 
 ## Contact
 
-:fontawesome-solid-envelope: <info@berlinbalboaweekend.de>  
-:fontawesome-solid-globe: <https://www.berlinbalboaweekend.de>{ target='_blank' }  
+:fontawesome-solid-envelope:{ .ky_list_leading_icon } <info@berlinbalboaweekend.de>  
+:fontawesome-solid-globe:{ .ky_list_leading_icon } <https://www.berlinbalboaweekend.de>{ target='_blank' }  
 
 ---
 

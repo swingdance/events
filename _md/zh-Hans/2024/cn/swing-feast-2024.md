@@ -5,9 +5,9 @@ description: "2024-08-02 ~ 2024-08-04"
 
 # Swing Feast 
 
-摇摆盛宴  
-:fontawesome-solid-calendar-days: 2024-08-02 ~ 2024-08-04  
-:fontawesome-solid-location-dot: 上海  
+:fontawesome-solid-ticket:{ .ky_list_leading_icon } 摇摆盛宴  
+:fontawesome-solid-calendar-days:{ .ky_list_leading_icon } 2024-08-02 ~ 2024-08-04  
+:fontawesome-solid-location-dot:{ .ky_list_leading_icon } 上海  
 
 !!! info "组织方"
 

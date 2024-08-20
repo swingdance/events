@@ -5,13 +5,13 @@ description: "2024-11-21 ~ 2024-11-24"
 
 # Melbourne Lindy Exchange 
 
-:fontawesome-solid-calendar-days: 2024-11-21 ~ 2024-11-24  
-:fontawesome-solid-location-dot: 墨尔本  
+:fontawesome-solid-calendar-days:{ .ky_list_leading_icon } 2024-11-21 ~ 2024-11-24  
+:fontawesome-solid-location-dot:{ .ky_list_leading_icon } 墨尔本  
 
 ## 联系
 
-:fontawesome-solid-envelope: <melblindyexchange@gmail.com>  
-:fontawesome-solid-globe: <https://melbournelindyexchange.com>{ target='_blank' }  
+:fontawesome-solid-envelope:{ .ky_list_leading_icon } <melblindyexchange@gmail.com>  
+:fontawesome-solid-globe:{ .ky_list_leading_icon } <https://melbournelindyexchange.com>{ target='_blank' }  
 
 ---
 

@@ -5,13 +5,13 @@ description: "2024-10-25 ~ 2024-10-27"
 
 # Donosti Belle Swing Festival 
 
-:fontawesome-solid-calendar-days: 2024-10-25 ~ 2024-10-27  
-:fontawesome-solid-location-dot: San Sebastian  
+:fontawesome-solid-calendar-days:{ .ky_list_leading_icon } 2024-10-25 ~ 2024-10-27  
+:fontawesome-solid-location-dot:{ .ky_list_leading_icon } San Sebastian  
 
 ## Contact
 
-:fontawesome-solid-envelope: <donostibelleswing@gmail.com >  
-:fontawesome-solid-globe: <https://www.donostibelleswing.com>{ target='_blank' }  
+:fontawesome-solid-envelope:{ .ky_list_leading_icon } <donostibelleswing@gmail.com >  
+:fontawesome-solid-globe:{ .ky_list_leading_icon } <https://www.donostibelleswing.com>{ target='_blank' }  
 
 ---
 

@@ -5,8 +5,8 @@ description: "2024-07-20 ~ 2024-07-21"
 
 # Blues Workshop with Taehyeon 
 
-:fontawesome-solid-calendar-days: 2024-07-20 ~ 2024-07-21  
-:fontawesome-solid-location-dot: Shenzhen  
+:fontawesome-solid-calendar-days:{ .ky_list_leading_icon } 2024-07-20 ~ 2024-07-21  
+:fontawesome-solid-location-dot:{ .ky_list_leading_icon } Shenzhen  
 
 !!! info "Organizer"
 

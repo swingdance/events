@@ -7,9 +7,9 @@ tags:
 
 # Blues Heat ^1^
 
-热能蓝调文化节  
-:fontawesome-solid-calendar-days: 2024-08-14 ~ 2024-08-18  
-:fontawesome-solid-location-dot: 上海  
+:fontawesome-solid-ticket:{ .ky_list_leading_icon } 热能蓝调文化节  
+:fontawesome-solid-calendar-days:{ .ky_list_leading_icon } 2024-08-14 ~ 2024-08-18  
+:fontawesome-solid-location-dot:{ .ky_list_leading_icon } 上海  
 
 !!! info "组织方"
 

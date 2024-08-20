@@ -8,12 +8,12 @@ tags:
 
 # ESpanish Blues Festival 
 
-:fontawesome-solid-calendar-days: 2024-11-22 ~ 2024-11-24  
-:fontawesome-solid-location-dot: Madrid  
+:fontawesome-solid-calendar-days:{ .ky_list_leading_icon } 2024-11-22 ~ 2024-11-24  
+:fontawesome-solid-location-dot:{ .ky_list_leading_icon } Madrid  
 
 ## Contact
 
-:fontawesome-solid-globe: <https://www.espanishblues.com>{ target='_blank' }  
+:fontawesome-solid-globe:{ .ky_list_leading_icon } <https://www.espanishblues.com>{ target='_blank' }  
 
 ---
 

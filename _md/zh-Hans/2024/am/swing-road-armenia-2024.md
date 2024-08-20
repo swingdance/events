@@ -5,13 +5,13 @@ description: "2024-09-30 ~ 2024-10-06"
 
 # Swing Road Armenia 
 
-:fontawesome-solid-calendar-days: 2024-09-30 ~ 2024-10-06  
-:fontawesome-solid-location-dot: 埃里温  
+:fontawesome-solid-calendar-days:{ .ky_list_leading_icon } 2024-09-30 ~ 2024-10-06  
+:fontawesome-solid-location-dot:{ .ky_list_leading_icon } 埃里温  
 
 ## 联系
 
-:fontawesome-solid-envelope: <armeniaswing@gmail.com>  
-:fontawesome-solid-globe: <https://www.armeniaswing.am>{ target='_blank' }  
+:fontawesome-solid-envelope:{ .ky_list_leading_icon } <armeniaswing@gmail.com>  
+:fontawesome-solid-globe:{ .ky_list_leading_icon } <https://www.armeniaswing.am>{ target='_blank' }  
 
 ---
 

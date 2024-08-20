@@ -7,13 +7,13 @@ tags:
 
 # California Balboa Classic 
 
-:fontawesome-solid-calendar-days: 2025-01-23 ~ 2025-01-26  
-:fontawesome-solid-location-dot: Los Angeles  
+:fontawesome-solid-calendar-days:{ .ky_list_leading_icon } 2025-01-23 ~ 2025-01-26  
+:fontawesome-solid-location-dot:{ .ky_list_leading_icon } Los Angeles  
 
 ## Contact
 
-:fontawesome-solid-envelope: <support@calbalclassic.com>  
-:fontawesome-solid-globe: <https://calbalclassic.com>{ target='_blank' }  
+:fontawesome-solid-envelope:{ .ky_list_leading_icon } <support@calbalclassic.com>  
+:fontawesome-solid-globe:{ .ky_list_leading_icon } <https://calbalclassic.com>{ target='_blank' }  
 
 ---
 

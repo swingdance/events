@@ -5,8 +5,8 @@ description: "2024-06-29"
 
 # Yokohama Cross Street Hop 
 
-:fontawesome-solid-calendar-days: 2024-06-29 ~ 2024-06-29  
-:fontawesome-solid-location-dot: Yokohama  
+:fontawesome-solid-calendar-days:{ .ky_list_leading_icon } 2024-06-29 ~ 2024-06-29  
+:fontawesome-solid-location-dot:{ .ky_list_leading_icon } Yokohama  
 
 !!! info "Organizer"
 

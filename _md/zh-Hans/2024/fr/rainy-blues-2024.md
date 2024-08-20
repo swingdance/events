@@ -7,12 +7,12 @@ tags:
 
 # Rainy Blues 
 
-:fontawesome-solid-calendar-days: 2024-10-18 ~ 2024-10-20  
-:fontawesome-solid-location-dot: 巴黎  
+:fontawesome-solid-calendar-days:{ .ky_list_leading_icon } 2024-10-18 ~ 2024-10-20  
+:fontawesome-solid-location-dot:{ .ky_list_leading_icon } 巴黎  
 
 ## 联系
 
-:fontawesome-solid-globe: <https://www.leschatonsswingueurs.tf/cours-et-activites-a-paris-swing-lindy-hop-solo-jazz-charleston-blues/workshops-festivals/rainy-blues-2024>{ target='_blank' }  
+:fontawesome-solid-globe:{ .ky_list_leading_icon } <https://www.leschatonsswingueurs.tf/cours-et-activites-a-paris-swing-lindy-hop-solo-jazz-charleston-blues/workshops-festivals/rainy-blues-2024>{ target='_blank' }  
 
 ---
 

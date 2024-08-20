@@ -5,13 +5,13 @@ description: "2024-10-11 ~ 2024-10-13"
 
 # Cadiz Swing Festival 
 
-:fontawesome-solid-calendar-days: 2024-10-11 ~ 2024-10-13  
-:fontawesome-solid-location-dot: 卡迪斯  
+:fontawesome-solid-calendar-days:{ .ky_list_leading_icon } 2024-10-11 ~ 2024-10-13  
+:fontawesome-solid-location-dot:{ .ky_list_leading_icon } 卡迪斯  
 
 ## 联系
 
-:fontawesome-solid-envelope: <cadizswingfestival@gmail.com>  
-:fontawesome-solid-globe: <https://cadizswingfestival.com>{ target='_blank' }  
+:fontawesome-solid-envelope:{ .ky_list_leading_icon } <cadizswingfestival@gmail.com>  
+:fontawesome-solid-globe:{ .ky_list_leading_icon } <https://cadizswingfestival.com>{ target='_blank' }  
 
 ---
 

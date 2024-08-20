@@ -6,13 +6,13 @@ description: "2024-07-26 ~ 2024-07-28"
 
 # Morella Swing Weekend 
 
-:fontawesome-solid-calendar-days: 2024-07-26 ~ 2024-07-28  
-:fontawesome-solid-location-dot: Morella  
+:fontawesome-solid-calendar-days:{ .ky_list_leading_icon } 2024-07-26 ~ 2024-07-28  
+:fontawesome-solid-location-dot:{ .ky_list_leading_icon } Morella  
 
 ## Contact
 
-:fontawesome-solid-envelope: <juntaswingiau@gmail.com>  
-:fontawesome-solid-globe: <https://www.swingiau.es/msw2024/>{ target='_blank' }  
+:fontawesome-solid-envelope:{ .ky_list_leading_icon } <juntaswingiau@gmail.com>  
+:fontawesome-solid-globe:{ .ky_list_leading_icon } <https://www.swingiau.es/msw2024/>{ target='_blank' }  
 
 ---
 

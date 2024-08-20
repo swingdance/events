@@ -7,12 +7,12 @@ tags:
 
 # Slow Balboa Weekend Munich 
 
-:fontawesome-solid-calendar-days: 2025-01-04 ~ 2025-01-06  
-:fontawesome-solid-location-dot: 慕尼黑  
+:fontawesome-solid-calendar-days:{ .ky_list_leading_icon } 2025-01-04 ~ 2025-01-06  
+:fontawesome-solid-location-dot:{ .ky_list_leading_icon } 慕尼黑  
 
 ## 联系
 
-:fontawesome-solid-globe: <https://www.munichbalboa.de>{ target='_blank' }  
+:fontawesome-solid-globe:{ .ky_list_leading_icon } <https://www.munichbalboa.de>{ target='_blank' }  
 
 ---
 

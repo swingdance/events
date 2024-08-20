@@ -7,8 +7,8 @@ tags:
 
 # Bal Love 
 
-:fontawesome-solid-calendar-days: 2024-08-04 ~ 2024-08-17  
-:fontawesome-solid-location-dot: 布拉格  
+:fontawesome-solid-calendar-days:{ .ky_list_leading_icon } 2024-08-04 ~ 2024-08-17  
+:fontawesome-solid-location-dot:{ .ky_list_leading_icon } 布拉格  
 
 ???+ venue "场地"
 
@@ -16,8 +16,8 @@ tags:
 
 ## 联系
 
-:fontawesome-solid-envelope: <balloveinc@gmail.com>  
-:fontawesome-solid-globe: <https://www.bal-love.com>{ target='_blank' }  
+:fontawesome-solid-envelope:{ .ky_list_leading_icon } <balloveinc@gmail.com>  
+:fontawesome-solid-globe:{ .ky_list_leading_icon } <https://www.bal-love.com>{ target='_blank' }  
 
 ---
 

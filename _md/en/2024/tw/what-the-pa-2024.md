@@ -6,8 +6,8 @@ description: "2024-11-16 ~ 2024-11-17"
 
 # What The PA! 
 
-:fontawesome-solid-calendar-days: 2024-11-16 ~ 2024-11-17  
-:fontawesome-solid-location-dot: Taipei  
+:fontawesome-solid-calendar-days:{ .ky_list_leading_icon } 2024-11-16 ~ 2024-11-17  
+:fontawesome-solid-location-dot:{ .ky_list_leading_icon } Taipei  
 
 !!! info "Organizer"
 

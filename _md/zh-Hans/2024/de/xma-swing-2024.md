@@ -5,13 +5,13 @@ description: "2024-12-13 ~ 2024-12-15"
 
 # XmaSwing 
 
-:fontawesome-solid-calendar-days: 2024-12-13 ~ 2024-12-15  
-:fontawesome-solid-location-dot: 奥格斯堡  
+:fontawesome-solid-calendar-days:{ .ky_list_leading_icon } 2024-12-13 ~ 2024-12-15  
+:fontawesome-solid-location-dot:{ .ky_list_leading_icon } 奥格斯堡  
 
 ## 联系
 
-:fontawesome-solid-envelope: <info@hepcatclub.com>  
-:fontawesome-solid-globe: <https://www.xmaswing.com>{ target='_blank' }  
+:fontawesome-solid-envelope:{ .ky_list_leading_icon } <info@hepcatclub.com>  
+:fontawesome-solid-globe:{ .ky_list_leading_icon } <https://www.xmaswing.com>{ target='_blank' }  
 
 ---
 

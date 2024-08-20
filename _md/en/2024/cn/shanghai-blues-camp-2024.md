@@ -7,8 +7,8 @@ tags:
 
 # Shanghai Blues Camp 
 
-:fontawesome-solid-calendar-days: 2024-05-17 ~ 2024-05-19  
-:fontawesome-solid-location-dot: Shanghai  
+:fontawesome-solid-calendar-days:{ .ky_list_leading_icon } 2024-05-17 ~ 2024-05-19  
+:fontawesome-solid-location-dot:{ .ky_list_leading_icon } Shanghai  
 
 !!! info "Organizer"
 

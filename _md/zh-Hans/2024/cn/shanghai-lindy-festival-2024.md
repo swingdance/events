@@ -6,9 +6,9 @@ description: "2024-12-13 ~ 2024-12-15"
 
 # Shanghai Lindy Festival 
 
-上海林迪舞节  
-:fontawesome-solid-calendar-days: 2024-12-13 ~ 2024-12-15  
-:fontawesome-solid-location-dot: 上海  
+:fontawesome-solid-ticket:{ .ky_list_leading_icon } 上海林迪舞节  
+:fontawesome-solid-calendar-days:{ .ky_list_leading_icon } 2024-12-13 ~ 2024-12-15  
+:fontawesome-solid-location-dot:{ .ky_list_leading_icon } 上海  
 
 !!! info "组织方"
 

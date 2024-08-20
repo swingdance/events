@@ -5,13 +5,13 @@ description: "2024-07-28 ~ 2024-07-31"
 
 # Heedman Dance Camp 
 
-:fontawesome-solid-calendar-days: 2024-07-28 ~ 2024-07-31  
-:fontawesome-solid-location-dot: 吕勒奥  
+:fontawesome-solid-calendar-days:{ .ky_list_leading_icon } 2024-07-28 ~ 2024-07-31  
+:fontawesome-solid-location-dot:{ .ky_list_leading_icon } 吕勒奥  
 
 ## 联系
 
-:fontawesome-solid-envelope: <info@heedman.com>  
-:fontawesome-solid-globe: <https://www.heedman.com>{ target='_blank' }  
+:fontawesome-solid-envelope:{ .ky_list_leading_icon } <info@heedman.com>  
+:fontawesome-solid-globe:{ .ky_list_leading_icon } <https://www.heedman.com>{ target='_blank' }  
 
 ---
 

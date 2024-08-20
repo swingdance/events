@@ -5,13 +5,13 @@ description: "2024-11-15 ~ 2024-11-17"
 
 # Stompology 
 
-:fontawesome-solid-calendar-days: 2024-11-15 ~ 2024-11-17  
-:fontawesome-solid-location-dot: Rochester  
+:fontawesome-solid-calendar-days:{ .ky_list_leading_icon } 2024-11-15 ~ 2024-11-17  
+:fontawesome-solid-location-dot:{ .ky_list_leading_icon } Rochester  
 
 ## Contact
 
-:fontawesome-solid-envelope: <info@groovejuiceswing.com>  
-:fontawesome-solid-globe: <https://stompology.com>{ target='_blank' }  
+:fontawesome-solid-envelope:{ .ky_list_leading_icon } <info@groovejuiceswing.com>  
+:fontawesome-solid-globe:{ .ky_list_leading_icon } <https://stompology.com>{ target='_blank' }  
 
 ---
 

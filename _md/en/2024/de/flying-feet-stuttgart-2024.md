@@ -5,12 +5,12 @@ description: "2024-09-28 ~ 2024-09-29"
 
 # Flying Feet Stuttgart 
 
-:fontawesome-solid-calendar-days: 2024-09-28 ~ 2024-09-29  
-:fontawesome-solid-location-dot: Stuttgart  
+:fontawesome-solid-calendar-days:{ .ky_list_leading_icon } 2024-09-28 ~ 2024-09-29  
+:fontawesome-solid-location-dot:{ .ky_list_leading_icon } Stuttgart  
 
 ## Contact
 
-:fontawesome-solid-globe: <https://www.swingkultur.de/veranstaltungen/28/290924-flying-feet-stuttgart>{ target='_blank' }  
+:fontawesome-solid-globe:{ .ky_list_leading_icon } <https://www.swingkultur.de/veranstaltungen/28/290924-flying-feet-stuttgart>{ target='_blank' }  
 
 ---
 

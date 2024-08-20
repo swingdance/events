@@ -5,13 +5,13 @@ description: "2024-09-20 ~ 2024-09-23"
 
 # Boogie Down South 
 
-:fontawesome-solid-calendar-days: 2024-09-20 ~ 2024-09-23  
-:fontawesome-solid-location-dot: 玛格丽特河  
+:fontawesome-solid-calendar-days:{ .ky_list_leading_icon } 2024-09-20 ~ 2024-09-23  
+:fontawesome-solid-location-dot:{ .ky_list_leading_icon } 玛格丽特河  
 
 ## 联系
 
-:fontawesome-solid-envelope: <southwestswingmr@gmail.com>  
-:fontawesome-solid-globe: <https://boogiedownsouth.com.au>{ target='_blank' }  
+:fontawesome-solid-envelope:{ .ky_list_leading_icon } <southwestswingmr@gmail.com>  
+:fontawesome-solid-globe:{ .ky_list_leading_icon } <https://boogiedownsouth.com.au>{ target='_blank' }  
 
 ---
 

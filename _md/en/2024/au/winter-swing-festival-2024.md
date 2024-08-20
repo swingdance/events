@@ -5,12 +5,12 @@ description: "2024-07-05 ~ 2024-07-07"
 
 # Winter Swing Festival 
 
-:fontawesome-solid-calendar-days: 2024-07-05 ~ 2024-07-07  
-:fontawesome-solid-location-dot: Hobart  
+:fontawesome-solid-calendar-days:{ .ky_list_leading_icon } 2024-07-05 ~ 2024-07-07  
+:fontawesome-solid-location-dot:{ .ky_list_leading_icon } Hobart  
 
 ## Contact
 
-:fontawesome-solid-globe: <https://www.tasswing.com.au/winter-swing-festival-2024>{ target='_blank' }  
+:fontawesome-solid-globe:{ .ky_list_leading_icon } <https://www.tasswing.com.au/winter-swing-festival-2024>{ target='_blank' }  
 
 ---
 

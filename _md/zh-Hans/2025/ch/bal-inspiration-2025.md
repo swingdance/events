@@ -7,13 +7,13 @@ tags:
 
 # Bal-Inspiration 
 
-:fontawesome-solid-calendar-days: 2025-02-14 ~ 2025-02-16  
-:fontawesome-solid-location-dot: 苏黎世  
+:fontawesome-solid-calendar-days:{ .ky_list_leading_icon } 2025-02-14 ~ 2025-02-16  
+:fontawesome-solid-location-dot:{ .ky_list_leading_icon } 苏黎世  
 
 ## 联系
 
-:fontawesome-solid-envelope: <info@downtownswing.ch>  
-:fontawesome-solid-globe: <https://www.bal-inspiration.downtownswing.ch>{ target='_blank' }  
+:fontawesome-solid-envelope:{ .ky_list_leading_icon } <info@downtownswing.ch>  
+:fontawesome-solid-globe:{ .ky_list_leading_icon } <https://www.bal-inspiration.downtownswing.ch>{ target='_blank' }  
 
 ---
 

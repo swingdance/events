@@ -5,8 +5,8 @@ description: "2024-10-26"
 
 # Swing OWL Halloween 
 
-:fontawesome-solid-calendar-days: 2024-10-26 ~ 2024-10-26  
-:fontawesome-solid-location-dot: 东京  
+:fontawesome-solid-calendar-days:{ .ky_list_leading_icon } 2024-10-26 ~ 2024-10-26  
+:fontawesome-solid-location-dot:{ .ky_list_leading_icon } 东京  
 
 !!! info "组织方"
 
@@ -14,7 +14,7 @@ description: "2024-10-26"
 
 ## 联系
 
-:fontawesome-solid-envelope: <info@dancingbus.com>  
+:fontawesome-solid-envelope:{ .ky_list_leading_icon } <info@dancingbus.com>  
 
 ---
 

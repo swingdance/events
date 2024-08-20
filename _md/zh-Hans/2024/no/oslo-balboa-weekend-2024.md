@@ -7,13 +7,13 @@ tags:
 
 # Oslo Balboa Weekend 
 
-:fontawesome-solid-calendar-days: 2024-10-04 ~ 2024-10-06  
-:fontawesome-solid-location-dot: 奥斯陆  
+:fontawesome-solid-calendar-days:{ .ky_list_leading_icon } 2024-10-04 ~ 2024-10-06  
+:fontawesome-solid-location-dot:{ .ky_list_leading_icon } 奥斯陆  
 
 ## 联系
 
-:fontawesome-solid-envelope: <oslobalboaweekend@bardarswingclub.no>  
-:fontawesome-solid-globe: <https://oslobalboaweekend.com>{ target='_blank' }  
+:fontawesome-solid-envelope:{ .ky_list_leading_icon } <oslobalboaweekend@bardarswingclub.no>  
+:fontawesome-solid-globe:{ .ky_list_leading_icon } <https://oslobalboaweekend.com>{ target='_blank' }  
 
 ---
 

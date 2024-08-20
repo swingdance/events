@@ -6,9 +6,9 @@ description: "2024-11-01 ~ 2024-11-03"
 
 # Swingtime Ball 
 
-摇擺盛典  
-:fontawesome-solid-calendar-days: 2024-11-01 ~ 2024-11-03  
-:fontawesome-solid-location-dot: 北京  
+:fontawesome-solid-ticket:{ .ky_list_leading_icon } 摇擺盛典  
+:fontawesome-solid-calendar-days:{ .ky_list_leading_icon } 2024-11-01 ~ 2024-11-03  
+:fontawesome-solid-location-dot:{ .ky_list_leading_icon } 北京  
 
 !!! info "组织方"
 
@@ -16,15 +16,16 @@ description: "2024-11-01 ~ 2024-11-03"
 
 ???+ venue "场地"
 
-    北京朝阳区歌华大厦 B座 11层 Ballroom 大舞厅  
+    北京朝阳区歌华大厦 B座 11层 Ballroom 大舞厅  
+      
     东城区东直门内北小街青龙胡同1号（北二环小街桥西南角）  
       
     Qinglong Hutong, Dongzhimen Inner North Alley, Dongcheng District, Beijing China (South East Corner of Xiaojie Bridge North 2nd Ring  
 
 ## 联系
 
-:fontawesome-solid-envelope: <info@swingtimeball.com>  
-:fontawesome-solid-globe: <https://swingtimeball.com>{ target='_blank' }  
+:fontawesome-solid-envelope:{ .ky_list_leading_icon } <info@swingtimeball.com>  
+:fontawesome-solid-globe:{ .ky_list_leading_icon } <https://swingtimeball.com>{ target='_blank' }  
 
 ---
 

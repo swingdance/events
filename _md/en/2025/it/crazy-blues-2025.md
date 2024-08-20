@@ -7,13 +7,13 @@ tags:
 
 # Crazy Blues ^6^
 
-:fontawesome-solid-calendar-days: 2025-01-10 ~ 2025-01-12  
-:fontawesome-solid-location-dot: Montecatini Terme  
+:fontawesome-solid-calendar-days:{ .ky_list_leading_icon } 2025-01-10 ~ 2025-01-12  
+:fontawesome-solid-location-dot:{ .ky_list_leading_icon } Montecatini Terme  
 
 ## Contact
 
-:fontawesome-solid-envelope: <info@swingmood.it>  
-:fontawesome-solid-globe: <https://swingmood.wixsite.com/crazyblues>{ target='_blank' }  
+:fontawesome-solid-envelope:{ .ky_list_leading_icon } <info@swingmood.it>  
+:fontawesome-solid-globe:{ .ky_list_leading_icon } <https://swingmood.wixsite.com/crazyblues>{ target='_blank' }  
 
 ---
 

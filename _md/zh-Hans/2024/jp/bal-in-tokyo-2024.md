@@ -7,13 +7,13 @@ tags:
 
 # Bal In Tokyo 
 
-:fontawesome-solid-calendar-days: 2024-07-12 ~ 2024-07-14  
-:fontawesome-solid-location-dot: 东京  
+:fontawesome-solid-calendar-days:{ .ky_list_leading_icon } 2024-07-12 ~ 2024-07-14  
+:fontawesome-solid-location-dot:{ .ky_list_leading_icon } 东京  
 
 ## 联系
 
-:fontawesome-solid-envelope: <balintokyo@gmail.com>  
-:fontawesome-solid-globe: <https://balintokyo2024.my.canva.site/home>{ target='_blank' }  
+:fontawesome-solid-envelope:{ .ky_list_leading_icon } <balintokyo@gmail.com>  
+:fontawesome-solid-globe:{ .ky_list_leading_icon } <https://balintokyo2024.my.canva.site/home>{ target='_blank' }  
 
 ---
 

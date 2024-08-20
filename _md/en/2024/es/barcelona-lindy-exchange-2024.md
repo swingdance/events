@@ -6,13 +6,13 @@ description: "2024-09-12 ~ 2024-09-15"
 
 # Barcelona Lindy Exchange 
 
-:fontawesome-solid-calendar-days: 2024-09-12 ~ 2024-09-15  
-:fontawesome-solid-location-dot: Barcelona  
+:fontawesome-solid-calendar-days:{ .ky_list_leading_icon } 2024-09-12 ~ 2024-09-15  
+:fontawesome-solid-location-dot:{ .ky_list_leading_icon } Barcelona  
 
 ## Contact
 
-:fontawesome-solid-envelope: <barcelonalindyexchange@gmail.com>  
-:fontawesome-solid-globe: <https://barcelonalindyexchange.com>{ target='_blank' }  
+:fontawesome-solid-envelope:{ .ky_list_leading_icon } <barcelonalindyexchange@gmail.com>  
+:fontawesome-solid-globe:{ .ky_list_leading_icon } <https://barcelonalindyexchange.com>{ target='_blank' }  
 
 ---
 

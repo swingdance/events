@@ -5,8 +5,8 @@ description: "2024-04-19 ~ 2024-04-23"
 
 # Balboa Spring Camp 
 
-:fontawesome-solid-calendar-days: 2024-04-19 ~ 2024-04-23  
-:fontawesome-solid-location-dot: 上海  
+:fontawesome-solid-calendar-days:{ .ky_list_leading_icon } 2024-04-19 ~ 2024-04-23  
+:fontawesome-solid-location-dot:{ .ky_list_leading_icon } 上海  
 
 !!! info "组织方"
 

@@ -5,13 +5,13 @@ description: "2024-08-30 ~ 2024-09-02"
 
 # Camp Hollywood 
 
-:fontawesome-solid-calendar-days: 2024-08-30 ~ 2024-09-02  
-:fontawesome-solid-location-dot: Los Angeles  
+:fontawesome-solid-calendar-days:{ .ky_list_leading_icon } 2024-08-30 ~ 2024-09-02  
+:fontawesome-solid-location-dot:{ .ky_list_leading_icon } Los Angeles  
 
 ## Contact
 
-:fontawesome-solid-envelope: <info@camphollywood.net>  
-:fontawesome-solid-globe: <https://camphollywood.net>{ target='_blank' }  
+:fontawesome-solid-envelope:{ .ky_list_leading_icon } <info@camphollywood.net>  
+:fontawesome-solid-globe:{ .ky_list_leading_icon } <https://camphollywood.net>{ target='_blank' }  
 
 ---
 

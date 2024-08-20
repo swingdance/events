@@ -5,12 +5,12 @@ description: "2024-01-25 ~ 2024-01-28"
 
 # Lindy Szau’s Birthday Jam ^10^
 
-:fontawesome-solid-calendar-days: 2024-01-25 ~ 2024-01-28  
-:fontawesome-solid-location-dot: 弗罗茨瓦夫  
+:fontawesome-solid-calendar-days:{ .ky_list_leading_icon } 2024-01-25 ~ 2024-01-28  
+:fontawesome-solid-location-dot:{ .ky_list_leading_icon } 弗罗茨瓦夫  
 
 ## 联系
 
-:fontawesome-solid-globe: <https://www.birthdayjam.pl>{ target='_blank' }  
+:fontawesome-solid-globe:{ .ky_list_leading_icon } <https://www.birthdayjam.pl>{ target='_blank' }  
 
 ---
 

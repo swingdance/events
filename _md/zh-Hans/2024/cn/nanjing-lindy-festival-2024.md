@@ -6,9 +6,9 @@ description: "2024-05-31 ~ 2024-06-02"
 
 # Nanjing Lindy Festival 
 
-爵对莱斯 • 南京林迪节  
-:fontawesome-solid-calendar-days: 2024-05-31 ~ 2024-06-02  
-:fontawesome-solid-location-dot: 南京  
+:fontawesome-solid-ticket:{ .ky_list_leading_icon } 爵对莱斯 • 南京林迪节  
+:fontawesome-solid-calendar-days:{ .ky_list_leading_icon } 2024-05-31 ~ 2024-06-02  
+:fontawesome-solid-location-dot:{ .ky_list_leading_icon } 南京  
 
 !!! info "组织方"
 
@@ -22,8 +22,8 @@ description: "2024-05-31 ~ 2024-06-02"
 
 ## 联系
 
-:fontawesome-solid-envelope: <nanjinglindyfestival@gmail.com>  
-:fontawesome-solid-globe: <https://www.nanjinglindyfestival.com>{ target='_blank' }  
+:fontawesome-solid-envelope:{ .ky_list_leading_icon } <nanjinglindyfestival@gmail.com>  
+:fontawesome-solid-globe:{ .ky_list_leading_icon } <https://www.nanjinglindyfestival.com>{ target='_blank' }  
 
 ---
 

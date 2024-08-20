@@ -7,13 +7,13 @@ tags:
 
 # Bal Week 
 
-:fontawesome-solid-calendar-days: 2024-04-01 ~ 2024-04-07  
-:fontawesome-solid-location-dot: 纽约市  
+:fontawesome-solid-calendar-days:{ .ky_list_leading_icon } 2024-04-01 ~ 2024-04-07  
+:fontawesome-solid-location-dot:{ .ky_list_leading_icon } 纽约市  
 
 ## 联系
 
-:fontawesome-solid-envelope: <balweekny@gmail.com>  
-:fontawesome-solid-globe: <https://www.balweek.com>{ target='_blank' }  
+:fontawesome-solid-envelope:{ .ky_list_leading_icon } <balweekny@gmail.com>  
+:fontawesome-solid-globe:{ .ky_list_leading_icon } <https://www.balweek.com>{ target='_blank' }  
 
 ---
 

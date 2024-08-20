@@ -5,13 +5,13 @@ description: "2024-07-19 ~ 2024-07-21"
 
 # Stardust Festival 
 
-:fontawesome-solid-calendar-days: 2024-07-19 ~ 2024-07-21  
-:fontawesome-solid-location-dot: 埃德蒙顿  
+:fontawesome-solid-calendar-days:{ .ky_list_leading_icon } 2024-07-19 ~ 2024-07-21  
+:fontawesome-solid-location-dot:{ .ky_list_leading_icon } 埃德蒙顿  
 
 ## 联系
 
-:fontawesome-solid-envelope: <info@stardustfestival.ca>  
-:fontawesome-solid-globe: <https://stardustfestival.ca>{ target='_blank' }  
+:fontawesome-solid-envelope:{ .ky_list_leading_icon } <info@stardustfestival.ca>  
+:fontawesome-solid-globe:{ .ky_list_leading_icon } <https://stardustfestival.ca>{ target='_blank' }  
 
 ---
 

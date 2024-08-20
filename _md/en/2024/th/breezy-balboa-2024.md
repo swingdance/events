@@ -7,8 +7,8 @@ tags:
 
 # Breezy Balboa 
 
-:fontawesome-solid-calendar-days: 2024-05-04 ~ 2024-05-12  
-:fontawesome-solid-location-dot: Hua Hin  
+:fontawesome-solid-calendar-days:{ .ky_list_leading_icon } 2024-05-04 ~ 2024-05-12  
+:fontawesome-solid-location-dot:{ .ky_list_leading_icon } Hua Hin  
 
 ## Contact
 

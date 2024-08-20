@@ -5,9 +5,9 @@ description: "2024-07-26 ~ 2024-07-28"
 
 # Hangzhou Swing 10th Anniversary 
 
-摇摆杭州十周年  
-:fontawesome-solid-calendar-days: 2024-07-26 ~ 2024-07-28  
-:fontawesome-solid-location-dot: 杭州  
+:fontawesome-solid-ticket:{ .ky_list_leading_icon } 摇摆杭州十周年  
+:fontawesome-solid-calendar-days:{ .ky_list_leading_icon } 2024-07-26 ~ 2024-07-28  
+:fontawesome-solid-location-dot:{ .ky_list_leading_icon } 杭州  
 
 !!! info "组织方"
 

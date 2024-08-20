@@ -5,13 +5,13 @@ description: "2024-09-27 ~ 2024-09-29"
 
 # Why Not Aarhus Lindy Exchange 
 
-:fontawesome-solid-calendar-days: 2024-09-27 ~ 2024-09-29  
-:fontawesome-solid-location-dot: 奧胡斯  
+:fontawesome-solid-calendar-days:{ .ky_list_leading_icon } 2024-09-27 ~ 2024-09-29  
+:fontawesome-solid-location-dot:{ .ky_list_leading_icon } 奧胡斯  
 
 ## 联系
 
-:fontawesome-solid-envelope: <whynotlindyhop@gmail.com>  
-:fontawesome-solid-globe: <https://aarhuslindyhoppers.dk/why-not-2024>{ target='_blank' }  
+:fontawesome-solid-envelope:{ .ky_list_leading_icon } <whynotlindyhop@gmail.com>  
+:fontawesome-solid-globe:{ .ky_list_leading_icon } <https://aarhuslindyhoppers.dk/why-not-2024>{ target='_blank' }  
 
 ---
 

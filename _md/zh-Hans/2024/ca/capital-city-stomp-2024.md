@@ -5,13 +5,13 @@ description: "2024-11-09 ~ 2024-11-10"
 
 # Capital City Stomp 
 
-:fontawesome-solid-calendar-days: 2024-11-09 ~ 2024-11-10  
-:fontawesome-solid-location-dot: 维多利亚  
+:fontawesome-solid-calendar-days:{ .ky_list_leading_icon } 2024-11-09 ~ 2024-11-10  
+:fontawesome-solid-location-dot:{ .ky_list_leading_icon } 维多利亚  
 
 ## 联系
 
-:fontawesome-solid-envelope: <hello@swingvictoria.net>  
-:fontawesome-solid-globe: <https://www.swingvictoria.net/events/capital-city-stomp>{ target='_blank' }  
+:fontawesome-solid-envelope:{ .ky_list_leading_icon } <hello@swingvictoria.net>  
+:fontawesome-solid-globe:{ .ky_list_leading_icon } <https://www.swingvictoria.net/events/capital-city-stomp>{ target='_blank' }  
 
 ---
 

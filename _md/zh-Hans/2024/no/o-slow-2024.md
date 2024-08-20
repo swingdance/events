@@ -7,12 +7,12 @@ tags:
 
 # O’slow 
 
-:fontawesome-solid-calendar-days: 2024-09-06 ~ 2024-09-08  
-:fontawesome-solid-location-dot: 奥斯陆  
+:fontawesome-solid-calendar-days:{ .ky_list_leading_icon } 2024-09-06 ~ 2024-09-08  
+:fontawesome-solid-location-dot:{ .ky_list_leading_icon } 奥斯陆  
 
 ## 联系
 
-:fontawesome-solid-globe: <https://oslow.bardarswingclub.no>{ target='_blank' }  
+:fontawesome-solid-globe:{ .ky_list_leading_icon } <https://oslow.bardarswingclub.no>{ target='_blank' }  
 
 ---
 

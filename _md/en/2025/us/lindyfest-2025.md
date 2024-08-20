@@ -5,8 +5,8 @@ description: "2025-03-13 ~ 2025-03-16"
 
 # Lindyfest 
 
-:fontawesome-solid-calendar-days: 2025-03-13 ~ 2025-03-16  
-:fontawesome-solid-location-dot: Houston  
+:fontawesome-solid-calendar-days:{ .ky_list_leading_icon } 2025-03-13 ~ 2025-03-16  
+:fontawesome-solid-location-dot:{ .ky_list_leading_icon } Houston  
 
 !!! info "Organizer"
 
