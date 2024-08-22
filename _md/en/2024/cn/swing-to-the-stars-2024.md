@@ -18,7 +18,7 @@ description: "2024-10-18 ~ 2024-10-20"
 
 ---
 
- [:fontawesome-brands-weixin:{ .ky_social_links_icon }](https://mp.weixin.qq.com/s/gS7UsVLJPoNskb7YAlyy5Q){ target='_blank' }
+ [:fontawesome-brands-weixin:{ .ky_social_links_icon }](https://mp.weixin.qq.com/s/EUIa1mtxhnfyi6yiv9ynkw){ target='_blank' }
 
 ---
 
@@ -30,7 +30,7 @@ description: "2024-10-18 ~ 2024-10-20"
 [:material-file-edit-outline:][edit-info]{ target='_blank' }
 </div>
 <div class="ky_page_footer_leading" markdown="span">
-[:material-clock-edit-outline: 2024-08-22 07:19 UTC][view-edit-history]{ .ky_page_footer_history_button target='_blank' }
+[:material-clock-edit-outline: 2024-08-22 07:29 UTC][view-edit-history]{ .ky_page_footer_history_button target='_blank' }
 </div>
 </div>
 
