@@ -1,6 +1,8 @@
 ---
 title: Express Track Blues
 description: "2024-09-27 ~ 2024-09-29"
+tags:
+  - Blues
 ---
 
 # Express Track Blues 
@@ -27,7 +29,7 @@ description: "2024-09-27 ~ 2024-09-29"
 [:material-file-edit-outline:][edit-info]{ target='_blank' }
 </div>
 <div class="ky_page_footer_leading" markdown="span">
-[:material-clock-edit-outline: 2024-09-12 04:00 UTC][view-edit-history]{ .ky_page_footer_history_button target='_blank' }
+[:material-clock-edit-outline: 2024-09-12 04:06 UTC][view-edit-history]{ .ky_page_footer_history_button target='_blank' }
 </div>
 </div>
 
