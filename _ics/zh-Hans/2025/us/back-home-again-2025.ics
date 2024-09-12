@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:swing-news_zh-Hans_us_back-home-again-2025
+DTSTART;VALUE=DATE:20250530
+DTEND;VALUE=DATE:20250602
+SUMMARY:Back Home Again
+URL:https://swing.news/zh-Hans/us/back-home-again-2025
+LOCATION:印第安纳波利斯
+END:VEVENT
+END:VCALENDAR

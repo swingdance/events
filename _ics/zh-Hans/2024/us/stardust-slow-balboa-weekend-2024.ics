@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:swing-news_zh-Hans_us_stardust-slow-balboa-weekend-2024
+DTSTART;VALUE=DATE:20241115
+DTEND;VALUE=DATE:20241118
+SUMMARY:Stardust Slow Balboa Weekend
+URL:https://swing.news/zh-Hans/us/stardust-slow-balboa-weekend-2024
+LOCATION:华盛顿哥伦比亚特区
+END:VEVENT
+END:VCALENDAR

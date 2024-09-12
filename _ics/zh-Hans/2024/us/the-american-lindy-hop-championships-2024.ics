@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:swing-news_zh-Hans_us_the-american-lindy-hop-championships-2024
+DTSTART;VALUE=DATE:20241018
+DTEND;VALUE=DATE:20241021
+SUMMARY:[ALHC 2024] The American Lindy Hop Championships
+URL:https://swing.news/zh-Hans/us/the-american-lindy-hop-championships-2024
+LOCATION:纽约市
+END:VEVENT
+END:VCALENDAR

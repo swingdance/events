@@ -1,13 +1,13 @@
 ---
 title: Blues Muse
-description: "2024-10-05 ~ 2024-10-07"
+description: "2024-10-04 ~ 2024-10-06"
 tags:
   - Blues
 ---
 
 # Blues Muse 
 
-:fontawesome-solid-calendar-days:{ .ky_list_leading_icon } 2024-10-05 ~ 2024-10-07  
+:fontawesome-solid-calendar-days:{ .ky_list_leading_icon } 2024-10-04 ~ 2024-10-06  
 :fontawesome-solid-location-dot:{ .ky_list_leading_icon } Philadelphia  
 
 ## Contact
