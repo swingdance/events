@@ -2,12 +2,13 @@
   "id": "golden-bal-week-2024",
   "org_id": "swing-beasts",
   "name": "Golden Bal-Week",
-  "date_starts": "2024-09-26",
+  "name_local": "巴尔博亚金秋舞会",
+  "date_starts": "2024-09-25",
   "date_ends": "2024-09-30",
   "styles": "Balboa",
   "city": "Beijing",
   "province": "Beijing",
   "wo": "https://mp.weixin.qq.com/s/R8zF1myr5NonqyWgsR8pyw",
-  "updated_at": "2024-08-08 14:02",
+  "updated_at": "2024-09-13 06:10",
   "contributors": ";Kjuly;"
 }
