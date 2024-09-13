@@ -1,13 +1,14 @@
 ---
 title: Golden Bal-Week
-description: "2024-09-26 ~ 2024-09-30"
+description: "2024-09-25 ~ 2024-09-30"
 tags:
   - Balboa
 ---
 
 # Golden Bal-Week 
 
-:fontawesome-solid-calendar-days:{ .ky_list_leading_icon } 2024-09-26 ~ 2024-09-30  
+:fontawesome-solid-ticket:{ .ky_list_leading_icon } 巴尔博亚金秋舞会  
+:fontawesome-solid-calendar-days:{ .ky_list_leading_icon } 2024-09-25 ~ 2024-09-30  
 :fontawesome-solid-location-dot:{ .ky_list_leading_icon } Beijing  
 
 !!! info "Organizer"
@@ -31,7 +32,7 @@ tags:
 [:material-file-edit-outline:][edit-info]{ target='_blank' }
 </div>
 <div class="ky_page_footer_leading" markdown="span">
-[:material-clock-edit-outline: 2024-08-08 14:02 UTC][view-edit-history]{ .ky_page_footer_history_button target='_blank' }
+[:material-clock-edit-outline: 2024-09-13 06:10 UTC][view-edit-history]{ .ky_page_footer_history_button target='_blank' }
 </div>
 </div>
 
