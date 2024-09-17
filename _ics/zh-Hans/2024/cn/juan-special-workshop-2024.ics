@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:swing-news_zh-Hans_cn_juan-special-workshop-2024
+DTSTART;VALUE=DATE:20241005
+DTEND;VALUE=DATE:20241007
+SUMMARY:Juan Special Workshop • Juan 国庆特别工作坊
+URL:https://swing.news/zh-Hans/cn/juan-special-workshop-2024
+LOCATION:北京
+END:VEVENT
+END:VCALENDAR
