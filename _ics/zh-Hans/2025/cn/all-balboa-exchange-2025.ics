@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:swing-news_zh-Hans_cn_all-balboa-exchange-2025
+DTSTART;VALUE=DATE:20250221
+DTEND;VALUE=DATE:20250224
+SUMMARY:[ABE 2025] All Balboa Exchange
+URL:https://swing.news/zh-Hans/cn/all-balboa-exchange-2025
+LOCATION:上海
+END:VEVENT
+END:VCALENDAR
