@@ -12,12 +12,13 @@ tags:
 
 ???+ details "Details"
 
-    Feb 1-7 Beach Camp in Hua Hin  
-      
+    Feb 1-7 Beach Camp in Hua Hin  
     Feb 7-9 BKK Weekend in Bangkok  
 
 ## Contact
 
+:fontawesome-solid-envelope:{ .ky_list_leading_icon } <breezybalboacamp@gmail.com>  
+:fontawesome-solid-globe:{ .ky_list_leading_icon } <https://www.breezybalboa.com>{ target='_blank' }  
 
 ---
 
@@ -33,7 +34,7 @@ tags:
 [:material-file-edit-outline:][edit-info]{ target='_blank' }
 </div>
 <div class="ky_page_footer_leading" markdown="span">
-[:material-clock-edit-outline: 2024-08-03 09:06 UTC][view-edit-history]{ .ky_page_footer_history_button target='_blank' }
+[:material-clock-edit-outline: 2024-10-09 03:30 UTC][view-edit-history]{ .ky_page_footer_history_button target='_blank' }
 </div>
 </div>
 
