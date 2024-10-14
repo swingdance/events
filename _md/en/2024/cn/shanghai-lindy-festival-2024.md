@@ -14,6 +14,18 @@ description: "2024-12-13 ~ 2024-12-15"
 
     [Downtown Swing](https://swing.kids/cn/downtown-swing) • Downtown Swing 上海摇摆  
 
+???+ venue "Venue"
+
+    上海徐汇瑞峰酒店  
+    Rayfont Downtown Hotel Shanghai  
+
+## Contact
+
+
+---
+
+ [:fontawesome-brands-weixin:{ .ky_social_links_icon }](https://mp.weixin.qq.com/s/H-j-fXHyXQMtLJPuSCbYgA){ target='_blank' }
+
 ---
 
 [Add to Calendar](https://swing.news/ics/en/2024/cn/shanghai-lindy-festival-2024.ics){ .md-button }
@@ -24,7 +36,7 @@ description: "2024-12-13 ~ 2024-12-15"
 [:material-file-edit-outline:][edit-info]{ target='_blank' }
 </div>
 <div class="ky_page_footer_leading" markdown="span">
-[:material-clock-edit-outline: 2024-07-17 08:16 UTC][view-edit-history]{ .ky_page_footer_history_button target='_blank' }
+[:material-clock-edit-outline: 2024-10-14 07:27 UTC][view-edit-history]{ .ky_page_footer_history_button target='_blank' }
 </div>
 </div>
 
