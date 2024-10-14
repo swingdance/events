@@ -4,6 +4,9 @@
 *.sw[po]
 .*.sw[po]
 
+# Python
+.venv
+
 # Temp
 _tmp
 
