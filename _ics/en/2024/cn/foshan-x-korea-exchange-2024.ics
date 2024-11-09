@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:swing-news_cn_foshan-x-korea-exchange-2024
+DTSTART;VALUE=DATE:20241220
+DTEND;VALUE=DATE:20241223
+SUMMARY:Foshan x Korea Exchange
+URL:https://swing.news/cn/foshan-x-korea-exchange-2024
+LOCATION:Foshan
+END:VEVENT
+END:VCALENDAR
