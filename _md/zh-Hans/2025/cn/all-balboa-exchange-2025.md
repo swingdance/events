@@ -21,7 +21,7 @@ tags:
 
 ---
 
- [:fontawesome-brands-weixin:{ .ky_social_links_icon }](https://mp.weixin.qq.com/s/-ESlXoQklYyd0yzjvYSY-g){ target='_blank' }
+ [:fontawesome-brands-weixin:{ .ky_social_links_icon }](https://mp.weixin.qq.com/s/wBv8tTk9Um6vE2faK8FT2g){ target='_blank' }
 
 ---
 
@@ -33,7 +33,7 @@ tags:
 [:material-file-edit-outline:][edit-info]{ target='_blank' }
 </div>
 <div class="ky_page_footer_leading" markdown="span">
-[:material-clock-edit-outline: 2024-10-08 15:04 UTC][view-edit-history]{ .ky_page_footer_history_button target='_blank' }
+[:material-clock-edit-outline: 2024-11-11 12:25 UTC][view-edit-history]{ .ky_page_footer_history_button target='_blank' }
 </div>
 </div>
 
