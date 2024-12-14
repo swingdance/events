@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:swing-news_zh-Hans_kr_asia-balboa-exchange-2025
+DTSTART;VALUE=DATE:20250403
+DTEND;VALUE=DATE:20250407
+SUMMARY:[ABX 2025] Asia Balboa eXchange
+URL:https://swing.news/zh-Hans/kr/asia-balboa-exchange-2025
+LOCATION:首尔
+END:VEVENT
+END:VCALENDAR
