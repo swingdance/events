@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:swing-news_zh-Hans_cn_groove-the-bluesy-bay-2025
+DTSTART;VALUE=DATE:20250214
+DTEND;VALUE=DATE:20250217
+SUMMARY:[GBB 2025] Groove the Bluesy Bay • 湾区布鲁斯节
+URL:https://swing.news/zh-Hans/cn/groove-the-bluesy-bay-2025
+LOCATION:深圳
+END:VEVENT
+END:VCALENDAR
