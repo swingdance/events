@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:swing-news_zh-Hans_cn_blues-workshop-with-zhixuan-2025
+DTSTART;VALUE=DATE:20250104
+DTEND;VALUE=DATE:20250106
+SUMMARY:Blues Workshop with Zhixuan • 祉玄 Blues 工作坊
+URL:https://swing.news/zh-Hans/cn/blues-workshop-with-zhixuan-2025
+LOCATION:厦门
+END:VEVENT
+END:VCALENDAR
