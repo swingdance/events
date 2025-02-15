@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:swing-news_cn_camp-california-weekend-2025
+DTSTART;VALUE=DATE:20250531
+DTEND;VALUE=DATE:20250603
+SUMMARY:Camp California Weekend • 端午加州训练营
+URL:https://swing.news/cn/camp-california-weekend-2025
+LOCATION:Beijing
+END:VEVENT
+END:VCALENDAR
