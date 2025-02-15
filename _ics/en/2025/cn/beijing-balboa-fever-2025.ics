@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:swing-news_cn_beijing-balboa-fever-2025
+DTSTART;VALUE=DATE:20250516
+DTEND;VALUE=DATE:20250519
+SUMMARY:[BBF 2025] Beijing Balboa Fever • 北京巴尔博亚热旋风交流节
+URL:https://swing.news/cn/beijing-balboa-fever-2025
+LOCATION:Beijing
+END:VEVENT
+END:VCALENDAR
