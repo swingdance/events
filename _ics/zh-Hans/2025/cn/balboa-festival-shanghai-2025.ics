@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:swing-news_zh-Hans_cn_balboa-festival-shanghai-2025
+DTSTART;VALUE=DATE:20250704
+DTEND;VALUE=DATE:20250707
+SUMMARY:Balboa Festival Shanghai
+URL:https://swing.news/zh-Hans/cn/balboa-festival-shanghai-2025
+LOCATION:上海
+END:VEVENT
+END:VCALENDAR
