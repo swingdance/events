@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:swing-news_zh-Hans_cn_canton-swing-festival-2025
+DTSTART;VALUE=DATE:20250516
+DTEND;VALUE=DATE:20250519
+SUMMARY:[CSF 2025] Canton Swing Festival • 粤色摇摆
+URL:https://swing.news/zh-Hans/cn/canton-swing-festival-2025
+LOCATION:广州
+END:VEVENT
+END:VCALENDAR
