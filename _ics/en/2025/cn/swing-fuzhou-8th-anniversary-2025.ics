@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:swing-news_cn_swing-fuzhou-8th-anniversary-2025
+DTSTART;VALUE=DATE:20250501
+DTEND;VALUE=DATE:20250505
+SUMMARY:Swing Fuzhou 8th Anniversary • 榕城摇摆八周年
+URL:https://swing.news/cn/swing-fuzhou-8th-anniversary-2025
+LOCATION:Fuzhou
+END:VEVENT
+END:VCALENDAR
