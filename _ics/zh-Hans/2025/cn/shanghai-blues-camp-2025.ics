@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:swing-news_zh-Hans_cn_shanghai-blues-camp-2025
+DTSTART;VALUE=DATE:20250418
+DTEND;VALUE=DATE:20250421
+SUMMARY:[SBC 2025] Shanghai Blues Camp • 上海布鲁斯训练营
+URL:https://swing.news/zh-Hans/cn/shanghai-blues-camp-2025
+LOCATION:上海
+END:VEVENT
+END:VCALENDAR
