@@ -28,11 +28,11 @@ body:
     attributes:
       label: Event ID
       description: |
-        You can find the full list of existing event id at `https://github.com/swingdance/events/tree/main/<year>/<region_code>`.
-        e.g., [https://github.com/swingdance/events/tree/main/2024/cn](https://github.com/swingdance/events/tree/main/2024/cn)
+        You can find the full list of existing event id at `https://github.com/swingdance/events/tree/main/regions/<region_code>`.
+        e.g., [https://github.com/swingdance/events/tree/main/regions/cn](https://github.com/swingdance/events/tree/main/regions/cn)
 
         Or visit https://swing.news and use the edit button on the event details page.
-      placeholder: e.g., swingtime-ball-2024
+      placeholder: e.g., swingtime-ball
     validations:
       required: true
 
