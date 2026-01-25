@@ -1,0 +1,15 @@
+{
+  "id": "guadalajara-lindy-exchange",
+  "abb": "GLX",
+  "name": "Guadalajara Lindy Exchange",
+  "date_starts": "2026-11-01",
+  "date_ends": "2026-11-01",
+  "city": "Guadalajara",
+  "province": "Jalisco",
+  "fb": "events/s/glx-guadalajara-lindy-exchange/972622607848177",
+  "past": [
+    "2024-11-16_11-18"
+  ],
+  "updated_at": "2024-07-14 20:00",
+  "contributors": ";Kjuly;"
+}

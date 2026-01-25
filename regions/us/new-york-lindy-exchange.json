@@ -1,0 +1,16 @@
+{
+  "id": "new-york-lindy-exchange",
+  "abb": "NYLX",
+  "name": "New York Lindy Exchange",
+  "date_starts": "2026-09-01",
+  "date_ends": "2026-09-01",
+  "city": "New York City",
+  "province": "New York",
+  "website": "https://www.nylindy.com",
+  "fb": "events/1011203883695961",
+  "past": [
+    "2024-09-20_09-22"
+  ],
+  "updated_at": "2024-07-14 20:00",
+  "contributors": ";Kjuly;"
+}

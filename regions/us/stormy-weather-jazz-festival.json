@@ -1,0 +1,18 @@
+{
+  "id": "stormy-weather-jazz-festival",
+  "name": "Stormy Weather Jazz Festival",
+  "date_starts": "2026-12-01",
+  "date_ends": "2026-12-01",
+  "city": "Seattle",
+  "province": "Washington",
+  "email": "info@stormyweatherjazzfest.com",
+  "website": "https://www.stormyweatherjazzfest.com",
+  "fb": "stormyweatherjazzfest",
+  "ig": "stormyweatherjazzfest",
+  "yt": "@StormyWeatherJazzDanceFestival",
+  "past": [
+    "2024-12-28_01-01"
+  ],
+  "updated_at": "2024-07-14 20:00",
+  "contributors": ";Kjuly;"
+}

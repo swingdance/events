@@ -1,0 +1,15 @@
+{
+  "id": "stardust-festival",
+  "name": "Stardust Festival",
+  "date_starts": "2026-07-01",
+  "date_ends": "2026-07-01",
+  "city": "Edmonton",
+  "province": "Alberta",
+  "email": "info@stardustfestival.ca",
+  "website": "https://stardustfestival.ca",
+  "past": [
+    "2024-07-19_07-21"
+  ],
+  "updated_at": "2024-06-30 10:35",
+  "contributors": ";Kjuly;"
+}

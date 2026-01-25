@@ -1,0 +1,17 @@
+{
+  "id": "hullabaloo",
+  "name": "Hullabaloo",
+  "date_starts": "2026-04-01",
+  "date_ends": "2026-04-01",
+  "city": "Perth",
+  "province": "Western Australia",
+  "email": "hulla@perthswing.com",
+  "website": "https://hulla.org",
+  "fb": "HullaPerth",
+  "ig": "PerthSwing",
+  "past": [
+    "2025-04-24_04-28"
+  ],
+  "updated_at": "2024-07-14 20:00",
+  "contributors": ";Kjuly;"
+}

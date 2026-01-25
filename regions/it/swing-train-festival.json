@@ -1,0 +1,15 @@
+{
+  "id": "swing-train-festival",
+  "name": "Swing Train Festival",
+  "session": "6",
+  "date_starts": "2026-04-01",
+  "date_ends": "2026-04-01",
+  "city": "Turin",
+  "province": "Turin",
+  "fb": "events/1119193552744439",
+  "past": [
+    "2025-04-04_04-06"
+  ],
+  "updated_at": "2024-07-14 20:30",
+  "contributors": ";Kjuly;"
+}

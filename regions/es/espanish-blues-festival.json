@@ -1,0 +1,17 @@
+{
+  "id": "espanish-blues-festival",
+  "abb": "ESBF",
+  "name": "ESpanish Blues Festival",
+  "date_starts": "2026-11-01",
+  "date_ends": "2026-11-01",
+  "styles": "Blues",
+  "city": "Madrid",
+  "province": "Madrid",
+  "website": "https://www.espanishblues.com",
+  "yt": "@espanishbluesfestival8093",
+  "past": [
+    "2024-11-22_11-24"
+  ],
+  "updated_at": "2024-07-06 07:23",
+  "contributors": ";Kjuly;"
+}

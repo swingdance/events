@@ -1,0 +1,15 @@
+{
+  "id": "balboa-dacha",
+  "name": "Balboa Dacha",
+  "date_starts": "2026-07-01",
+  "date_ends": "2026-07-01",
+  "styles": "Balboa",
+  "city": "Perm",
+  "province": "Perm",
+  "fb": "events/1613028629569884",
+  "past": [
+    "2025-07-25_07-25"
+  ],
+  "updated_at": "2024-10-08 15:06",
+  "contributors": ";Kjuly;"
+}

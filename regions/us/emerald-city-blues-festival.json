@@ -1,0 +1,15 @@
+{
+  "id": "emerald-city-blues-festival",
+  "name": "Emerald City Blues Festival",
+  "date_starts": "2026-10-01",
+  "date_ends": "2026-10-01",
+  "styles": "Blues",
+  "city": "Seattle",
+  "province": "Washington",
+  "fb": "events/252207960748120",
+  "past": [
+    "2024-10-25_10-28"
+  ],
+  "updated_at": "2024-07-14 20:00",
+  "contributors": ";Kjuly;"
+}

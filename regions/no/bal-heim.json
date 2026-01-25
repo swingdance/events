@@ -1,0 +1,15 @@
+{
+  "id": "bal-heim",
+  "name": "Bal’heim",
+  "date_starts": "2026-04-01",
+  "date_ends": "2026-04-01",
+  "styles": "Balboa",
+  "city": "Trondheim",
+  "province": "Trondheim",
+  "fb": "events/2130597303987545",
+  "past": [
+    "2025-04-25_04-27"
+  ],
+  "updated_at": "2024-07-14 20:30",
+  "contributors": ";Kjuly;"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "swing-paramount",
+  "org_id": "downtown-swing",
+  "name": "Swing Paramount",
+  "name_local": "摇摆百乐门",
+  "session": "2",
+  "date_starts": "2026-09-01",
+  "date_ends": "2026-09-01",
+  "city": "Shanghai",
+  "province": "Shanghai",
+  "venue": "上海市静安区豫园路218号，百乐门\r\nParamount: No.218 Yuyuan Road, Jingan District, Shanghai",
+  "wo": "https://mp.weixin.qq.com/s/MrktCK0mWRyZ0-uzbDzL6g",
+  "past": [
+    "2024-09-20_09-22"
+  ],
+  "updated_at": "2024-08-07 13:02",
+  "contributors": ";Kjuly;"
+}

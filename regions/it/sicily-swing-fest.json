@@ -1,0 +1,15 @@
+{
+  "id": "sicily-swing-fest",
+  "name": "Sicily Swing Fest",
+  "date_starts": "2026-09-01",
+  "date_ends": "2026-09-01",
+  "city": "Catania",
+  "province": "Catania",
+  "email": "info@sicilyswingfest.it",
+  "website": "https://www.sicilyswingfest.it",
+  "past": [
+    "2024-09-12_09-15"
+  ],
+  "updated_at": "2024-07-14 20:30",
+  "contributors": ";Kjuly;"
+}

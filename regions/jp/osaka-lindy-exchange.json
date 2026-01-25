@@ -1,0 +1,17 @@
+{
+  "id": "osaka-lindy-exchange",
+  "org_id": "osaka-swing",
+  "name": "Osaka Lindy Exchange",
+  "session": "18",
+  "date_starts": "2026-10-01",
+  "date_ends": "2026-10-01",
+  "city": "Osaka",
+  "province": "Osaka",
+  "website": "https://osakalindyexchange.com",
+  "fb": "events/2524406597767653",
+  "past": [
+    "2024-10-11_10-13"
+  ],
+  "updated_at": "2024-06-30 10:35",
+  "contributors": ";Kjuly;"
+}

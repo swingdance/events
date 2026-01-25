@@ -1,0 +1,17 @@
+{
+  "id": "westlake-swing-carnival",
+  "org_id": "seriously-swing-studio",
+  "abb": "WSC",
+  "name": "Westlake Swing Carnival",
+  "name_local": "西湖摇摆嘉年华",
+  "date_starts": "2026-08-01",
+  "date_ends": "2026-08-01",
+  "city": "Hangzhou",
+  "province": "Zhejiang",
+  "wo": "https://mp.weixin.qq.com/s/Nxyif_8aMSWLR1WtNFZoRw",
+  "past": [
+    "2025-08-29_08-31"
+  ],
+  "updated_at": "2025-08-24 08:18",
+  "contributors": ";Kjuly;"
+}

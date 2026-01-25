@@ -1,0 +1,16 @@
+{
+  "id": "foshan-x-korea-exchange",
+  "org_id": "swing-fo-shan",
+  "name": "Foshan x Korea Exchange",
+  "date_starts": "2026-12-01",
+  "date_ends": "2026-12-01",
+  "styles": "Balboa",
+  "city": "Foshan",
+  "province": "Guangdong",
+  "wo": "https://mp.weixin.qq.com/s/GtPZpiRjKe9iThOuHxdOzg",
+  "past": [
+    "2024-12-20_12-22"
+  ],
+  "updated_at": "2024-11-09 07:30",
+  "contributors": ";Kjuly;"
+}

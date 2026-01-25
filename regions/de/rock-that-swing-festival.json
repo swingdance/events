@@ -1,0 +1,19 @@
+{
+  "id": "rock-that-swing-festival",
+  "abb": "RTSF",
+  "name": "Rock That Swing Festival",
+  "date_starts": "2026-02-01",
+  "date_ends": "2026-02-01",
+  "city": "Munich",
+  "province": "Bavaria",
+  "email": "info@rockthatswing.com",
+  "website": "https://www.rockthatswing.com/rtsf",
+  "fb": "RockThatSwingFestival",
+  "ig": "rockthatswing",
+  "yt": "@RockThatSwing",
+  "past": [
+    "2025-02-27_03-03"
+  ],
+  "updated_at": "2024-07-14 20:30",
+  "contributors": ";Kjuly;"
+}

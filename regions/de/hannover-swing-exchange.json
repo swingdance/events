@@ -1,0 +1,15 @@
+{
+  "id": "hannover-swing-exchange",
+  "abb": "HASE",
+  "name": "Hannover Swing Exchange",
+  "date_starts": "2026-09-01",
+  "date_ends": "2026-09-01",
+  "city": "Hannover",
+  "province": "Lower Saxony",
+  "website": "https://hannoverswingexchange.de",
+  "past": [
+    "2024-09-06_09-08"
+  ],
+  "updated_at": "2024-07-14 20:30",
+  "contributors": ";Kjuly;"
+}

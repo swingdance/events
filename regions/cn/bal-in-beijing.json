@@ -1,0 +1,16 @@
+{
+  "id": "bal-in-beijing",
+  "org_id": "swing-beijing",
+  "name": "Bal In Beijing",
+  "date_starts": "2026-07-01",
+  "date_ends": "2026-07-01",
+  "styles": "Balboa",
+  "city": "Beijing",
+  "province": "Beijing",
+  "wo": "https://mp.weixin.qq.com/s/T14Vj1A2fy2GrSXarKYgzw",
+  "past": [
+    "2024-07-03_07-08"
+  ],
+  "updated_at": "2024-06-30 10:35",
+  "contributors": ";Kjuly;"
+}

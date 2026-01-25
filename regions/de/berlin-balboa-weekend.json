@@ -1,0 +1,18 @@
+{
+  "id": "berlin-balboa-weekend",
+  "name": "Berlin Balboa Weekend",
+  "date_starts": "2026-02-01",
+  "date_ends": "2026-02-01",
+  "styles": "Balboa",
+  "city": "Berlin",
+  "province": "Berlin",
+  "email": "info@berlinbalboaweekend.de",
+  "website": "https://www.berlinbalboaweekend.de",
+  "fb": "berlinbalboaweekend",
+  "ig": "berlinbalboaweekend",
+  "past": [
+    "2025-02-28_03-02"
+  ],
+  "updated_at": "2024-07-14 20:30",
+  "contributors": ";Kjuly;"
+}

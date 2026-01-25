@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:swing-news_cn_groove-the-bluesy-bay
+DTSTART;VALUE=DATE:20260313
+DTEND;VALUE=DATE:20260316
+SUMMARY:[GBB ] Groove the Bluesy Bay • 湾区布鲁斯节
+URL:https://swing.news/cn/groove-the-bluesy-bay
+LOCATION:Shenzhen
+END:VEVENT
+END:VCALENDAR

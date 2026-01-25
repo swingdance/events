@@ -1,0 +1,18 @@
+{
+  "id": "shanghai-blues-camp",
+  "org_id": "downtown-swing",
+  "abb": "SBC",
+  "name": "Shanghai Blues Camp",
+  "name_local": "上海布鲁斯训练营",
+  "session": "3",
+  "date_starts": "2026-04-01",
+  "date_ends": "2026-04-01",
+  "city": "Shanghai",
+  "province": "Shanghai",
+  "wo": "https://mp.weixin.qq.com/s/XGmy6tz8QioVS8vAoR63JA",
+  "past": [
+    "2025-04-18_04-20"
+  ],
+  "updated_at": "2025-03-30 15:33",
+  "contributors": ";Kjuly;"
+}

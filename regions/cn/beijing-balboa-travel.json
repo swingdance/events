@@ -1,0 +1,17 @@
+{
+  "id": "beijing-balboa-travel",
+  "org_id": "swing-travels",
+  "abb": "BBT",
+  "name": "Beijing Balboa Travel",
+  "name_local": "北京巴尔博亚之旅",
+  "date_starts": "2026-01-01",
+  "date_ends": "2026-01-01",
+  "styles": "Balboa",
+  "city": "Beijing",
+  "province": "Beijing",
+  "past": [
+    "2024-01-05_01-07"
+  ],
+  "updated_at": "2024-06-30 10:35",
+  "contributors": ";Kjuly;"
+}

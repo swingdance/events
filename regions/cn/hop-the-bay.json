@@ -1,0 +1,18 @@
+{
+  "id": "hop-the-bay",
+  "org_id": "swing-shen-zhen,swing-fo-shan",
+  "abb": "HTB",
+  "name": "Hop the Bay",
+  "name_local": "湾区摇摆大会",
+  "date_starts": "2026-10-01",
+  "date_ends": "2026-10-01",
+  "city": "Foshan",
+  "province": "Guangdong",
+  "email": "HTB2024@swingshenzhen.com",
+  "wo": "https://mp.weixin.qq.com/s/_egVTPEE4d1BAYUSSof6XA",
+  "past": [
+    "2024-10-18_10-20"
+  ],
+  "updated_at": "2024-08-04 13:15",
+  "contributors": ";Kjuly;"
+}

@@ -1,0 +1,43 @@
+---
+title: Shanghai Balboa Weekend
+subtitle: SBW
+description: ""
+tags:
+  - Balboa
+---
+
+# Shanghai Balboa Weekend ^7^
+
+:fontawesome-solid-calendar-days:{ .ky_list_leading_icon } 2026-10  
+:fontawesome-solid-location-dot:{ .ky_list_leading_icon } 上海  
+
+!!! info "组织方"
+
+    [Tabby the Cat](https://swing.kids/cn/tabby-the-cat) • Tabby the Cat 摇摆舞工作室  
+
+## 联系
+
+:fontawesome-solid-envelope:{ .ky_list_leading_icon } <shbalboaweekend@gmail.com>  
+:fontawesome-solid-globe:{ .ky_list_leading_icon } <http://shanghaibalboaweekend.com>{ target='_blank' }  
+
+---
+
+ [:fontawesome-brands-facebook-f:{ .ky_social_links_icon }](https://www.facebook.com/profile.php?id=61551863467704){ target='_blank' } [:fontawesome-brands-instagram:{ .ky_social_links_icon }](https://instagram.com/balboaweekend.sh){ target='_blank' } [:fontawesome-brands-youtube:{ .ky_social_links_icon }](https://youtube.com/@shanghaibalboaweekend){ target='_blank' } [:fontawesome-brands-weixin:{ .ky_social_links_icon }](https://mp.weixin.qq.com/s/dp9Qwe1QEuuS_51ZJFZk0A){ target='_blank' }
+
+---
+
+
+<div class="ky_page_footer" markdown>
+<div class="ky_page_footer_trailing" markdown="span">
+[:material-file-eye-outline:][view-raw-source-file]{ target='_blank' }
+[:material-file-edit-outline:][edit-info]{ target='_blank' }
+</div>
+<div class="ky_page_footer_leading" markdown="span">
+[:material-clock-edit-outline: 2025-03-30 15:33 UTC][view-edit-history]{ .ky_page_footer_history_button target='_blank' }
+</div>
+</div>
+
+[view-raw-source-file]: https://github.com/swingdance/events/blob/main/regions/cn/shanghai-balboa-weekend.json "查看原始源文件"
+[edit-info]: https://github.com/swingdance/events/issues/new?assignees=&labels=update+event&projects=&template=03-update_entity.yml&title=%5B2026%2Fcn%5D%20Shanghai%20Balboa%20Weekend&region=cn&year=2026&id=shanghai-balboa-weekend&name=Shanghai%20Balboa%20Weekend&org_id=tabby-the-cat "编辑信息"
+
+[view-edit-history]: https://github.com/swingdance/events/commits/main/regions/cn/shanghai-balboa-weekend.json "查看编辑历史"

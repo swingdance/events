@@ -1,0 +1,17 @@
+{
+  "id": "express-track-blues",
+  "name": "Express Track Blues",
+  "date_starts": "2026-09-01",
+  "date_ends": "2026-09-01",
+  "styles": "Blues",
+  "city": "New York City",
+  "province": "New York",
+  "email": "info@bluesdancenewyork.com",
+  "website": "https://www.expresstrackblues.com",
+  "fb": "expresstrackblues",
+  "past": [
+    "2024-09-27_09-29"
+  ],
+  "updated_at": "2024-09-12 04:06",
+  "contributors": ";Kjuly;"
+}

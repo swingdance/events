@@ -1,0 +1,15 @@
+{
+  "id": "island-swing",
+  "org_id": "amoy-swing",
+  "name": "Island Swing",
+  "name_local": "岛与摇摆",
+  "date_starts": "2026-09-01",
+  "date_ends": "2026-09-01",
+  "city": "Xiamen",
+  "province": "Fujian",
+  "past": [
+    "2023-09-15_09-17"
+  ],
+  "updated_at": "2024-06-30 10:35",
+  "contributors": ";Kjuly;"
+}
