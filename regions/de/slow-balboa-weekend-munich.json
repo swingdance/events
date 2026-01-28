@@ -7,9 +7,7 @@
   "city": "Munich",
   "province": "Bavaria",
   "website": "https://www.munichbalboa.de",
-  "past": [
-    "2025-01-04_01-06"
-  ],
+  "past": "2025-01-04_01-06",
   "updated_at": "2024-07-14 20:30",
   "contributors": ";Kjuly;"
 }

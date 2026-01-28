@@ -6,9 +6,7 @@
   "city": "Philadelphia",
   "province": "Pennsylvania",
   "website": "https://www.rittenhopalooza.com",
-  "past": [
-    "2024-08-02_08-04"
-  ],
+  "past": "2024-08-02_08-04",
   "updated_at": "2024-07-14 20:00",
   "contributors": ";Kjuly;"
 }

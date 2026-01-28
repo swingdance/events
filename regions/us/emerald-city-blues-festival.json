@@ -7,9 +7,7 @@
   "city": "Seattle",
   "province": "Washington",
   "fb": "events/252207960748120",
-  "past": [
-    "2024-10-25_10-28"
-  ],
+  "past": "2024-10-25_10-28",
   "updated_at": "2024-07-14 20:00",
   "contributors": ";Kjuly;"
 }
