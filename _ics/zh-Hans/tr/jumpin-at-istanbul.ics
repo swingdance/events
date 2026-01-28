@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:swing-news_zh-Hans_tr_jumpin-at-istanbul
+DTSTART;VALUE=DATE:20260116
+DTEND;VALUE=DATE:20260119
+SUMMARY:Jumpin' at Istanbul
+URL:https://swing.news/zh-Hans/tr/jumpin-at-istanbul
+LOCATION:伊斯坦布尔
+END:VEVENT
+END:VCALENDAR
