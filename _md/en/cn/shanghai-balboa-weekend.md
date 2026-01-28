@@ -1,14 +1,14 @@
 ---
 title: Shanghai Balboa Weekend
 subtitle: SBW
-description: ""
+description: "2026-10-02 ~ 2026-10-04"
 tags:
   - Balboa
 ---
 
-# Shanghai Balboa Weekend ^7^
+# Shanghai Balboa Weekend ^8^
 
-:fontawesome-solid-calendar-days:{ .ky_list_leading_icon } 2026-10  
+:fontawesome-solid-calendar-days:{ .ky_list_leading_icon } 2026-10-02 ~ 2026-10-04  
 :fontawesome-solid-location-dot:{ .ky_list_leading_icon } Shanghai  
 
 !!! info "Organizer"
@@ -26,6 +26,7 @@ tags:
 
 ---
 
+[Add to Calendar](https://swing.news/ics/en/cn/shanghai-balboa-weekend.ics){ .md-button }
 
 <div class="ky_page_footer" markdown>
 <div class="ky_page_footer_trailing" markdown="span">
@@ -33,7 +34,7 @@ tags:
 [:material-file-edit-outline:][edit-info]{ target='_blank' }
 </div>
 <div class="ky_page_footer_leading" markdown="span">
-[:material-clock-edit-outline: 2025-03-30 15:33 UTC][view-edit-history]{ .ky_page_footer_history_button target='_blank' }
+[:material-clock-edit-outline: 2026-01-28 15:40 UTC][view-edit-history]{ .ky_page_footer_history_button target='_blank' }
 </div>
 </div>
 
