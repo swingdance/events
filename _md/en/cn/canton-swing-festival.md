@@ -1,13 +1,13 @@
 ---
 title: Canton Swing Festival
 subtitle: CSF
-description: ""
+description: "2026-03-06 ~ 2026-03-08"
 ---
 
 # Canton Swing Festival 
 
 :fontawesome-solid-ticket:{ .ky_list_leading_icon } 粤色摇摆  
-:fontawesome-solid-calendar-days:{ .ky_list_leading_icon } 2026-05  
+:fontawesome-solid-calendar-days:{ .ky_list_leading_icon } 2026-03-06 ~ 2026-03-08  
 :fontawesome-solid-location-dot:{ .ky_list_leading_icon } Guangzhou  
 
 !!! info "Organizer"
@@ -23,6 +23,7 @@ description: ""
 
 ---
 
+[Add to Calendar](https://swing.news/ics/en/cn/canton-swing-festival.ics){ .md-button }
 
 <div class="ky_page_footer" markdown>
 <div class="ky_page_footer_trailing" markdown="span">
@@ -30,7 +31,7 @@ description: ""
 [:material-file-edit-outline:][edit-info]{ target='_blank' }
 </div>
 <div class="ky_page_footer_leading" markdown="span">
-[:material-clock-edit-outline: 2025-03-09 13:43 UTC][view-edit-history]{ .ky_page_footer_history_button target='_blank' }
+[:material-clock-edit-outline: 2026-01-28 15:45 UTC][view-edit-history]{ .ky_page_footer_history_button target='_blank' }
 </div>
 </div>
 
