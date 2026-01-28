@@ -1,13 +1,13 @@
 ---
 title: Nanjing Lindy Festival
 subtitle: NLF
-description: ""
+description: "2026-05-15 ~ 2026-05-17"
 ---
 
 # Nanjing Lindy Festival 
 
 :fontawesome-solid-ticket:{ .ky_list_leading_icon } 爵对莱斯 • 南京林迪节  
-:fontawesome-solid-calendar-days:{ .ky_list_leading_icon } 2026-05  
+:fontawesome-solid-calendar-days:{ .ky_list_leading_icon } 2026-05-15 ~ 2026-05-17  
 :fontawesome-solid-location-dot:{ .ky_list_leading_icon } 南京  
 
 !!! info "组织方"
@@ -25,6 +25,7 @@ description: ""
 
 ---
 
+[添加到日历](https://swing.news/ics/zh-Hans/cn/nanjing-lindy-festival.ics){ .md-button }
 
 <div class="ky_page_footer" markdown>
 <div class="ky_page_footer_trailing" markdown="span">
@@ -32,7 +33,7 @@ description: ""
 [:material-file-edit-outline:][edit-info]{ target='_blank' }
 </div>
 <div class="ky_page_footer_leading" markdown="span">
-[:material-clock-edit-outline: 2024-12-20 12:52 UTC][view-edit-history]{ .ky_page_footer_history_button target='_blank' }
+[:material-clock-edit-outline: 2026-01-28 15:43 UTC][view-edit-history]{ .ky_page_footer_history_button target='_blank' }
 </div>
 </div>
 
