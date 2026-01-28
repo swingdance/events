@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:swing-news_cn_all-balboa-exchange
+DTSTART;VALUE=DATE:20260306
+DTEND;VALUE=DATE:20260309
+SUMMARY:[ABE ] All Balboa Exchange
+URL:https://swing.news/cn/all-balboa-exchange
+LOCATION:Shanghai
+END:VEVENT
+END:VCALENDAR
