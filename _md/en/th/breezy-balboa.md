@@ -1,20 +1,19 @@
 ---
 title: Breezy Balboa
-description: ""
+description: "2026-01-31 ~ 2026-02-08"
 tags:
   - Balboa
 ---
 
 # Breezy Balboa 
 
-:fontawesome-solid-calendar-days:{ .ky_list_leading_icon } 2026-02  
+:fontawesome-solid-calendar-days:{ .ky_list_leading_icon } 2026-01-31 ~ 2026-02-08  
 :fontawesome-solid-location-dot:{ .ky_list_leading_icon } Hua Hin  
 
 ???+ details "Details"
 
-    Feb 1-7 Beach Camp in Hua Hin  
-      
-    Feb 7-9 BKK Weekend in Bangkok  
+    Jan 31 - Feb 6 Beach Camp  
+    Feb 6-8 Bangkok Weekend  
 
 ## Contact
 
@@ -27,6 +26,7 @@ tags:
 
 ---
 
+[Add to Calendar](https://swing.news/ics/en/th/breezy-balboa.ics){ .md-button }
 
 <div class="ky_page_footer" markdown>
 <div class="ky_page_footer_trailing" markdown="span">
@@ -34,7 +34,7 @@ tags:
 [:material-file-edit-outline:][edit-info]{ target='_blank' }
 </div>
 <div class="ky_page_footer_leading" markdown="span">
-[:material-clock-edit-outline: 2024-10-09 03:30 UTC][view-edit-history]{ .ky_page_footer_history_button target='_blank' }
+[:material-clock-edit-outline: 2026-01-28 15:39 UTC][view-edit-history]{ .ky_page_footer_history_button target='_blank' }
 </div>
 </div>
 
