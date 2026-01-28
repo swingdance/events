@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:swing-news_cn_canton-swing-festival
+DTSTART;VALUE=DATE:20260306
+DTEND;VALUE=DATE:20260309
+SUMMARY:[CSF ] Canton Swing Festival • 粤色摇摆
+URL:https://swing.news/cn/canton-swing-festival
+LOCATION:Guangzhou
+END:VEVENT
+END:VCALENDAR
