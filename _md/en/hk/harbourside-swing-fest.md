@@ -1,11 +1,11 @@
 ---
 title: Harbourside Swing Fest
-description: ""
+description: "2026-04-24 ~ 2026-04-26"
 ---
 
 # Harbourside Swing Fest 
 
-:fontawesome-solid-calendar-days:{ .ky_list_leading_icon } 2026-01  
+:fontawesome-solid-calendar-days:{ .ky_list_leading_icon } 2026-04-24 ~ 2026-04-26  
 :fontawesome-solid-location-dot:{ .ky_list_leading_icon } HK  
 
 !!! info "Organizer"
@@ -23,6 +23,7 @@ description: ""
 
 ---
 
+[Add to Calendar](https://swing.news/ics/en/hk/harbourside-swing-fest.ics){ .md-button }
 
 <div class="ky_page_footer" markdown>
 <div class="ky_page_footer_trailing" markdown="span">
@@ -30,7 +31,7 @@ description: ""
 [:material-file-edit-outline:][edit-info]{ target='_blank' }
 </div>
 <div class="ky_page_footer_leading" markdown="span">
-[:material-clock-edit-outline: 2024-12-20 12:58 UTC][view-edit-history]{ .ky_page_footer_history_button target='_blank' }
+[:material-clock-edit-outline: 2026-01-28 15:48 UTC][view-edit-history]{ .ky_page_footer_history_button target='_blank' }
 </div>
 </div>
 

@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:swing-news_hk_harbourside-swing-fest
+DTSTART;VALUE=DATE:20260424
+DTEND;VALUE=DATE:20260427
+SUMMARY:Harbourside Swing Fest
+URL:https://swing.news/hk/harbourside-swing-fest
+LOCATION:HK
+END:VEVENT
+END:VCALENDAR
