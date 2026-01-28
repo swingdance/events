@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:swing-news_cn_nanjing-lindy-festival
+DTSTART;VALUE=DATE:20260515
+DTEND;VALUE=DATE:20260518
+SUMMARY:[NLF ] Nanjing Lindy Festival • 爵对莱斯 • 南京林迪节
+URL:https://swing.news/cn/nanjing-lindy-festival
+LOCATION:Nanjing
+END:VEVENT
+END:VCALENDAR
