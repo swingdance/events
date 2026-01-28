@@ -1,14 +1,14 @@
 ---
 title: All Balboa Exchange
 subtitle: ABE
-description: ""
+description: "2026-03-06 ~ 2026-03-08"
 tags:
   - Balboa
 ---
 
 # All Balboa Exchange 
 
-:fontawesome-solid-calendar-days:{ .ky_list_leading_icon } 2026-02  
+:fontawesome-solid-calendar-days:{ .ky_list_leading_icon } 2026-03-06 ~ 2026-03-08  
 :fontawesome-solid-location-dot:{ .ky_list_leading_icon } Shanghai  
 
 !!! info "Organizer"
@@ -21,10 +21,11 @@ tags:
 
 ---
 
- [:fontawesome-brands-weixin:{ .ky_social_links_icon }](https://mp.weixin.qq.com/s/wBv8tTk9Um6vE2faK8FT2g){ target='_blank' }
+ [:fontawesome-brands-weixin:{ .ky_social_links_icon }](https://mp.weixin.qq.com/s/BQGPmsxg2s9FizHpb76YDw){ target='_blank' }
 
 ---
 
+[Add to Calendar](https://swing.news/ics/en/cn/all-balboa-exchange.ics){ .md-button }
 
 <div class="ky_page_footer" markdown>
 <div class="ky_page_footer_trailing" markdown="span">
@@ -32,7 +33,7 @@ tags:
 [:material-file-edit-outline:][edit-info]{ target='_blank' }
 </div>
 <div class="ky_page_footer_leading" markdown="span">
-[:material-clock-edit-outline: 2024-11-11 12:25 UTC][view-edit-history]{ .ky_page_footer_history_button target='_blank' }
+[:material-clock-edit-outline: 2026-01-28 15:52 UTC][view-edit-history]{ .ky_page_footer_history_button target='_blank' }
 </div>
 </div>
 
