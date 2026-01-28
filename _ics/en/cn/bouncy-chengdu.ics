@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:swing-news_cn_bouncy-chengdu
+DTSTART;VALUE=DATE:20260410
+DTEND;VALUE=DATE:20260413
+SUMMARY:Bouncy Chengdu • 妖艳儿摇摆节
+URL:https://swing.news/cn/bouncy-chengdu
+LOCATION:Chengdu
+END:VEVENT
+END:VCALENDAR

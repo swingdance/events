@@ -1,12 +1,12 @@
 ---
 title: Bouncy Chengdu
-description: ""
+description: "2026-04-10 ~ 2026-04-12"
 ---
 
 # Bouncy Chengdu 
 
 :fontawesome-solid-ticket:{ .ky_list_leading_icon } 妖艳儿摇摆节  
-:fontawesome-solid-calendar-days:{ .ky_list_leading_icon } 2026-04  
+:fontawesome-solid-calendar-days:{ .ky_list_leading_icon } 2026-04-10 ~ 2026-04-12  
 :fontawesome-solid-location-dot:{ .ky_list_leading_icon } Chengdu  
 
 !!! info "Organizer"
@@ -22,6 +22,7 @@ description: ""
 
 ---
 
+[Add to Calendar](https://swing.news/ics/en/cn/bouncy-chengdu.ics){ .md-button }
 
 <div class="ky_page_footer" markdown>
 <div class="ky_page_footer_trailing" markdown="span">
@@ -29,7 +30,7 @@ description: ""
 [:material-file-edit-outline:][edit-info]{ target='_blank' }
 </div>
 <div class="ky_page_footer_leading" markdown="span">
-[:material-clock-edit-outline: 2025-02-15 06:00 UTC][view-edit-history]{ .ky_page_footer_history_button target='_blank' }
+[:material-clock-edit-outline: 2026-01-28 15:49 UTC][view-edit-history]{ .ky_page_footer_history_button target='_blank' }
 </div>
 </div>
 
