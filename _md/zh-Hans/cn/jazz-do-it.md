@@ -17,7 +17,7 @@ description: ""
 
     活动的具体日期尚未确定或更新，仅供参考。
 
-    [提供日期](https://github.com/swingdance/events/issues/new?assignees=&labels=update+event+date&projects=&template=04-update_event_date.yml&title=%5B2026%2Fcn%5D%20Jazz%20Do%20It&region=cn&year=2026&id=jazz-do-it&date_starts=2026-08-01&date_ends=2026-08-01)
+    [提供日期](https://github.com/swingdance/events/issues/new?assignees=&labels=update+event+date&projects=&template=04-update_event_date.yml&title=%5B2026%2Fcn%5D%20Jazz%20Do%20It&region=cn&year=2026&id=jazz-do-it&date_starts=2026-08-01&date_ends=2026-08-01){ target='_blank' }
 
 ## 联系
 

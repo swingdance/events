@@ -14,7 +14,7 @@ tags:
 
     活动的具体日期尚未确定或更新，仅供参考。
 
-    [提供日期](https://github.com/swingdance/events/issues/new?assignees=&labels=update+event+date&projects=&template=04-update_event_date.yml&title=%5B2026%2Fbe%5D%20Boulevard%20Blues&region=be&year=2026&id=boulevard-blues&date_starts=2026-10-01&date_ends=2026-10-01)
+    [提供日期](https://github.com/swingdance/events/issues/new?assignees=&labels=update+event+date&projects=&template=04-update_event_date.yml&title=%5B2026%2Fbe%5D%20Boulevard%20Blues&region=be&year=2026&id=boulevard-blues&date_starts=2026-10-01&date_ends=2026-10-01){ target='_blank' }
 
 ## 联系
 

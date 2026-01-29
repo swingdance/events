@@ -14,7 +14,7 @@ tags:
 
     The event's specific date has not yet been confirmed or updated; it is provided for reference only.
 
-    [Submit Date](https://github.com/swingdance/events/issues/new?assignees=&labels=update+event+date&projects=&template=04-update_event_date.yml&title=%5B2026%2Fus%5D%20Great%20Lakes%20Balboa%20Escape&region=us&year=2026&id=great-lakes-balboa-escape&date_starts=2026-09-01&date_ends=2026-09-01)
+    [Submit Date](https://github.com/swingdance/events/issues/new?assignees=&labels=update+event+date&projects=&template=04-update_event_date.yml&title=%5B2026%2Fus%5D%20Great%20Lakes%20Balboa%20Escape&region=us&year=2026&id=great-lakes-balboa-escape&date_starts=2026-09-01&date_ends=2026-09-01){ target='_blank' }
 
 ## Contact
 

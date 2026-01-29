@@ -13,7 +13,7 @@ description: ""
 
     The event's specific date has not yet been confirmed or updated; it is provided for reference only.
 
-    [Submit Date](https://github.com/swingdance/events/issues/new?assignees=&labels=update+event+date&projects=&template=04-update_event_date.yml&title=%5B2026%2Fkr%5D%20Rhythm%20Korea&region=kr&year=2026&id=rhythm-korea&date_starts=2026-06-01&date_ends=2026-06-01)
+    [Submit Date](https://github.com/swingdance/events/issues/new?assignees=&labels=update+event+date&projects=&template=04-update_event_date.yml&title=%5B2026%2Fkr%5D%20Rhythm%20Korea&region=kr&year=2026&id=rhythm-korea&date_starts=2026-06-01&date_ends=2026-06-01){ target='_blank' }
 
 ## Contact
 

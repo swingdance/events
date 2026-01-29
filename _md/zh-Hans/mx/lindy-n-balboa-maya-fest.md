@@ -12,7 +12,7 @@ description: ""
 
     活动的具体日期尚未确定或更新，仅供参考。
 
-    [提供日期](https://github.com/swingdance/events/issues/new?assignees=&labels=update+event+date&projects=&template=04-update_event_date.yml&title=%5B2026%2Fmx%5D%20Lindy%20%26%20Balboa%20Maya%20Fest&region=mx&year=2026&id=lindy-n-balboa-maya-fest&date_starts=2026-11-01&date_ends=2026-11-01)
+    [提供日期](https://github.com/swingdance/events/issues/new?assignees=&labels=update+event+date&projects=&template=04-update_event_date.yml&title=%5B2026%2Fmx%5D%20Lindy%20%26%20Balboa%20Maya%20Fest&region=mx&year=2026&id=lindy-n-balboa-maya-fest&date_starts=2026-11-01&date_ends=2026-11-01){ target='_blank' }
 
 ## 联系
 

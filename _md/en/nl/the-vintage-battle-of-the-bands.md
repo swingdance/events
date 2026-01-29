@@ -12,7 +12,7 @@ description: ""
 
     The event's specific date has not yet been confirmed or updated; it is provided for reference only.
 
-    [Submit Date](https://github.com/swingdance/events/issues/new?assignees=&labels=update+event+date&projects=&template=04-update_event_date.yml&title=%5B2026%2Fnl%5D%20The%20Vintage%20Battle%20of%20the%20Bands&region=nl&year=2026&id=the-vintage-battle-of-the-bands&date_starts=2026-11-01&date_ends=2026-11-01)
+    [Submit Date](https://github.com/swingdance/events/issues/new?assignees=&labels=update+event+date&projects=&template=04-update_event_date.yml&title=%5B2026%2Fnl%5D%20The%20Vintage%20Battle%20of%20the%20Bands&region=nl&year=2026&id=the-vintage-battle-of-the-bands&date_starts=2026-11-01&date_ends=2026-11-01){ target='_blank' }
 
 ## Contact
 

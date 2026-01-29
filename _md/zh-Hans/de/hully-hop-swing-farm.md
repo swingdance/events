@@ -12,7 +12,7 @@ description: ""
 
     活动的具体日期尚未确定或更新，仅供参考。
 
-    [提供日期](https://github.com/swingdance/events/issues/new?assignees=&labels=update+event+date&projects=&template=04-update_event_date.yml&title=%5B2026%2Fde%5D%20Hully%20Hop%20Swing%20Farm&region=de&year=2026&id=hully-hop-swing-farm&date_starts=2026-11-01&date_ends=2026-11-01)
+    [提供日期](https://github.com/swingdance/events/issues/new?assignees=&labels=update+event+date&projects=&template=04-update_event_date.yml&title=%5B2026%2Fde%5D%20Hully%20Hop%20Swing%20Farm&region=de&year=2026&id=hully-hop-swing-farm&date_starts=2026-11-01&date_ends=2026-11-01){ target='_blank' }
 
 ## 联系
 

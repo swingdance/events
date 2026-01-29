@@ -14,7 +14,7 @@ description: ""
 
     The event's specific date has not yet been confirmed or updated; it is provided for reference only.
 
-    [Submit Date](https://github.com/swingdance/events/issues/new?assignees=&labels=update+event+date&projects=&template=04-update_event_date.yml&title=%5B2026%2Fcn%5D%20Women%27s%20Jazzination&region=cn&year=2026&id=womens-jazzination&date_starts=2026-09-01&date_ends=2026-09-01)
+    [Submit Date](https://github.com/swingdance/events/issues/new?assignees=&labels=update+event+date&projects=&template=04-update_event_date.yml&title=%5B2026%2Fcn%5D%20Women%27s%20Jazzination&region=cn&year=2026&id=womens-jazzination&date_starts=2026-09-01&date_ends=2026-09-01){ target='_blank' }
 
 ---
 
