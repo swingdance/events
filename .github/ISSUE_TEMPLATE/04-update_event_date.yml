@@ -66,8 +66,7 @@ body:
     id: event_url
     attributes:
       label: URL
-      description: |
-        Enter the event page URL for this year. It will be reset at the start of each year.
+      description: Enter the event page URL for this year. It will be reset at the start of each year.
       placeholder: https://...
 
   # - type: textarea
