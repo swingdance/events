@@ -8,7 +8,7 @@
   "styles": "Balboa",
   "city": "Shanghai",
   "province": "Shanghai",
-  "wo": "https://mp.weixin.qq.com/s/BQGPmsxg2s9FizHpb76YDw",
+  "event_url": "https://mp.weixin.qq.com/s/BQGPmsxg2s9FizHpb76YDw",
   "past": "2025-02-21_02-23",
   "updated_at": "2026-01-28 15:52",
   "contributors": ";Kjuly;"

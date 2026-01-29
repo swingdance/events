@@ -2,8 +2,8 @@
   "id": "moscow-comes-around",
   "abb": "MCA",
   "name": "Moscow Comes Around",
-  "date_starts": "2026-09-01",
-  "date_ends": "2026-09-01",
+  "date_starts": "2026-09-11",
+  "date_ends": "2026-09-13",
   "styles": "Balboa",
   "city": "Moscow",
   "province": "Moscow",
@@ -12,6 +12,6 @@
   "fb": "moscowcomesaround",
   "ig": "moscowcomesaround",
   "past": "2024-09-13_09-15",
-  "updated_at": "2024-07-11 13:35",
+  "updated_at": "2026-01-29 08:00",
   "contributors": ";Kjuly;"
 }

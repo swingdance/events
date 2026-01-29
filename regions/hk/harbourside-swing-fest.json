@@ -1,7 +1,9 @@
 {
   "id": "harbourside-swing-fest",
   "org_id": "rhythm-studio",
+  "abb": "HSF",
   "name": "Harbourside Swing Fest",
+  "name_local": "港畔摇摆节",
   "date_starts": "2026-04-24",
   "date_ends": "2026-04-26",
   "city": "HK",
@@ -10,7 +12,6 @@
   "website": "https://rhythmstudiohk.com/harbour-side-swing-fest",
   "fb": "id=61551775018028",
   "ig": "HarboursideSwingFest",
-  "wo": "https://mp.weixin.qq.com/s/BrtaRGLzJ-M-7Fi4DBX6gg",
   "past": "2025-01-10_01-12",
   "updated_at": "2026-01-28 15:48",
   "contributors": ";Kjuly;"
