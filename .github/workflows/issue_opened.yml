@@ -10,6 +10,7 @@ permissions:
   pull-requests: write
 
 jobs:
+  # Add Event
   check-opened-issue-to-add-event:
     if: contains(github.event.issue.labels.*.name, 'add event')
     uses: swingdance/entity-ci/.github/workflows/create_pr_to_add_entity.yml@main
@@ -20,6 +21,18 @@ jobs:
     secrets:
       token: "${{ secrets.GH_TOKEN }}"
 
+  # Update Event Date
+  check-opened-issue-to-update-event-date:
+    if: contains(github.event.issue.labels.*.name, 'update event date')
+    uses: swingdance/entity-ci/.github/workflows/create_pr_to_update_entity.yml@main
+    with:
+      type: event
+      template_filename: 04-update_event_date.yml
+      reusable_workflow_repo: swingdance/entity-ci
+    secrets:
+      token: "${{ secrets.GH_TOKEN }}"
+
+  # Update Event
   check-opened-issue-to-update-event:
     if: contains(github.event.issue.labels.*.name, 'update event')
     uses: swingdance/entity-ci/.github/workflows/create_pr_to_update_entity.yml@main

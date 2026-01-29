@@ -1,0 +1,80 @@
+name: 📆 Update Event Date
+description: Update an existing event's date.
+title: '<Event Name>'
+labels: ["update event date"]
+
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Before getting started, make sure you have found the event you want by providing the Region and Event ID.
+        If you cannot find the corresponding one, email directly to dev+swing@kjuly.com.
+
+  - type: input
+    id: region
+    attributes:
+      label: Region Code
+      description: |
+        The region code used to group your event.
+        Please choose the appropriate one according to your country or region.
+        * [Currently Collected Regions](https://swing.news/regions)
+        * If you cannot find the corresponding one, use "Add Region" or email directly to dev+swing@kjuly.com.
+      placeholder: e.g., cn
+    validations:
+      required: true
+
+  - type: input
+    id: id
+    attributes:
+      label: Event ID
+      description: |
+        You can find the full list of existing event id at `https://github.com/swingdance/events/tree/main/regions/<region_code>`.
+        e.g., [https://github.com/swingdance/events/tree/main/regions/cn](https://github.com/swingdance/events/tree/main/regions/cn)
+
+        Or visit https://swing.news and use the edit button on the event details page.
+      placeholder: e.g., swingtime-ball
+    validations:
+      required: true
+
+  # Details to Update
+
+  - type: input
+    id: session
+    attributes:
+      label: Session
+      placeholder: e.g., 3
+
+  - type: input
+    id: date_starts
+    attributes:
+      label: Date Starts
+      description: e.g., 2024-01-01
+      placeholder: YYYY-MM-DD
+    validations:
+      required: true
+
+  - type: input
+    id: date_ends
+    attributes:
+      label: Date Ends
+      description: e.g., 2024-01-03
+      placeholder: YYYY-MM-DD
+    validations:
+      required: true
+
+  - type: input
+    id: event_url
+    attributes:
+      label: URL
+      description: |
+        Enter the event page URL for this year. It will be reset at the start of each year.
+      placeholder: https://...
+
+  # - type: textarea
+  #   id: details
+  #   attributes:
+  #     label: Details
+  #     description: |
+  #       * Leave blank to keep the original content.
+  #       * Enter "x" to clear the existing content.
+  #     placeholder: You can add event details here, or any other instructions or tips for dancers.
