@@ -14,6 +14,12 @@ description: ""
 
     [Seriously! Swing Studio](https://swing.kids/cn/seriously-swing-studio) • SSS认真摇摆工作室  
 
+!!! warning "Date TBC"
+
+    The event's specific date has not yet been confirmed or updated; it is provided for reference only.
+
+    [Submit Date](https://github.com/swingdance/events/issues/new?assignees=&labels=update+event+date&projects=&template=04-update_event_date.yml&title=%5B2026%2Fcn%5D%20Westlake%20Swing%20Carnival&region=cn&year=2026&id=westlake-swing-carnival&date_starts=2026-08-01&date_ends=2026-08-01)
+
 ## Contact
 
 

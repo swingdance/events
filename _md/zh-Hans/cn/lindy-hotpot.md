@@ -13,12 +13,9 @@ description: "2026-03-20 ~ 2026-03-22"
 
     [Swing Chongqing](https://swing.kids/cn/swing-chong-qing) • 山城摇摆  
 
-## 联系
+!!! quote "活动详情链接"
 
-
----
-
- [:fontawesome-brands-weixin:{ .ky_social_links_icon }](https://mp.weixin.qq.com/s/2TXRLe3fuNhNiSjv6rdhNQ){ target='_blank' }
+    [https://mp.weixin.qq.com/s/d0CyT3sCDfTW9oEvpGWcog](https://mp.weixin.qq.com/s/d0CyT3sCDfTW9oEvpGWcog){ target='_blank' }
 
 ---
 

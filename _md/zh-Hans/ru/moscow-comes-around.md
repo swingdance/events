@@ -1,14 +1,14 @@
 ---
 title: Moscow Comes Around
 subtitle: MCA
-description: ""
+description: "2026-09-11 ~ 2026-09-13"
 tags:
   - Balboa
 ---
 
 # Moscow Comes Around 
 
-:fontawesome-solid-calendar-days:{ .ky_list_leading_icon } 2026-09  
+:fontawesome-solid-calendar-days:{ .ky_list_leading_icon } 2026-09-11 ~ 2026-09-13  
 :fontawesome-solid-location-dot:{ .ky_list_leading_icon } 莫斯科  
 
 ## 联系
@@ -22,6 +22,7 @@ tags:
 
 ---
 
+[添加到日历](https://swing.news/ics/zh-Hans/ru/moscow-comes-around.ics){ .md-button }
 
 <div class="ky_page_footer" markdown>
 <div class="ky_page_footer_trailing" markdown="span">
@@ -29,7 +30,7 @@ tags:
 [:material-file-edit-outline:][edit-info]{ target='_blank' }
 </div>
 <div class="ky_page_footer_leading" markdown="span">
-[:material-clock-edit-outline: 2024-07-11 13:35 UTC][view-edit-history]{ .ky_page_footer_history_button target='_blank' }
+[:material-clock-edit-outline: 2026-01-29 08:00 UTC][view-edit-history]{ .ky_page_footer_history_button target='_blank' }
 </div>
 </div>
 

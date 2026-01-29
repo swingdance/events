@@ -14,6 +14,12 @@ tags:
 
     [Swing Beijing](https://swing.kids/cn/swing-beijing) • 摇摆北京  
 
+!!! warning "Date TBC"
+
+    The event's specific date has not yet been confirmed or updated; it is provided for reference only.
+
+    [Submit Date](https://github.com/swingdance/events/issues/new?assignees=&labels=update+event+date&projects=&template=04-update_event_date.yml&title=%5B2026%2Fcn%5D%20Bal%20In%20Beijing&region=cn&year=2026&id=bal-in-beijing&date_starts=2026-07-01&date_ends=2026-07-01)
+
 ## Contact
 
 

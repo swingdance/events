@@ -8,6 +8,12 @@ description: ""
 :fontawesome-solid-calendar-days:{ .ky_list_leading_icon } 2026-09  
 :fontawesome-solid-location-dot:{ .ky_list_leading_icon } Bangkok  
 
+!!! warning "Date TBC"
+
+    The event's specific date has not yet been confirmed or updated; it is provided for reference only.
+
+    [Submit Date](https://github.com/swingdance/events/issues/new?assignees=&labels=update+event+date&projects=&template=04-update_event_date.yml&title=%5B2026%2Fth%5D%20Diga%20Diga%20Doo&region=th&year=2026&id=diga-diga-doo&date_starts=2026-09-01&date_ends=2026-09-01)
+
 ## Contact
 
 :fontawesome-solid-globe:{ .ky_list_leading_icon } <https://sites.google.com/view/diga-diga-doo>{ target='_blank' }  

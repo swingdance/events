@@ -10,6 +10,12 @@ tags:
 :fontawesome-solid-calendar-days:{ .ky_list_leading_icon } 2026-09  
 :fontawesome-solid-location-dot:{ .ky_list_leading_icon } 芝加哥  
 
+!!! warning "日期待确定"
+
+    活动的具体日期尚未确定或更新，仅供参考。
+
+    [提供日期](https://github.com/swingdance/events/issues/new?assignees=&labels=update+event+date&projects=&template=04-update_event_date.yml&title=%5B2026%2Fus%5D%20Great%20Lakes%20Balboa%20Escape&region=us&year=2026&id=great-lakes-balboa-escape&date_starts=2026-09-01&date_ends=2026-09-01)
+
 ## 联系
 
 :fontawesome-solid-globe:{ .ky_list_leading_icon } <https://www.greatlakesbalboaescape.com>{ target='_blank' }  

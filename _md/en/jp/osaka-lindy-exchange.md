@@ -12,6 +12,12 @@ description: ""
 
     [Osaka Swing](https://swing.kids/jp/osaka-swing) • 大阪スイング  
 
+!!! warning "Date TBC"
+
+    The event's specific date has not yet been confirmed or updated; it is provided for reference only.
+
+    [Submit Date](https://github.com/swingdance/events/issues/new?assignees=&labels=update+event+date&projects=&template=04-update_event_date.yml&title=%5B2026%2Fjp%5D%20Osaka%20Lindy%20Exchange&region=jp&year=2026&id=osaka-lindy-exchange&date_starts=2026-10-01&date_ends=2026-10-01)
+
 ## Contact
 
 :fontawesome-solid-globe:{ .ky_list_leading_icon } <https://osakalindyexchange.com>{ target='_blank' }  

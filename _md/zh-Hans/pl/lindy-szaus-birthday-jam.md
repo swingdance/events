@@ -8,6 +8,12 @@ description: ""
 :fontawesome-solid-calendar-days:{ .ky_list_leading_icon } 2026-01  
 :fontawesome-solid-location-dot:{ .ky_list_leading_icon } 弗罗茨瓦夫  
 
+!!! warning "日期待确定"
+
+    活动的具体日期尚未确定或更新，仅供参考。
+
+    [提供日期](https://github.com/swingdance/events/issues/new?assignees=&labels=update+event+date&projects=&template=04-update_event_date.yml&title=%5B2026%2Fpl%5D%20Lindy%20Szau%E2%80%99s%20Birthday%20Jam&region=pl&year=2026&id=lindy-szaus-birthday-jam&date_starts=2026-01-01&date_ends=2026-01-01)
+
 ## 联系
 
 :fontawesome-solid-globe:{ .ky_list_leading_icon } <https://www.birthdayjam.pl>{ target='_blank' }  

@@ -13,6 +13,12 @@ description: ""
 
     [Amoy Swing](https://swing.kids/cn/amoy-swing)  
 
+!!! warning "日期待确定"
+
+    活动的具体日期尚未确定或更新，仅供参考。
+
+    [提供日期](https://github.com/swingdance/events/issues/new?assignees=&labels=update+event+date&projects=&template=04-update_event_date.yml&title=%5B2026%2Fcn%5D%20Island%20Swing&region=cn&year=2026&id=island-swing&date_starts=2026-09-01&date_ends=2026-09-01)
+
 ---
 
 

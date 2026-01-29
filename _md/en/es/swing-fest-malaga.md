@@ -8,6 +8,12 @@ description: ""
 :fontawesome-solid-calendar-days:{ .ky_list_leading_icon } 2026-10  
 :fontawesome-solid-location-dot:{ .ky_list_leading_icon } Malaga  
 
+!!! warning "Date TBC"
+
+    The event's specific date has not yet been confirmed or updated; it is provided for reference only.
+
+    [Submit Date](https://github.com/swingdance/events/issues/new?assignees=&labels=update+event+date&projects=&template=04-update_event_date.yml&title=%5B2026%2Fes%5D%20Swing%20Fest%20Malaga&region=es&year=2026&id=swing-fest-malaga&date_starts=2026-10-01&date_ends=2026-10-01)
+
 ## Contact
 
 :fontawesome-solid-globe:{ .ky_list_leading_icon } <https://swingfestmalaga.webador.es/>{ target='_blank' }  

@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:swing-news_zh-Hans_ru_moscow-comes-around
+DTSTART;VALUE=DATE:20260911
+DTEND;VALUE=DATE:20260914
+SUMMARY:[MCA ] Moscow Comes Around
+URL:https://swing.news/zh-Hans/ru/moscow-comes-around
+LOCATION:莫斯科
+END:VEVENT
+END:VCALENDAR

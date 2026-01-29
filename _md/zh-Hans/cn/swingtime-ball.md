@@ -13,6 +13,12 @@ description: ""
 
     [Cat's Corner Studio](https://swing.kids/cn/cats-corner-studio) • 猫角工作室  
 
+!!! warning "日期待确定"
+
+    活动的具体日期尚未确定或更新，仅供参考。
+
+    [提供日期](https://github.com/swingdance/events/issues/new?assignees=&labels=update+event+date&projects=&template=04-update_event_date.yml&title=%5B2026%2Fcn%5D%20Swingtime%20Ball&region=cn&year=2026&id=swingtime-ball&date_starts=2026-11-01&date_ends=2026-11-01)
+
 ## 联系
 
 :fontawesome-solid-envelope:{ .ky_list_leading_icon } <info@swingtimeball.com>  

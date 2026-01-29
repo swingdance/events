@@ -16,12 +16,9 @@ tags:
     [Tabby the Cat](https://swing.kids/cn/tabby-the-cat) • Tabby the Cat 摇摆舞工作室  
     [Swing Land](https://swing.kids/cn/swing-land) • 摇摆乐园  
 
-## Contact
+!!! quote "Event Details URL"
 
-
----
-
- [:fontawesome-brands-weixin:{ .ky_social_links_icon }](https://mp.weixin.qq.com/s/BQGPmsxg2s9FizHpb76YDw){ target='_blank' }
+    [https://mp.weixin.qq.com/s/BQGPmsxg2s9FizHpb76YDw](https://mp.weixin.qq.com/s/BQGPmsxg2s9FizHpb76YDw){ target='_blank' }
 
 ---
 

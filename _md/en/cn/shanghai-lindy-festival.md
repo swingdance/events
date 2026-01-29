@@ -14,6 +14,12 @@ description: ""
 
     [Downtown Swing](https://swing.kids/cn/downtown-swing) • Downtown Swing 上海摇摆  
 
+!!! warning "Date TBC"
+
+    The event's specific date has not yet been confirmed or updated; it is provided for reference only.
+
+    [Submit Date](https://github.com/swingdance/events/issues/new?assignees=&labels=update+event+date&projects=&template=04-update_event_date.yml&title=%5B2026%2Fcn%5D%20Shanghai%20Lindy%20Festival&region=cn&year=2026&id=shanghai-lindy-festival&date_starts=2026-12-01&date_ends=2026-12-01)
+
 ???+ venue "Venue"
 
     上海徐汇瑞峰酒店  

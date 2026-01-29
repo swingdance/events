@@ -16,6 +16,12 @@ tags:
 
     [Swing Travels](https://swing.kids/cn/swing-travels) • 摇摆之旅  
 
+!!! warning "Date TBC"
+
+    The event's specific date has not yet been confirmed or updated; it is provided for reference only.
+
+    [Submit Date](https://github.com/swingdance/events/issues/new?assignees=&labels=update+event+date&projects=&template=04-update_event_date.yml&title=%5B2026%2Fcn%5D%20Beijing%20Balboa%20Travel&region=cn&year=2026&id=beijing-balboa-travel&date_starts=2026-01-01&date_ends=2026-01-01)
+
 ---
 
 

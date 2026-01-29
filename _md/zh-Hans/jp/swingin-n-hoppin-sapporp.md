@@ -12,6 +12,12 @@ description: ""
 
     [Sapporo Swing Dance](https://swing.kids/jp/sapporo-swing-dance)  
 
+!!! warning "日期待确定"
+
+    活动的具体日期尚未确定或更新，仅供参考。
+
+    [提供日期](https://github.com/swingdance/events/issues/new?assignees=&labels=update+event+date&projects=&template=04-update_event_date.yml&title=%5B2026%2Fjp%5D%20Swingin%27%20%26%20Hoppin%27%20Sapporp&region=jp&year=2026&id=swingin-n-hoppin-sapporp&date_starts=2026-06-01&date_ends=2026-06-01)
+
 ## 联系
 
 

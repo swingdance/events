@@ -1,10 +1,12 @@
 ---
 title: Harbourside Swing Fest
+subtitle: HSF
 description: "2026-04-24 ~ 2026-04-26"
 ---
 
 # Harbourside Swing Fest 
 
+:fontawesome-solid-ticket:{ .ky_list_leading_icon } 港畔摇摆节  
 :fontawesome-solid-calendar-days:{ .ky_list_leading_icon } 2026-04-24 ~ 2026-04-26  
 :fontawesome-solid-location-dot:{ .ky_list_leading_icon } HK  
 
@@ -19,7 +21,7 @@ description: "2026-04-24 ~ 2026-04-26"
 
 ---
 
- [:fontawesome-brands-facebook-f:{ .ky_social_links_icon }](https://www.facebook.com/profile.php?id=61551775018028){ target='_blank' } [:fontawesome-brands-instagram:{ .ky_social_links_icon }](https://instagram.com/HarboursideSwingFest){ target='_blank' } [:fontawesome-brands-weixin:{ .ky_social_links_icon }](https://mp.weixin.qq.com/s/BrtaRGLzJ-M-7Fi4DBX6gg){ target='_blank' }
+ [:fontawesome-brands-facebook-f:{ .ky_social_links_icon }](https://www.facebook.com/profile.php?id=61551775018028){ target='_blank' } [:fontawesome-brands-instagram:{ .ky_social_links_icon }](https://instagram.com/HarboursideSwingFest){ target='_blank' }
 
 ---
 

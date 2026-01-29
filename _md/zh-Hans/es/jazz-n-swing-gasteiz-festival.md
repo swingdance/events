@@ -8,6 +8,12 @@ description: ""
 :fontawesome-solid-calendar-days:{ .ky_list_leading_icon } 2026-07  
 :fontawesome-solid-location-dot:{ .ky_list_leading_icon } 维多利亚  
 
+!!! warning "日期待确定"
+
+    活动的具体日期尚未确定或更新，仅供参考。
+
+    [提供日期](https://github.com/swingdance/events/issues/new?assignees=&labels=update+event+date&projects=&template=04-update_event_date.yml&title=%5B2026%2Fes%5D%20Jazz%20%26%20Swing%20Gasteiz%20Festival&region=es&year=2026&id=jazz-n-swing-gasteiz-festival&date_starts=2026-07-01&date_ends=2026-07-01)
+
 ## 联系
 
 :fontawesome-solid-globe:{ .ky_list_leading_icon } <https://swingverguenza.com/2024/03/09/save-the-data-jazzswing/>{ target='_blank' }  

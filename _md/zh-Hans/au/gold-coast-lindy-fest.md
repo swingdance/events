@@ -8,6 +8,12 @@ description: ""
 :fontawesome-solid-calendar-days:{ .ky_list_leading_icon } 2026-07  
 :fontawesome-solid-location-dot:{ .ky_list_leading_icon } 黃金海岸  
 
+!!! warning "日期待确定"
+
+    活动的具体日期尚未确定或更新，仅供参考。
+
+    [提供日期](https://github.com/swingdance/events/issues/new?assignees=&labels=update+event+date&projects=&template=04-update_event_date.yml&title=%5B2026%2Fau%5D%20Gold%20Coast%20Lindy%20Fest&region=au&year=2026&id=gold-coast-lindy-fest&date_starts=2026-07-01&date_ends=2026-07-01)
+
 ## 联系
 
 

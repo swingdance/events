@@ -15,6 +15,12 @@ tags:
 
     [Downtown Swing](https://swing.kids/cn/downtown-swing) • Downtown Swing 上海摇摆  
 
+!!! warning "Date TBC"
+
+    The event's specific date has not yet been confirmed or updated; it is provided for reference only.
+
+    [Submit Date](https://github.com/swingdance/events/issues/new?assignees=&labels=update+event+date&projects=&template=04-update_event_date.yml&title=%5B2026%2Fcn%5D%20Balboa%20Festival&region=cn&year=2026&id=balboa-festival&date_starts=2026-06-01&date_ends=2026-06-01)
+
 ???+ venue "Venue"
 
     Downtown Swing studio, Room 407 No.285 West JianGuo Road, Shanghai, China.  

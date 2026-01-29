@@ -10,6 +10,12 @@ tags:
 :fontawesome-solid-calendar-days:{ .ky_list_leading_icon } 2026-07  
 :fontawesome-solid-location-dot:{ .ky_list_leading_icon } 杜姆奧斯  
 
+!!! warning "日期待确定"
+
+    活动的具体日期尚未确定或更新，仅供参考。
+
+    [提供日期](https://github.com/swingdance/events/issues/new?assignees=&labels=update+event+date&projects=&template=04-update_event_date.yml&title=%5B2026%2Fno%5D%20Boogie%20Feet%27s%20Festival&region=no&year=2026&id=boogie-feets-festival&date_starts=2026-07-01&date_ends=2026-07-01)
+
 ## 联系
 
 :fontawesome-solid-envelope:{ .ky_list_leading_icon } <boogiefeetsfestival@gmail.com>  

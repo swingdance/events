@@ -10,6 +10,12 @@ tags:
 :fontawesome-solid-calendar-days:{ .ky_list_leading_icon } 2026-09  
 :fontawesome-solid-location-dot:{ .ky_list_leading_icon } Torquay  
 
+!!! warning "Date TBC"
+
+    The event's specific date has not yet been confirmed or updated; it is provided for reference only.
+
+    [Submit Date](https://github.com/swingdance/events/issues/new?assignees=&labels=update+event+date&projects=&template=04-update_event_date.yml&title=%5B2026%2Fuk%5D%20BalBreak%20at%20the%20Livermead%20Cliff&region=uk&year=2026&id=bal-break-at-the-livermead-cliff&date_starts=2026-09-01&date_ends=2026-09-01)
+
 ## Contact
 
 :fontawesome-solid-envelope:{ .ky_list_leading_icon } <team@dancebalboa.co.uk>  

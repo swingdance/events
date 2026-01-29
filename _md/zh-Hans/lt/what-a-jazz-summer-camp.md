@@ -8,6 +8,12 @@ description: ""
 :fontawesome-solid-calendar-days:{ .ky_list_leading_icon } 2026-08  
 :fontawesome-solid-location-dot:{ .ky_list_leading_icon } 朱奥多尼  
 
+!!! warning "日期待确定"
+
+    活动的具体日期尚未确定或更新，仅供参考。
+
+    [提供日期](https://github.com/swingdance/events/issues/new?assignees=&labels=update+event+date&projects=&template=04-update_event_date.yml&title=%5B2026%2Flt%5D%20What%20a%20Jazz%20Summer%20Camp&region=lt&year=2026&id=what-a-jazz-summer-camp&date_starts=2026-08-01&date_ends=2026-08-01)
+
 ???+ venue "场地"
 
     Broniaus sodyba, Juodonys  

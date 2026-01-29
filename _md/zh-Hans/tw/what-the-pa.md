@@ -13,6 +13,12 @@ description: ""
 
     [Naughty Swing](https://swing.kids/tw/naughty-swing) • Naughty Swing 搖擺舞團  
 
+!!! warning "日期待确定"
+
+    活动的具体日期尚未确定或更新，仅供参考。
+
+    [提供日期](https://github.com/swingdance/events/issues/new?assignees=&labels=update+event+date&projects=&template=04-update_event_date.yml&title=%5B2026%2Ftw%5D%20What%20The%20PA%21&region=tw&year=2026&id=what-the-pa&date_starts=2026-11-01&date_ends=2026-11-01)
+
 ???+ venue "场地"
 
     中山堂光復廳  

@@ -10,6 +10,12 @@ tags:
 :fontawesome-solid-calendar-days:{ .ky_list_leading_icon } 2026-11  
 :fontawesome-solid-location-dot:{ .ky_list_leading_icon } 伯恩  
 
+!!! warning "日期待确定"
+
+    活动的具体日期尚未确定或更新，仅供参考。
+
+    [提供日期](https://github.com/swingdance/events/issues/new?assignees=&labels=update+event+date&projects=&template=04-update_event_date.yml&title=%5B2026%2Fch%5D%20Rocky%20Balberna&region=ch&year=2026&id=rocky-balberna&date_starts=2026-11-01&date_ends=2026-11-01)
+
 ## 联系
 
 :fontawesome-solid-globe:{ .ky_list_leading_icon } <https://www.rockybalberna.com>{ target='_blank' }  

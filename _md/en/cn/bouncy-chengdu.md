@@ -13,12 +13,9 @@ description: "2026-04-10 ~ 2026-04-12"
 
     [Hi Swing](https://swing.kids/cn/hi-swing) • 摇摆成都  
 
-## Contact
+!!! quote "Event Details URL"
 
-
----
-
- [:fontawesome-brands-weixin:{ .ky_social_links_icon }](https://mp.weixin.qq.com/s/Py70j1XSL4jzZcmVYS4Saw){ target='_blank' }
+    [https://mp.weixin.qq.com/s/586xN2cgqi3Z1KuWMoJskQ](https://mp.weixin.qq.com/s/586xN2cgqi3Z1KuWMoJskQ){ target='_blank' }
 
 ---
 

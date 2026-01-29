@@ -10,6 +10,12 @@ tags:
 :fontawesome-solid-calendar-days:{ .ky_list_leading_icon } 2026-08  
 :fontawesome-solid-location-dot:{ .ky_list_leading_icon } 维尔纽斯  
 
+!!! warning "日期待确定"
+
+    活动的具体日期尚未确定或更新，仅供参考。
+
+    [提供日期](https://github.com/swingdance/events/issues/new?assignees=&labels=update+event+date&projects=&template=04-update_event_date.yml&title=%5B2026%2Flt%5D%20Bluesila&region=lt&year=2026&id=bluesila&date_starts=2026-08-01&date_ends=2026-08-01)
+
 ## 联系
 
 :fontawesome-solid-globe:{ .ky_list_leading_icon } <https://bluesdance.lt/bluesila-2024-information-registration>{ target='_blank' }  

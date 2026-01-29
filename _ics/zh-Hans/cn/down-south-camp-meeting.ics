@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:swing-news_zh-Hans_cn_down-south-camp-meeting
+DTSTART;VALUE=DATE:20260116
+DTEND;VALUE=DATE:20260119
+SUMMARY:[DSCM ] Down South Camp Meeting
+URL:https://swing.news/zh-Hans/cn/down-south-camp-meeting
+LOCATION:深圳
+END:VEVENT
+END:VCALENDAR

@@ -9,6 +9,12 @@ description: ""
 :fontawesome-solid-calendar-days:{ .ky_list_leading_icon } 2026-06  
 :fontawesome-solid-location-dot:{ .ky_list_leading_icon } Seoul  
 
+!!! warning "Date TBC"
+
+    The event's specific date has not yet been confirmed or updated; it is provided for reference only.
+
+    [Submit Date](https://github.com/swingdance/events/issues/new?assignees=&labels=update+event+date&projects=&template=04-update_event_date.yml&title=%5B2026%2Fkr%5D%20Rhythm%20Korea&region=kr&year=2026&id=rhythm-korea&date_starts=2026-06-01&date_ends=2026-06-01)
+
 ## Contact
 
 :fontawesome-solid-envelope:{ .ky_list_leading_icon } <rhythmkoreaevent@gmail.com>  

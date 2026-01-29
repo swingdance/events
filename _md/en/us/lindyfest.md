@@ -12,6 +12,12 @@ description: ""
 
     [Houston Swing Dance Society](https://swing.kids/us/houston-swing-dance-society)  
 
+!!! warning "Date TBC"
+
+    The event's specific date has not yet been confirmed or updated; it is provided for reference only.
+
+    [Submit Date](https://github.com/swingdance/events/issues/new?assignees=&labels=update+event+date&projects=&template=04-update_event_date.yml&title=%5B2026%2Fus%5D%20Lindyfest&region=us&year=2026&id=lindyfest&date_starts=2026-03-01&date_ends=2026-03-01)
+
 ## Contact
 
 

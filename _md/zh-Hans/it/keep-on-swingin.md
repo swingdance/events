@@ -8,6 +8,12 @@ description: ""
 :fontawesome-solid-calendar-days:{ .ky_list_leading_icon } 2026-01  
 :fontawesome-solid-location-dot:{ .ky_list_leading_icon } 佛罗伦萨  
 
+!!! warning "日期待确定"
+
+    活动的具体日期尚未确定或更新，仅供参考。
+
+    [提供日期](https://github.com/swingdance/events/issues/new?assignees=&labels=update+event+date&projects=&template=04-update_event_date.yml&title=%5B2026%2Fit%5D%20Keep%20On%20Swingin%E2%80%99&region=it&year=2026&id=keep-on-swingin&date_starts=2026-01-01&date_ends=2026-01-01)
+
 ## 联系
 
 :fontawesome-solid-envelope:{ .ky_list_leading_icon } <info@swingstudio22.it>  

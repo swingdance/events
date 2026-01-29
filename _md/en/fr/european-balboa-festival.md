@@ -11,6 +11,12 @@ tags:
 :fontawesome-solid-calendar-days:{ .ky_list_leading_icon } 2026-12  
 :fontawesome-solid-location-dot:{ .ky_list_leading_icon } Toulouse  
 
+!!! warning "Date TBC"
+
+    The event's specific date has not yet been confirmed or updated; it is provided for reference only.
+
+    [Submit Date](https://github.com/swingdance/events/issues/new?assignees=&labels=update+event+date&projects=&template=04-update_event_date.yml&title=%5B2026%2Ffr%5D%20European%20Balboa%20Festival&region=fr&year=2026&id=european-balboa-festival&date_starts=2026-12-01&date_ends=2026-12-01)
+
 ## Contact
 
 :fontawesome-solid-envelope:{ .ky_list_leading_icon } <studiohop@studiohop.com>  

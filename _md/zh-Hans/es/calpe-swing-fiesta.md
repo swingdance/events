@@ -8,6 +8,12 @@ description: ""
 :fontawesome-solid-calendar-days:{ .ky_list_leading_icon } 2026-09  
 :fontawesome-solid-location-dot:{ .ky_list_leading_icon } 卡尔佩  
 
+!!! warning "日期待确定"
+
+    活动的具体日期尚未确定或更新，仅供参考。
+
+    [提供日期](https://github.com/swingdance/events/issues/new?assignees=&labels=update+event+date&projects=&template=04-update_event_date.yml&title=%5B2026%2Fes%5D%20Calpe%20Swing%20Fiesta&region=es&year=2026&id=calpe-swing-fiesta&date_starts=2026-09-01&date_ends=2026-09-01)
+
 ## 联系
 
 :fontawesome-solid-envelope:{ .ky_list_leading_icon } <Lindyclub@gmail.com>  

@@ -8,6 +8,12 @@ description: ""
 :fontawesome-solid-calendar-days:{ .ky_list_leading_icon } 2026-09  
 :fontawesome-solid-location-dot:{ .ky_list_leading_icon } Stuttgart  
 
+!!! warning "Date TBC"
+
+    The event's specific date has not yet been confirmed or updated; it is provided for reference only.
+
+    [Submit Date](https://github.com/swingdance/events/issues/new?assignees=&labels=update+event+date&projects=&template=04-update_event_date.yml&title=%5B2026%2Fde%5D%20Flying%20Feet%20Stuttgart&region=de&year=2026&id=flying-feet-stuttgart&date_starts=2026-09-01&date_ends=2026-09-01)
+
 ## Contact
 
 :fontawesome-solid-globe:{ .ky_list_leading_icon } <https://www.swingkultur.de/veranstaltungen/28/290924-flying-feet-stuttgart>{ target='_blank' }  
