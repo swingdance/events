@@ -7,7 +7,7 @@ body:
   - type: markdown
     attributes:
       value: |
-        Before getting started, make sure you have found the event you want by providing the Year, Region and Event ID.
+        Before getting started, make sure you have found the event you want by providing the Region and Event ID.
         If you cannot find the corresponding one, email directly to dev+swing@kjuly.com.
 
   - type: input
@@ -17,7 +17,7 @@ body:
       description: |
         The region code used to group your event.
         Please choose the appropriate one according to your country or region.
-        * [Currently Collected Regions](https://swing.news/submit)
+        * [Currently Collected Regions](https://swing.news/regions)
         * If you cannot find the corresponding one, use "Add Region" or email directly to dev+swing@kjuly.com.
       placeholder: e.g., cn
     validations:
