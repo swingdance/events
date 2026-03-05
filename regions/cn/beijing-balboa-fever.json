@@ -4,13 +4,14 @@
   "abb": "BBF",
   "name": "Beijing Balboa Fever",
   "name_local": "北京巴尔博亚热旋风交流节",
-  "date_starts": "2026-05-01",
-  "date_ends": "2026-05-01",
+  "date_starts": "2026-05-29",
+  "date_ends": "2026-05-31",
   "styles": "Balboa",
   "city": "Beijing",
   "province": "Beijing",
   "wo": "https://mp.weixin.qq.com/s/wkRreGmarOQq-p-NdT_2QQ",
+  "event_url": "https://mp.weixin.qq.com/s/hSoNUAUkgQ6ACh3d1vD6rQ",
   "past": "2025-05-16_05-18",
-  "updated_at": "2025-02-15 06:11",
+  "updated_at": "2026-03-05 09:47",
   "contributors": ";Kjuly;"
 }

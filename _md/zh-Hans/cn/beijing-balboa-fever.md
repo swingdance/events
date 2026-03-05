@@ -1,7 +1,7 @@
 ---
 title: Beijing Balboa Fever
 subtitle: BBF
-description: ""
+description: "2026-05-29 ~ 2026-05-31"
 tags:
   - Balboa
 ---
@@ -9,18 +9,16 @@ tags:
 # Beijing Balboa Fever 
 
 :fontawesome-solid-ticket:{ .ky_list_leading_icon } 北京巴尔博亚热旋风交流节  
-:fontawesome-solid-calendar-days:{ .ky_list_leading_icon } 2026-05  
+:fontawesome-solid-calendar-days:{ .ky_list_leading_icon } 2026-05-29 ~ 2026-05-31  
 :fontawesome-solid-location-dot:{ .ky_list_leading_icon } 北京  
 
 !!! info "组织方"
 
     [Swing Beasts](https://swing.kids/cn/swing-beasts) • 摇摆野兽  
 
-!!! warning "日期待确定"
+!!! quote "活动详情链接"
 
-    活动的具体日期尚未确定或更新，仅供参考。
-
-    [提供日期](https://github.com/swingdance/events/issues/new?assignees=&labels=update+event+date&projects=&template=04-update_event_date.yml&title=%5B2026%2Fcn%5D%20Beijing%20Balboa%20Fever&region=cn&year=2026&id=beijing-balboa-fever&date_starts=2026-05-01&date_ends=2026-05-01){ target='_blank' }
+    [https://mp.weixin.qq.com/s/hSoNUAUkgQ6ACh3d1vD6rQ](https://mp.weixin.qq.com/s/hSoNUAUkgQ6ACh3d1vD6rQ){ target='_blank' }
 
 ## 联系
 
@@ -31,6 +29,7 @@ tags:
 
 ---
 
+[添加到日历](https://swing.news/ics/zh-Hans/cn/beijing-balboa-fever.ics){ .md-button }
 
 <div class="ky_page_footer" markdown>
 <div class="ky_page_footer_trailing" markdown="span">
@@ -38,7 +37,7 @@ tags:
 [:material-file-edit-outline:][edit-info]{ target='_blank' }
 </div>
 <div class="ky_page_footer_leading" markdown="span">
-[:material-clock-edit-outline: 2025-02-15 06:11 UTC][view-edit-history]{ .ky_page_footer_history_button target='_blank' }
+[:material-clock-edit-outline: 2026-03-05 09:47 UTC][view-edit-history]{ .ky_page_footer_history_button target='_blank' }
 </div>
 </div>
 
