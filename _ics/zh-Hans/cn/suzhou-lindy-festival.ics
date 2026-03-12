@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:swing-news_zh-Hans_cn_suzhou-lindy-festival
+DTSTART;VALUE=DATE:20260417
+DTEND;VALUE=DATE:20260420
+SUMMARY:Suzhou Lindy Festival • 苏州林迪舞节
+URL:https://swing.news/zh-Hans/cn/suzhou-lindy-festival
+LOCATION:苏州
+END:VEVENT
+END:VCALENDAR
