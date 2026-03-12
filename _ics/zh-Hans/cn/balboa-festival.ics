@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:swing-news_zh-Hans_cn_balboa-festival
+DTSTART;VALUE=DATE:20260626
+DTEND;VALUE=DATE:20260629
+SUMMARY:[BF ] Balboa Festival
+URL:https://swing.news/zh-Hans/cn/balboa-festival
+LOCATION:上海
+END:VEVENT
+END:VCALENDAR

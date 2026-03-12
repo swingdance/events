@@ -3,14 +3,15 @@
   "org_id": "downtown-swing",
   "abb": "BF",
   "name": "Balboa Festival",
-  "date_starts": "2026-06-01",
-  "date_ends": "2026-06-01",
+  "date_starts": "2026-06-26",
+  "date_ends": "2026-06-28",
   "styles": "Balboa",
   "city": "Shanghai",
   "province": "Shanghai",
   "venue": "Downtown Swing studio, Room 407 No.285 West JianGuo Road, Shanghai, China.",
   "email": "balboafestival@163.com",
+  "event_url": "https://mp.weixin.qq.com/s/U6n8S9-OixZnts4WTxj95Q",
   "past": "2024-06-28_06-30",
-  "updated_at": "2024-06-30 10:35",
+  "updated_at": "2026-03-12 12:20",
   "contributors": ";Kjuly;"
 }
