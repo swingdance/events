@@ -3,13 +3,14 @@
   "org_id": "swing-land",
   "name": "Camp California Weekend",
   "name_local": "端午加州训练营",
-  "date_starts": "2026-05-01",
-  "date_ends": "2026-05-01",
+  "date_starts": "2026-09-11",
+  "date_ends": "2026-09-14",
   "styles": "Balboa",
   "city": "Beijing",
   "province": "Beijing",
   "wo": "https://mp.weixin.qq.com/s/eWtOHKPgD4axoUhZbQFLmQ",
+  "event_url": "https://mp.weixin.qq.com/s/yj1JKmpfCr98okXEqOhKUQ?scene=334",
   "past": "2025-05-31_06-02",
-  "updated_at": "2025-02-15 06:08",
+  "updated_at": "2026-04-12 06:43",
   "contributors": ";Kjuly;"
 }
