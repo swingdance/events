@@ -1,18 +1,12 @@
 ---
 title: Cheek to Cheek Swing Festival
-description: ""
+description: "2026-01-02 ~ 2026-01-05"
 ---
 
 # Cheek to Cheek Swing Festival 
 
-:fontawesome-solid-calendar-days:{ .ky_list_leading_icon } 2026-01  
+:fontawesome-solid-calendar-days:{ .ky_list_leading_icon } 2026-01-02 ~ 2026-01-05  
 :fontawesome-solid-location-dot:{ .ky_list_leading_icon } Taipei  
-
-!!! warning "Date TBC"
-
-    The event's specific date has not yet been confirmed or updated; it is provided for reference only.
-
-    [Submit Date](https://github.com/swingdance/events/issues/new?assignees=&labels=update+event+date&projects=&template=04-update_event_date.yml&title=%5B2026%2Ftw%5D%20Cheek%20to%20Cheek%20Swing%20Festival&region=tw&year=2026&id=cheek-to-cheek-swing-festival&date_starts=2026-01-01&date_ends=2026-01-01){ target='_blank' }
 
 ## Contact
 
@@ -25,6 +19,7 @@ description: ""
 
 ---
 
+[Add to Calendar](https://swing.news/ics/en/tw/cheek-to-cheek-swing-festival.ics){ .md-button }
 
 <div class="ky_page_footer" markdown>
 <div class="ky_page_footer_trailing" markdown="span">
@@ -32,7 +27,7 @@ description: ""
 [:material-file-edit-outline:][edit-info]{ target='_blank' }
 </div>
 <div class="ky_page_footer_leading" markdown="span">
-[:material-clock-edit-outline: 2024-08-06 13:11 UTC][view-edit-history]{ .ky_page_footer_history_button target='_blank' }
+[:material-clock-edit-outline: 2026-04-12 07:15 UTC][view-edit-history]{ .ky_page_footer_history_button target='_blank' }
 </div>
 </div>
 
