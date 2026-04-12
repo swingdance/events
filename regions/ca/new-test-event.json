@@ -1,0 +1,11 @@
+{
+  "id": "new-test-event",
+  "org_id": "new-test-event",
+  "name": "New Test Event",
+  "date_starts": "2026-01-01",
+  "date_ends": "2026-01-03",
+  "city": "Xiamen",
+  "province": "Xiamen",
+  "updated_at": "2026-04-12 07:20",
+  "contributors": ";Kjuly;"
+}
