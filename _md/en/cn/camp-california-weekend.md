@@ -1,6 +1,6 @@
 ---
 title: Camp California Weekend
-description: ""
+description: "2026-09-11 ~ 2026-09-14"
 tags:
   - Balboa
 ---
@@ -8,18 +8,16 @@ tags:
 # Camp California Weekend 
 
 :fontawesome-solid-ticket:{ .ky_list_leading_icon } 端午加州训练营  
-:fontawesome-solid-calendar-days:{ .ky_list_leading_icon } 2026-05  
+:fontawesome-solid-calendar-days:{ .ky_list_leading_icon } 2026-09-11 ~ 2026-09-14  
 :fontawesome-solid-location-dot:{ .ky_list_leading_icon } Beijing  
 
 !!! info "Organizer"
 
     [Swing Land](https://swing.kids/cn/swing-land) • 摇摆乐园  
 
-!!! warning "Date TBC"
+!!! quote "Event Details URL"
 
-    The event's specific date has not yet been confirmed or updated; it is provided for reference only.
-
-    [Submit Date](https://github.com/swingdance/events/issues/new?assignees=&labels=update+event+date&projects=&template=04-update_event_date.yml&title=%5B2026%2Fcn%5D%20Camp%20California%20Weekend&region=cn&year=2026&id=camp-california-weekend&date_starts=2026-05-01&date_ends=2026-05-01){ target='_blank' }
+    [https://mp.weixin.qq.com/s/yj1JKmpfCr98okXEqOhKUQ?scene=334](https://mp.weixin.qq.com/s/yj1JKmpfCr98okXEqOhKUQ?scene=334){ target='_blank' }
 
 ## Contact
 
@@ -30,6 +28,7 @@ tags:
 
 ---
 
+[Add to Calendar](https://swing.news/ics/en/cn/camp-california-weekend.ics){ .md-button }
 
 <div class="ky_page_footer" markdown>
 <div class="ky_page_footer_trailing" markdown="span">
@@ -37,7 +36,7 @@ tags:
 [:material-file-edit-outline:][edit-info]{ target='_blank' }
 </div>
 <div class="ky_page_footer_leading" markdown="span">
-[:material-clock-edit-outline: 2025-02-15 06:08 UTC][view-edit-history]{ .ky_page_footer_history_button target='_blank' }
+[:material-clock-edit-outline: 2026-04-12 06:43 UTC][view-edit-history]{ .ky_page_footer_history_button target='_blank' }
 </div>
 </div>
 
