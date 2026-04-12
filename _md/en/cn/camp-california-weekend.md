@@ -1,5 +1,6 @@
 ---
 title: Camp California Weekend
+subtitle: CCW
 description: "2026-09-11 ~ 2026-09-14"
 tags:
   - Balboa
@@ -7,7 +8,6 @@ tags:
 
 # Camp California Weekend 
 
-:fontawesome-solid-ticket:{ .ky_list_leading_icon } 端午加州训练营  
 :fontawesome-solid-calendar-days:{ .ky_list_leading_icon } 2026-09-11 ~ 2026-09-14  
 :fontawesome-solid-location-dot:{ .ky_list_leading_icon } Beijing  
 
@@ -36,7 +36,7 @@ tags:
 [:material-file-edit-outline:][edit-info]{ target='_blank' }
 </div>
 <div class="ky_page_footer_leading" markdown="span">
-[:material-clock-edit-outline: 2026-04-12 06:43 UTC][view-edit-history]{ .ky_page_footer_history_button target='_blank' }
+[:material-clock-edit-outline: 2026-04-12 06:46 UTC][view-edit-history]{ .ky_page_footer_history_button target='_blank' }
 </div>
 </div>
 
